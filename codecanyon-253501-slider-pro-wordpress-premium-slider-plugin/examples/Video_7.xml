@@ -1,0 +1,619 @@
+<?xml version="1.0"?>
+<slider>
+  <name><![CDATA[Video]]></name>
+  <settings>
+    <slide_width>1072</slide_width>
+    <slide_height>421</slide_height>
+    <width>1080</width>
+    <height>483</height>
+    <responsive>0</responsive>
+    <aspect_ratio>-1</aspect_ratio>
+    <skin>pixel</skin>
+    <include_skin>0</include_skin>
+    <shadow>1</shadow>
+    <border>1</border>
+    <glow>1</glow>
+    <align_type>centerCenter</align_type>
+    <scale_type>outsideFit</scale_type>
+    <allow_scale_up>0</allow_scale_up>
+    <lazy_loading>0</lazy_loading>
+    <preload_nearby_images>0</preload_nearby_images>
+    <shuffle>0</shuffle>
+    <slide_start>0</slide_start>
+    <disable_right_click>0</disable_right_click>
+    <slideshow>1</slideshow>
+    <slideshow_delay>10000</slideshow_delay>
+    <slideshow_loop>1</slideshow_loop>
+    <pause_slideshow_on_hover>0</pause_slideshow_on_hover>
+    <slideshow_direction>next</slideshow_direction>
+    <slideshow_controls>0</slideshow_controls>
+    <slideshow_controls_toggle>1</slideshow_controls_toggle>
+    <slideshow_controls_show_duration>500</slideshow_controls_show_duration>
+    <slideshow_controls_hide_duration>500</slideshow_controls_hide_duration>
+    <keyboard_navigation>0</keyboard_navigation>
+    <keyboard_navigation_on_focus_only>0</keyboard_navigation_on_focus_only>
+    <slide_arrows>1</slide_arrows>
+    <slide_arrows_toggle>1</slide_arrows_toggle>
+    <slide_arrows_show_duration>500</slide_arrows_show_duration>
+    <slide_arrows_hide_duration>500</slide_arrows_hide_duration>
+    <slide_buttons>1</slide_buttons>
+    <slide_buttons_center>1</slide_buttons_center>
+    <slide_buttons_container_center>1</slide_buttons_container_center>
+    <slide_buttons_toggle>0</slide_buttons_toggle>
+    <slide_buttons_show_duration>500</slide_buttons_show_duration>
+    <slide_buttons_hide_duration>500</slide_buttons_hide_duration>
+    <slide_buttons_number>0</slide_buttons_number>
+    <auto_toggle>0</auto_toggle>
+    <auto_toggle_delay>5000</auto_toggle_delay>
+    <lightbox>0</lightbox>
+    <lightbox_gallery>1</lightbox_gallery>
+    <lightbox_theme>pp_default</lightbox_theme>
+    <lightbox_opacity>0.8</lightbox_opacity>
+    <ligthbox_allow_resize>1</ligthbox_allow_resize>
+    <lightbox_autoplay>0</lightbox_autoplay>
+    <lightbox_autoplay_delay>5000</lightbox_autoplay_delay>
+    <lightbox_video_autoplay>1</lightbox_video_autoplay>
+    <lightbox_icon>1</lightbox_icon>
+    <lightbox_icon_toggle>0</lightbox_icon_toggle>
+    <lightbox_icon_fade_duration>500</lightbox_icon_fade_duration>
+    <thumbnail_lightbox_icon>1</thumbnail_lightbox_icon>
+    <thumbnail_lightbox_icon_toggle>1</thumbnail_lightbox_icon_toggle>
+    <fullscreen_controls>0</fullscreen_controls>
+    <fullscreen_controls_toggle>0</fullscreen_controls_toggle>
+    <fullscreen_controls_show_duration>500</fullscreen_controls_show_duration>
+    <fullscreen_controls_hide_duration>500</fullscreen_controls_hide_duration>
+    <fullscreen_thumbnail_scroller_overlay>1</fullscreen_thumbnail_scroller_overlay>
+    <fullscreen_slide_buttons>0</fullscreen_slide_buttons>
+    <fullscreen_shadow>0</fullscreen_shadow>
+    <timer_animation>1</timer_animation>
+    <timer_animation_controls>1</timer_animation_controls>
+    <timer_toggle>0</timer_toggle>
+    <timer_fade_duration>500</timer_fade_duration>
+    <timer_radius>18</timer_radius>
+    <timer_stroke_color1>#ffffff</timer_stroke_color1>
+    <timer_stroke_color2>#000000</timer_stroke_color2>
+    <timer_stroke_opacity1>0.3</timer_stroke_opacity1>
+    <timer_stroke_opacity2>0.3</timer_stroke_opacity2>
+    <timer_stroke_width1>6</timer_stroke_width1>
+    <timer_stroke_width2>3</timer_stroke_width2>
+    <effect_type>fade</effect_type>
+    <initial_effect>1</initial_effect>
+    <html_during_transition>1</html_during_transition>
+    <override_transition>1</override_transition>
+    <slide_direction>autoHorizontal</slide_direction>
+    <slide_loop>0</slide_loop>
+    <slide_duration>700</slide_duration>
+    <slide_easing>swing</slide_easing>
+    <slice_effect_type>random</slice_effect_type>
+    <horizontal_slices>5</horizontal_slices>
+    <vertical_slices>3</vertical_slices>
+    <slice_pattern>random</slice_pattern>
+    <slice_duration>1000</slice_duration>
+    <slice_delay>50</slice_delay>
+    <slice_point>centerCenter</slice_point>
+    <slice_fade>1</slice_fade>
+    <slice_easing>swing</slice_easing>
+    <slice_start_position>left</slice_start_position>
+    <slice_start_ratio>1</slice_start_ratio>
+    <slide_mask>0</slide_mask>
+    <fade_previous_slide>0</fade_previous_slide>
+    <fade_previous_slide_duration>300</fade_previous_slide_duration>
+    <fade_in_duration>700</fade_in_duration>
+    <fade_out_duration>700</fade_out_duration>
+    <fade_in_easing>swing</fade_in_easing>
+    <fade_out_easing>swing</fade_out_easing>
+    <swipe_orientation>horizontal</swipe_orientation>
+    <swipe_threshold>50</swipe_threshold>
+    <swipe_duration>700</swipe_duration>
+    <swipe_back_duration>300</swipe_back_duration>
+    <swipe_slide_distance>10</swipe_slide_distance>
+    <swipe_easing>swing</swipe_easing>
+    <swipe_mouse_drag>1</swipe_mouse_drag>
+    <swipe_touch_drag>1</swipe_touch_drag>
+    <swipe_grab_cursor>1</swipe_grab_cursor>
+    <thumbnail_type>tooltip</thumbnail_type>
+    <thumbnail_width>80</thumbnail_width>
+    <thumbnail_height>50</thumbnail_height>
+    <thumbnail_border>1</thumbnail_border>
+    <thumbnail_background>1</thumbnail_background>
+    <thumbnail_glow>1</thumbnail_glow>
+    <thumbnail_slide_amount>10</thumbnail_slide_amount>
+    <thumbnail_slide_duration>300</thumbnail_slide_duration>
+    <thumbnail_slide_easing>swing</thumbnail_slide_easing>
+    <thumbnail_orientation>horizontal</thumbnail_orientation>
+    <thumbnail_layers>1</thumbnail_layers>
+    <maximum_visible_thumbnails>5</maximum_visible_thumbnails>
+    <minimum_visible_thumbnails>1</minimum_visible_thumbnails>
+    <thumbnail_scroller_responsive>0</thumbnail_scroller_responsive>
+    <thumbnail_scroller_overlay>0</thumbnail_scroller_overlay>
+    <thumbnail_sync>1</thumbnail_sync>
+    <thumbnail_scroller_toggle>0</thumbnail_scroller_toggle>
+    <thumbnail_scroller_hide_duration>500</thumbnail_scroller_hide_duration>
+    <thumbnail_scroller_show_duration>500</thumbnail_scroller_show_duration>
+    <thumbnail_scroller_center>1</thumbnail_scroller_center>
+    <thumbnail_swipe>0</thumbnail_swipe>
+    <thumbnail_swipe_threshold>50</thumbnail_swipe_threshold>
+    <thumbnail_swipe_back_duration>300</thumbnail_swipe_back_duration>
+    <thumbnail_swipe_mouse_drag>1</thumbnail_swipe_mouse_drag>
+    <thumbnail_swipe_touch_drag>1</thumbnail_swipe_touch_drag>
+    <thumbnail_swipe_grab_cursor>1</thumbnail_swipe_grab_cursor>
+    <thumbnail_scroll_duration>1000</thumbnail_scroll_duration>
+    <thumbnail_scroll_easing>swing</thumbnail_scroll_easing>
+    <thumbnail_arrows>1</thumbnail_arrows>
+    <thumbnail_arrows_toggle>0</thumbnail_arrows_toggle>
+    <thumbnail_arrows_hide_duration>500</thumbnail_arrows_hide_duration>
+    <thumbnail_arrows_show_duration>500</thumbnail_arrows_show_duration>
+    <thumbnail_buttons>0</thumbnail_buttons>
+    <thumbnail_buttons_toggle>0</thumbnail_buttons_toggle>
+    <thumbnail_buttons_hide_duration>500</thumbnail_buttons_hide_duration>
+    <thumbnail_buttons_show_duration>500</thumbnail_buttons_show_duration>
+    <thumbnail_scrollbar>0</thumbnail_scrollbar>
+    <scrollbar_skin>scrollbar-1</scrollbar_skin>
+    <thumbnail_scrollbar_toggle>0</thumbnail_scrollbar_toggle>
+    <thumbnail_scrollbar_hide_duration>500</thumbnail_scrollbar_hide_duration>
+    <thumbnail_scrollbar_show_duration>500</thumbnail_scrollbar_show_duration>
+    <thumbnail_scrollbar_ease>10</thumbnail_scrollbar_ease>
+    <scrollbar_arrow_scroll_amount>100</scrollbar_arrow_scroll_amount>
+    <thumbnail_mouse_scroll>0</thumbnail_mouse_scroll>
+    <thumbnail_mouse_scroll_speed>10</thumbnail_mouse_scroll_speed>
+    <thumbnail_mouse_scroll_ease>90</thumbnail_mouse_scroll_ease>
+    <thumbnail_mouse_wheel>0</thumbnail_mouse_wheel>
+    <thumbnail_mouse_wheel_speed>20</thumbnail_mouse_wheel_speed>
+    <thumbnail_mouse_wheel_reverse>0</thumbnail_mouse_wheel_reverse>
+    <thumbnail_caption>1</thumbnail_caption>
+    <thumbnail_caption_position>bottom</thumbnail_caption_position>
+    <thumbnail_caption_effect>slide</thumbnail_caption_effect>
+    <thumbnail_caption_toggle>1</thumbnail_caption_toggle>
+    <thumbnail_caption_show_duration>500</thumbnail_caption_show_duration>
+    <thumbnail_caption_hide_duration>500</thumbnail_caption_hide_duration>
+    <thumbnail_caption_easing>swing</thumbnail_caption_easing>
+    <thumbnail_tooltip>0</thumbnail_tooltip>
+    <tooltip_show_duration>300</tooltip_show_duration>
+    <tooltip_hide_duration>300</tooltip_hide_duration>
+    <video_play_action>stopSlideshow</video_play_action>
+    <video_pause_action>none</video_pause_action>
+    <video_end_action>startSlideshow</video_end_action>
+    <reach_video_action>none</reach_video_action>
+    <leave_video_action>pauseVideo</leave_video_action>
+    <jwplayer_path></jwplayer_path>
+    <jwplayer_skin></jwplayer_skin>
+    <slide_resizing_resize>0</slide_resizing_resize>
+    <slide_resizing_align>c</slide_resizing_align>
+    <slide_resizing_crop>1</slide_resizing_crop>
+    <slide_resizing_quality>95</slide_resizing_quality>
+    <slide_resizing_width>auto</slide_resizing_width>
+    <slide_resizing_height>auto</slide_resizing_height>
+    <thumbnail_resizing_resize>1</thumbnail_resizing_resize>
+    <thumbnail_resizing_align>c</thumbnail_resizing_align>
+    <thumbnail_resizing_crop>1</thumbnail_resizing_crop>
+    <thumbnail_resizing_quality>95</thumbnail_resizing_quality>
+    <custom_class>video-slider</custom_class>
+    <enable_custom_css>1</enable_custom_css>
+    <enable_custom_js>0</enable_custom_js>
+  </settings>
+  <panels_state>
+    <publish>opened</publish>
+    <general>opened</general>
+    <slideshow>closed</slideshow>
+    <slideshow-General>opened</slideshow-General>
+    <slideshow-Controls>opened</slideshow-Controls>
+    <slide_navigation_controls>closed</slide_navigation_controls>
+    <slide_navigation_controls-Keyboard>opened</slide_navigation_controls-Keyboard>
+    <slide_navigation_controls-SlideArrows>opened</slide_navigation_controls-SlideArrows>
+    <slide_navigation_controls-SlideButtons>opened</slide_navigation_controls-SlideButtons>
+    <slide_navigation_controls-AutoToggle>opened</slide_navigation_controls-AutoToggle>
+    <lightbox>closed</lightbox>
+    <lightbox-General>opened</lightbox-General>
+    <lightbox-Autoplay>opened</lightbox-Autoplay>
+    <lightbox-Icons>opened</lightbox-Icons>
+    <fullscreen>closed</fullscreen>
+    <timer_animation>closed</timer_animation>
+    <timer_animation-General>opened</timer_animation-General>
+    <timer_animation-GraphicStyle>opened</timer_animation-GraphicStyle>
+    <transition_effects>closed</transition_effects>
+    <transition_effects-General>opened</transition_effects-General>
+    <transition_effects-SlideTransition>opened</transition_effects-SlideTransition>
+    <transition_effects-SliceTransition>opened</transition_effects-SliceTransition>
+    <transition_effects-FadeTransition>opened</transition_effects-FadeTransition>
+    <transition_effects-SwipeTransition>opened</transition_effects-SwipeTransition>
+    <thumbnails>closed</thumbnails>
+    <thumbnails-General>opened</thumbnails-General>
+    <thumbnails-Style>opened</thumbnails-Style>
+    <thumbnails-TooltipThumbnails>opened</thumbnails-TooltipThumbnails>
+    <thumbnails-ThumbnailScroller>opened</thumbnails-ThumbnailScroller>
+    <thumbnails-ThumbnailSwipe>opened</thumbnails-ThumbnailSwipe>
+    <thumbnails-Scrolling>opened</thumbnails-Scrolling>
+    <thumbnails-Arrows>opened</thumbnails-Arrows>
+    <thumbnails-Buttons>opened</thumbnails-Buttons>
+    <thumbnails-Scrollbar>opened</thumbnails-Scrollbar>
+    <thumbnails-MouseScroll>opened</thumbnails-MouseScroll>
+    <thumbnails-MouseWheel>opened</thumbnails-MouseWheel>
+    <thumbnails-Caption>opened</thumbnails-Caption>
+    <thumbnails-Tooltip>opened</thumbnails-Tooltip>
+    <video>closed</video>
+    <video-Actions>opened</video-Actions>
+    <video-JWPlayer>opened</video-JWPlayer>
+    <timthumb_resizing>closed</timthumb_resizing>
+    <timthumb_resizing-Slide>opened</timthumb_resizing-Slide>
+    <timthumb_resizing-Thumbnail>opened</timthumb_resizing-Thumbnail>
+    <slides_order>closed</slides_order>
+    <custom_js_css>closed</custom_js_css>
+  </panels_state>
+  <custom_css><![CDATA[.video-slider {
+	font-family: Verdana;
+	font-size: 14px;
+}
+
+
+.video-slider .slide {
+	background-color: #EEEEEE;	
+}
+
+
+.video-slider .timer-animation {
+	top: 10px;
+	right: 10px;	
+}
+
+
+.video-slider .title {
+	font-size: 24px;
+	margin-bottom: 10px;
+}
+
+
+.video-slider .content p {
+	font-size: 12px;
+	margin-top: 10px;
+}
+
+
+.video-slider .link {
+	font-size: 14px;
+	position: absolute;
+	bottom: 0;
+}
+
+
+.video-slider .link a {
+	font-size: 12px;
+	color: #666666;
+}]]></custom_css>
+  <slides>
+    <slide>
+      <id>426</id>
+      <slider_id>35</slider_id>
+      <name><![CDATA[The Cathedral - YouTube]]></name>
+      <content>
+        <image><![CDATA[]]></image>
+        <alt><![CDATA[]]></alt>
+        <title><![CDATA[]]></title>
+        <thumbnail_image><![CDATA[]]></thumbnail_image>
+        <thumbnail_alt><![CDATA[]]></thumbnail_alt>
+        <thumbnail_title><![CDATA[]]></thumbnail_title>
+        <thumbnail_content><![CDATA[]]></thumbnail_content>
+        <layer_1_content><![CDATA[[slider_pro_video type=\&quot;youtube\&quot; mode=\&quot;lazy-load\&quot; id=\&quot;msIjWthwWwI\&quot; poster=\&quot;http://bqworks.com/products/advanced-slider/images/v4/videos/cathedral.jpg\&quot; width=\&quot;700\&quot; height=\&quot;400\&quot;]]]></layer_1_content>
+        <layer_2_content><![CDATA[&lt;div class=\&quot;title\&quot;&gt; 
+   &lt;p&gt;Cathedral&lt;/p&gt;
+&lt;/div&gt;
+					
+&lt;div class=\&quot;content\&quot;&gt; 
+   &lt;p&gt;The film is based on a short story by Jacek Dukaj under the same title. In 2002 \&quot;Cathedral\&quot; was awarded the main prize at SIGGRAPH festival (\&quot;Best Animated Short\&quot;). A year later it received an Oscar nomination in the category \&quot;Best Animated Short Film\&quot;.&lt;/p&gt;
+   &lt;p&gt;SYNOPSIS: Story of a pilgrim who comes to the Cathedral on the border of the known world. He wants to find answers. He finds tranquility.&lt;/p&gt;
+   &lt;p&gt;DIRECTOR: Tomasz Baginski&lt;/p&gt;
+&lt;/div&gt;
+					
+&lt;div class=\&quot;link\&quot;&gt;
+   &lt;p&gt;SOURCE: &lt;a href=\&quot;http://www.youtube.com/watch?v=msIjWthwWwI\&quot; target=\&quot;_blank\&quot;&gt;youtube.com/watch?v=msIjWthwWwI&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;]]></layer_2_content>
+        <slide_link_path><![CDATA[]]></slide_link_path>
+        <slide_link_title><![CDATA[]]></slide_link_title>
+        <thumbnail_link_path><![CDATA[]]></thumbnail_link_path>
+        <thumbnail_link_title><![CDATA[]]></thumbnail_link_title>
+      </content>
+      <settings>
+        <layers_num>2</layers_num>
+        <layers_ids>+1+2+</layers_ids>
+        <layer_1_settings>layer_transition=none+layer_offset=50+layer_easing=swing+layer_duration=400+layer_delay=0+layer_position=topLeft+layer_horizontal=6+layer_vertical=6+layer_width=auto+layer_height=auto+layer_preset_styles=static</layer_1_settings>
+        <layer_2_settings>layer_transition=none+layer_offset=50+layer_easing=swing+layer_duration=400+layer_delay=0+layer_position=topLeft+layer_horizontal=720+layer_vertical=6+layer_width=340+layer_height=408+layer_preset_styles=static</layer_2_settings>
+        <slide_link_target>_self</slide_link_target>
+        <slide_link_lightbox>0</slide_link_lightbox>
+        <thumbnail_link_target>_self</thumbnail_link_target>
+        <thumbnail_link_lightbox>0</thumbnail_link_lightbox>
+        <slide_type>static</slide_type>
+      </settings>
+      <position>1</position>
+      <panel_state>opened</panel_state>
+      <selected_tab>2</selected_tab>
+      <visibility>enabled</visibility>
+    </slide>
+    <slide>
+      <id>427</id>
+      <slider_id>35</slider_id>
+      <name><![CDATA[ARK - Vimeo]]></name>
+      <content>
+        <image><![CDATA[]]></image>
+        <alt><![CDATA[]]></alt>
+        <title><![CDATA[]]></title>
+        <thumbnail_image><![CDATA[]]></thumbnail_image>
+        <thumbnail_alt><![CDATA[]]></thumbnail_alt>
+        <thumbnail_title><![CDATA[]]></thumbnail_title>
+        <thumbnail_content><![CDATA[]]></thumbnail_content>
+        <layer_1_content><![CDATA[[slider_pro_video type=\&quot;vimeo\&quot; mode=\&quot;lazy-load\&quot; id=\&quot;3116167\&quot; poster=\&quot;http://bqworks.com/products/advanced-slider/images/v4/videos/ark.jpg\&quot; width=\&quot;700\&quot; height=\&quot;400\&quot;]]]></layer_1_content>
+        <layer_2_content><![CDATA[&lt;div class=\&quot;title\&quot;&gt; 
+   &lt;p&gt;ARK&lt;/p&gt;
+&lt;/div&gt;
+					
+&lt;div class=\&quot;content\&quot;&gt; 
+   &lt;p&gt;An unknown virus has destroyed almost the entire human population. Oblivious to the true nature of the disease, the only remaining survivors escape to the sea. In great ships, they set off in search of uninhabited land. So begins the exodus, led by one man.&lt;/p&gt;
+   &lt;p&gt;DIRECTOR: Grzegorz Jonkajtys&lt;/p&gt;
+   &lt;p&gt;PRODUCERS: Grzegorz Jonkajtys, Marcin Kobylecki&lt;/p&gt;
+   &lt;p&gt;CO-PRODUCERS: Piotr Sikora, Jaroslaw Sawko (Platige Image)&lt;/p&gt;
+&lt;/div&gt;
+					
+&lt;div class=\&quot;link\&quot;&gt;
+   &lt;p&gt;SOURCE: &lt;a href=\&quot;http://vimeo.com/3116167\&quot; target=\&quot;_blank\&quot;&gt;vimeo.com/3116167&lt;/a&gt;&lt;/p&gt;						
+&lt;/div&gt;]]></layer_2_content>
+        <slide_link_path><![CDATA[]]></slide_link_path>
+        <slide_link_title><![CDATA[]]></slide_link_title>
+        <thumbnail_link_path><![CDATA[]]></thumbnail_link_path>
+        <thumbnail_link_title><![CDATA[]]></thumbnail_link_title>
+      </content>
+      <settings>
+        <layers_num>2</layers_num>
+        <layers_ids>+1+2+</layers_ids>
+        <layer_1_settings>layer_transition=none+layer_offset=50+layer_easing=swing+layer_duration=400+layer_delay=0+layer_position=topLeft+layer_horizontal=6+layer_vertical=6+layer_width=auto+layer_height=auto+layer_preset_styles=static</layer_1_settings>
+        <layer_2_settings>layer_transition=none+layer_offset=50+layer_easing=swing+layer_duration=400+layer_delay=0+layer_position=topLeft+layer_horizontal=720+layer_vertical=6+layer_width=340+layer_height=408+layer_preset_styles=static</layer_2_settings>
+        <slide_link_target>_self</slide_link_target>
+        <slide_link_lightbox>0</slide_link_lightbox>
+        <thumbnail_link_target>_self</thumbnail_link_target>
+        <thumbnail_link_lightbox>0</thumbnail_link_lightbox>
+        <effect_type>slide</effect_type>
+        <slide_easing>easeInOutExpo</slide_easing>
+        <slide_type>static</slide_type>
+      </settings>
+      <position>2</position>
+      <panel_state>opened</panel_state>
+      <selected_tab>2</selected_tab>
+      <visibility>enabled</visibility>
+    </slide>
+    <slide>
+      <id>428</id>
+      <slider_id>35</slider_id>
+      <name><![CDATA[Sintel - VideoJS]]></name>
+      <content>
+        <image><![CDATA[]]></image>
+        <alt><![CDATA[]]></alt>
+        <title><![CDATA[]]></title>
+        <thumbnail_image><![CDATA[]]></thumbnail_image>
+        <thumbnail_alt><![CDATA[]]></thumbnail_alt>
+        <thumbnail_title><![CDATA[]]></thumbnail_title>
+        <thumbnail_content><![CDATA[]]></thumbnail_content>
+        <layer_1_content><![CDATA[ [slider_pro_video type=\&quot;video-js\&quot; poster=\&quot;http://bqworks.com/products/assets/videos/sintel/sintel-poster.jpg\&quot; source1=\&quot;http://bqworks.com/products/assets/videos/sintel/sintel-trailer.mp4\&quot; source2=\&quot;http://bqworks.com/products/assets/videos/sintel/sintel-trailer.ogv\&quot; width=\&quot;700\&quot; height=\&quot;400\&quot;] ]]></layer_1_content>
+        <layer_2_content><![CDATA[&lt;div class=\&quot;title\&quot;&gt; 
+   &lt;p&gt;Sintel&lt;/p&gt;
+&lt;/div&gt;
+					
+&lt;div class=\&quot;content\&quot;&gt; 
+   &lt;p&gt;\&quot;Sintel\&quot; is an independently produced short film, initiated by the Blender Foundation as a means to further improve and validate the free/open source 3D creation suite Blender. With initial funding provided by 1000s of donations via the internet community, it has again proven to be a viable development model for both open 3D technology as for independent animation film.&lt;/p&gt;
+   &lt;p&gt;This 15 minute film has been realized in the studio of the Amsterdam Blender Institute, by an international team of artists and developers. In addition to that, several crucial technical and creative targets have been realized online, by developers and artists and teams all over the world.&lt;/p&gt;
+&lt;/div&gt;
+					
+&lt;div class=\&quot;link\&quot;&gt;
+   &lt;p&gt;SOURCE: &lt;a href=\&quot;http://www.sintel.org/\&quot; target=\&quot;_blank\&quot;&gt;sintel.org&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;]]></layer_2_content>
+        <slide_link_path><![CDATA[]]></slide_link_path>
+        <slide_link_title><![CDATA[]]></slide_link_title>
+        <thumbnail_link_path><![CDATA[]]></thumbnail_link_path>
+        <thumbnail_link_title><![CDATA[]]></thumbnail_link_title>
+      </content>
+      <settings>
+        <layers_num>2</layers_num>
+        <layers_ids>+1+2+</layers_ids>
+        <layer_1_settings>layer_transition=none+layer_offset=50+layer_easing=swing+layer_duration=400+layer_delay=0+layer_position=topLeft+layer_horizontal=6+layer_vertical=6+layer_width=auto+layer_height=auto+layer_preset_styles=static</layer_1_settings>
+        <layer_2_settings>layer_transition=none+layer_offset=50+layer_easing=swing+layer_duration=400+layer_delay=0+layer_position=topLeft+layer_horizontal=720+layer_vertical=6+layer_width=340+layer_height=408+layer_preset_styles=static</layer_2_settings>
+        <slide_link_target>_self</slide_link_target>
+        <slide_link_lightbox>0</slide_link_lightbox>
+        <thumbnail_link_target>_self</thumbnail_link_target>
+        <thumbnail_link_lightbox>0</thumbnail_link_lightbox>
+        <slide_type>static</slide_type>
+      </settings>
+      <position>3</position>
+      <panel_state>opened</panel_state>
+      <selected_tab>2</selected_tab>
+      <visibility>enabled</visibility>
+    </slide>
+    <slide>
+      <id>429</id>
+      <slider_id>35</slider_id>
+      <name><![CDATA[The Thomas Beale Cipher - YouTube]]></name>
+      <content>
+        <image><![CDATA[]]></image>
+        <alt><![CDATA[]]></alt>
+        <title><![CDATA[]]></title>
+        <thumbnail_image><![CDATA[]]></thumbnail_image>
+        <thumbnail_alt><![CDATA[]]></thumbnail_alt>
+        <thumbnail_title><![CDATA[]]></thumbnail_title>
+        <thumbnail_content><![CDATA[]]></thumbnail_content>
+        <layer_1_content><![CDATA[[slider_pro_video type=\&quot;youtube\&quot; mode=\&quot;lazy-load\&quot; id=\&quot;sKMxtfMSPTM\&quot; poster=\&quot;http://bqworks.com/products/advanced-slider/images/v4/videos/cipher.jpg\&quot; width=\&quot;700\&quot; height=\&quot;400\&quot;]]]></layer_1_content>
+        <layer_2_content><![CDATA[&lt;div class=\&quot;title\&quot;&gt; 
+   &lt;p&gt;The Thomas Beale Cipher&lt;/p&gt;
+&lt;/div&gt;
+					
+&lt;div class=\&quot;content\&quot;&gt; 
+   &lt;p&gt;Based on a true legend of the famous unsolved code. The film contains 16 hidden messages that hold clues to the characters\' secrets. Eight are fairly easy requiring only a close eye. Six are moderately difficult using various encryption methods. Two are extremely difficult requiring a genius mind to decrypt.&lt;/p&gt;
+   &lt;p&gt;More about the film: &lt;a href=\&quot;http://thomasbealecipher.com\&quot; target=\&quot;_blank\&quot;&gt;thomasbealecipher.com&lt;/a&gt;&lt;/p&gt;
+   &lt;p&gt;Distributed by Short of the Week: &lt;a href=\&quot;http://shortoftheweek.com\&quot; target=\&quot;_blank\&quot;&gt;shortoftheweek.com&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;
+					
+&lt;div class=\&quot;link\&quot;&gt;
+   &lt;p&gt;SOURCE: &lt;a href=\&quot;http://www.youtube.com/watch?v=sKMxtfMSPTM\&quot; target=\&quot;_blank\&quot;&gt;youtube.com/watch?v=sKMxtfMSPTM&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;]]></layer_2_content>
+        <slide_link_path><![CDATA[]]></slide_link_path>
+        <slide_link_title><![CDATA[]]></slide_link_title>
+        <thumbnail_link_path><![CDATA[]]></thumbnail_link_path>
+        <thumbnail_link_title><![CDATA[]]></thumbnail_link_title>
+      </content>
+      <settings>
+        <layers_num>2</layers_num>
+        <layers_ids>+1+2+</layers_ids>
+        <layer_1_settings>layer_transition=none+layer_offset=50+layer_easing=swing+layer_duration=400+layer_delay=0+layer_position=topLeft+layer_horizontal=6+layer_vertical=6+layer_width=auto+layer_height=auto+layer_preset_styles=static</layer_1_settings>
+        <layer_2_settings>layer_transition=none+layer_offset=50+layer_easing=swing+layer_duration=400+layer_delay=0+layer_position=topLeft+layer_horizontal=720+layer_vertical=6+layer_width=340+layer_height=408+layer_preset_styles=static</layer_2_settings>
+        <slide_link_target>_self</slide_link_target>
+        <slide_link_lightbox>0</slide_link_lightbox>
+        <thumbnail_link_target>_self</thumbnail_link_target>
+        <thumbnail_link_lightbox>0</thumbnail_link_lightbox>
+        <effect_type>slide</effect_type>
+        <slide_easing>easeInOutExpo</slide_easing>
+        <slide_type>static</slide_type>
+      </settings>
+      <position>4</position>
+      <panel_state>opened</panel_state>
+      <selected_tab>2</selected_tab>
+      <visibility>enabled</visibility>
+    </slide>
+    <slide>
+      <id>430</id>
+      <slider_id>35</slider_id>
+      <name><![CDATA[Resonance - Vimeo]]></name>
+      <content>
+        <image><![CDATA[]]></image>
+        <alt><![CDATA[]]></alt>
+        <title><![CDATA[]]></title>
+        <thumbnail_image><![CDATA[]]></thumbnail_image>
+        <thumbnail_alt><![CDATA[]]></thumbnail_alt>
+        <thumbnail_title><![CDATA[]]></thumbnail_title>
+        <thumbnail_content><![CDATA[]]></thumbnail_content>
+        <layer_1_content><![CDATA[[slider_pro_video type=\&quot;vimeo\&quot; mode=\&quot;lazy-load\&quot; id=\&quot;25181651\&quot; poster=\&quot;http://bqworks.com/products/advanced-slider/images/v4/videos/resonance.jpg\&quot; width=\&quot;700\&quot; height=\&quot;400\&quot;]]]></layer_1_content>
+        <layer_2_content><![CDATA[&lt;div class=\&quot;title\&quot;&gt; 
+   &lt;p&gt;Resonance&lt;/p&gt;
+&lt;/div&gt;
+					
+&lt;div class=\&quot;content\&quot;&gt; 
+   &lt;p&gt;Resonance is the vision of SR Partners; a collaborative project with over 30 independent visual and audio designers/studios. The aim was to explore the relationship between geometry and audio in unique ways.&lt;/p&gt;
+   &lt;p&gt;This piece is my approach to the connection between audio and shapes. I tried to give this abstract animation a certain type of emotion, that every movement happening on screen would be more than the sole propose of look cool and sync to the sound. To do this I based this video on a section of John Bunyan\'s \&quot;The Pilgrim\'s Progress\&quot;, when Christian is guided trough the Interpreters House. It\'s a very personal, graphic and non-descriptive explanation of this part of one of my favorite books. It\'s intended more to help me as the animator to give some meaning to the animation rather than narrate the story.&lt;/p&gt;
+&lt;/div&gt;
+					
+&lt;div class=\&quot;link\&quot;&gt;
+   &lt;p&gt;SOURCE: &lt;a href=\&quot;http://vimeo.com/25181651\&quot; target=\&quot;_blank\&quot;&gt;vimeo.com/25181651&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;]]></layer_2_content>
+        <slide_link_path><![CDATA[]]></slide_link_path>
+        <slide_link_title><![CDATA[]]></slide_link_title>
+        <thumbnail_link_path><![CDATA[]]></thumbnail_link_path>
+        <thumbnail_link_title><![CDATA[]]></thumbnail_link_title>
+      </content>
+      <settings>
+        <layers_num>2</layers_num>
+        <layers_ids>+1+2+</layers_ids>
+        <layer_1_settings>layer_transition=none+layer_offset=50+layer_easing=swing+layer_duration=400+layer_delay=0+layer_position=topLeft+layer_horizontal=6+layer_vertical=6+layer_width=auto+layer_height=auto+layer_preset_styles=static</layer_1_settings>
+        <layer_2_settings>layer_transition=none+layer_offset=50+layer_easing=swing+layer_duration=400+layer_delay=0+layer_position=topLeft+layer_horizontal=720+layer_vertical=6+layer_width=340+layer_height=408+layer_preset_styles=static</layer_2_settings>
+        <slide_link_target>_self</slide_link_target>
+        <slide_link_lightbox>0</slide_link_lightbox>
+        <thumbnail_link_target>_self</thumbnail_link_target>
+        <thumbnail_link_lightbox>0</thumbnail_link_lightbox>
+        <slide_type>static</slide_type>
+      </settings>
+      <position>5</position>
+      <panel_state>opened</panel_state>
+      <selected_tab>2</selected_tab>
+      <visibility>enabled</visibility>
+    </slide>
+    <slide>
+      <id>431</id>
+      <slider_id>35</slider_id>
+      <name><![CDATA[Big Buck Bunny - VideoJS]]></name>
+      <content>
+        <image><![CDATA[]]></image>
+        <alt><![CDATA[]]></alt>
+        <title><![CDATA[]]></title>
+        <thumbnail_image><![CDATA[]]></thumbnail_image>
+        <thumbnail_alt><![CDATA[]]></thumbnail_alt>
+        <thumbnail_title><![CDATA[]]></thumbnail_title>
+        <thumbnail_content><![CDATA[]]></thumbnail_content>
+        <layer_1_content><![CDATA[ [slider_pro_video type=\&quot;video-js\&quot; poster=\&quot;http://bqworks.com/products/assets/videos/bbb/bbb-poster.jpg\&quot; source1=\&quot;http://bqworks.com/products/assets/videos/bbb/bbb-trailer.mp4\&quot; source2=\&quot;http://bqworks.com/products/assets/videos/bbb/bbb-trailer.ogg\&quot; width=\&quot;700\&quot; height=\&quot;400\&quot;] ]]></layer_1_content>
+        <layer_2_content><![CDATA[&lt;div class=\&quot;title\&quot;&gt; 
+   &lt;p&gt;Big Buck Bunny&lt;/p&gt;
+&lt;/div&gt;
+					
+&lt;div class=\&quot;content\&quot;&gt; 
+   &lt;p&gt;As a follow-up to the successful project Orange\'s \&quot;Elephants Dream\&quot;, the Blender Foundation initiated another open movie project. Again a small team (7) of the best 3D artists and developers in the Blender community have been invited to come together to work in Amsterdam from October 2007 until April 2008 on completing a short 3D animation movie.&lt;/p&gt;
+   &lt;p&gt;The creative concept of \&quot;Peach\&quot; was completely different as for \&quot;Orange\&quot;. This time it is \&quot;funny and furry\&quot;!&lt;/p&gt;
+   &lt;p&gt;The Blender Foundation and Blender community have been the main financiers for Peach. Additional support from sponsors and subsidy funds has been realized as well.&lt;/p&gt;
+   &lt;p&gt;Peach also was the first Open Project hosted by the new Blender Institute in Amsterdam.&lt;/p&gt;
+&lt;/div&gt;
+					
+&lt;div class=\&quot;link\&quot;&gt;
+   &lt;p&gt;SOURCE: &lt;a href=\&quot;http://www.bigbuckbunny.org\&quot; target=\&quot;_blank\&quot;&gt;bigbuckbunny.org&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;]]></layer_2_content>
+        <slide_link_path><![CDATA[]]></slide_link_path>
+        <slide_link_title><![CDATA[]]></slide_link_title>
+        <thumbnail_link_path><![CDATA[]]></thumbnail_link_path>
+        <thumbnail_link_title><![CDATA[]]></thumbnail_link_title>
+      </content>
+      <settings>
+        <layers_num>2</layers_num>
+        <layers_ids>+1+2+</layers_ids>
+        <layer_1_settings>layer_transition=none+layer_offset=50+layer_easing=swing+layer_duration=400+layer_delay=0+layer_position=topLeft+layer_horizontal=6+layer_vertical=6+layer_width=auto+layer_height=auto+layer_preset_styles=static</layer_1_settings>
+        <layer_2_settings>layer_transition=none+layer_offset=50+layer_easing=swing+layer_duration=400+layer_delay=0+layer_position=topLeft+layer_horizontal=720+layer_vertical=6+layer_width=340+layer_height=408+layer_preset_styles=static</layer_2_settings>
+        <slide_link_target>_self</slide_link_target>
+        <slide_link_lightbox>0</slide_link_lightbox>
+        <thumbnail_link_target>_self</thumbnail_link_target>
+        <thumbnail_link_lightbox>0</thumbnail_link_lightbox>
+        <effect_type>slide</effect_type>
+        <slide_easing>easeInOutExpo</slide_easing>
+        <slide_type>static</slide_type>
+      </settings>
+      <position>6</position>
+      <panel_state>opened</panel_state>
+      <selected_tab>2</selected_tab>
+      <visibility>enabled</visibility>
+    </slide>
+    <slide>
+      <id>432</id>
+      <slider_id>35</slider_id>
+      <name><![CDATA[Zero - YouTube]]></name>
+      <content>
+        <image><![CDATA[]]></image>
+        <alt><![CDATA[]]></alt>
+        <title><![CDATA[]]></title>
+        <thumbnail_image><![CDATA[]]></thumbnail_image>
+        <thumbnail_alt><![CDATA[]]></thumbnail_alt>
+        <thumbnail_title><![CDATA[]]></thumbnail_title>
+        <thumbnail_content><![CDATA[]]></thumbnail_content>
+        <layer_1_content><![CDATA[[slider_pro_video type=\&quot;youtube\&quot; mode=\&quot;lazy-load\&quot; id=\&quot;LOMbySJTKpg\&quot; poster=\&quot;http://bqworks.com/products/advanced-slider/images/v4/videos/zero.jpg\&quot; width=\&quot;700\&quot; height=\&quot;400\&quot;]]]></layer_1_content>
+        <layer_2_content><![CDATA[&lt;div class=\&quot;title\&quot;&gt; 
+   &lt;p&gt;Zero&lt;/p&gt;
+&lt;/div&gt;
+					
+&lt;div class=\&quot;content\&quot;&gt; 
+   &lt;p&gt;In a world that judges people by their number, Zero faces constant prejudice and persecution. He walks a lonely path until a chance encounter changes his life forever: he meets a female zero. Together they prove that through determination, courage, and love, nothing can be truly something.&lt;/p&gt;
+   &lt;p&gt;Zero has screened in over 50 festivals and has won 15 awards including \'Best Animation\' from LA Shorts Fest and the Rhode Island International Film Festival and has been nominated for an AFI Award in the \'Best Short Animation\' category.&lt;/p&gt;
+   &lt;p&gt;DIRECTOR: Christopher Kezelos has recently relocated to Los Angeles from Sydney, Australia and is seeking new Directing opportunities. To get in touch, you can contact him &lt;a href=\&quot;http://www.zealouscreative.com/contact/\&quot; target=\&quot;_blank\&quot;&gt;here&lt;/a&gt;. To view a trailer for his latest work \&quot;The Maker\&quot;, check out: &lt;a href=\&quot;&gt;http://themakerfilm.com\&quot; target=\&quot;_blank\&quot;&gt;http://themakerfilm.com&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;
+					
+&lt;div class=\&quot;link\&quot;&gt;
+   &lt;p&gt;SOURCE: &lt;a href=\&quot;http://www.youtube.com/watch?v=LOMbySJTKpg\&quot; target=\&quot;_blank\&quot;&gt;youtube.com/watch?v=LOMbySJTKpg&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;]]></layer_2_content>
+        <slide_link_path><![CDATA[]]></slide_link_path>
+        <slide_link_title><![CDATA[]]></slide_link_title>
+        <thumbnail_link_path><![CDATA[]]></thumbnail_link_path>
+        <thumbnail_link_title><![CDATA[]]></thumbnail_link_title>
+      </content>
+      <settings>
+        <layers_num>2</layers_num>
+        <layers_ids>+1+2+</layers_ids>
+        <layer_1_settings>layer_transition=none+layer_offset=50+layer_easing=swing+layer_duration=400+layer_delay=0+layer_position=topLeft+layer_horizontal=6+layer_vertical=6+layer_width=auto+layer_height=auto+layer_preset_styles=static</layer_1_settings>
+        <layer_2_settings>layer_transition=none+layer_offset=50+layer_easing=swing+layer_duration=400+layer_delay=0+layer_position=topLeft+layer_horizontal=720+layer_vertical=6+layer_width=340+layer_height=408+layer_preset_styles=static</layer_2_settings>
+        <slide_link_target>_self</slide_link_target>
+        <slide_link_lightbox>0</slide_link_lightbox>
+        <thumbnail_link_target>_self</thumbnail_link_target>
+        <thumbnail_link_lightbox>0</thumbnail_link_lightbox>
+        <slide_type>static</slide_type>
+      </settings>
+      <position>7</position>
+      <panel_state>opened</panel_state>
+      <selected_tab>2</selected_tab>
+      <visibility>enabled</visibility>
+    </slide>
+  </slides>
+</slider>
