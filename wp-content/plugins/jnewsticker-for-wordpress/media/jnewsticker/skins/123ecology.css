@@ -1,0 +1,112 @@
+/**
+
+"123ecology skin for jQuery newsticker
+ 
+Design & code by lidplussdesign
+
+**/ 
+ 
+ 
+.newsticker_wrapper {
+	font-size: 12px;
+    line-height: 20px;
+    height: 20px;
+    -webkit-text-size-adjust: none;
+    padding: 5px 0;
+}
+#main .newsticker_wrapper{
+	font-size: 13px;
+}  
+
+.newsticker_wrapper h4 {
+	font-size: 13px;
+	font-weight: bold;
+	margin: 0;
+	color: #555;
+	padding-right: 10px;
+}
+#main .newsticker_wrapper h4{
+	font-size: 13px;
+	color: #363636;
+	text-shadow: none;
+}
+.newsticker {
+    margin: 0;
+    padding: 0;
+}
+.newsticker_controls {
+    position: absolute;
+    right: 0;
+    top: 5px;
+    list-style-type: none;
+    list-style-image: none; 
+    margin: 0;
+	padding-left: 5px;    
+}
+
+.newsticker_style_reveal .newsticker_controls {}
+
+.newsticker_controls li {
+    float: left;    
+    height: 20px;
+    width: 20px;
+    background-position: 4px;
+    background-repeat: no-repeat;
+    background-color: transparent;
+    cursor: pointer;
+    opacity: 0.7;
+    filter: alpha(opacity=70);
+    -webkit-transition: all 0.1s ease-in-out 0s;  
+    -moz-transition: all 0.1s ease-in-out 0s;  
+    -o-transition: all 0.1s ease-in-out 0s;  
+    -ms-transition: all 0.1s ease-in-out 0s;  
+    transition: all 0.1s ease-in-out 0s; 
+}
+.newsticker_controls li:hover{
+    opacity: 1;
+    filter: alpha(opacity=100);
+}
+
+.newsticker_controls .pause {
+	background-image: url(123ecology/Play-1.png);
+		background-position: 4px 3px;    
+}
+
+.newsticker_controls .resume {  
+	background-image: url(123ecology/Pause.png);
+	background-position: 4px 3px;
+}
+
+.newsticker_controls .previous {
+	background-image: url(123ecology/Previous.png);
+}
+
+.newsticker_controls .next {
+	background-image: url(123ecology/Next.png);
+}
+
+/* Reveal */
+.newsticker_style_reveal .newsticker li {
+    
+}
+
+/* Scroll */
+.newsticker_style_scroll .newsticker li {
+    margin-right: 40px;
+    padding: 0;
+}
+
+/*
+THE MARKUP:
+
+<div class="newsticker_wrapper">
+	<h4>The Latest</h4>
+	<ul class="newsticker">
+		<li>Lorem ipsum dolor sit amet, consectetur adipisicing elit...</li>
+		<li>Lorem ipsum dolor sit amet, consectetur adipisicing elit...</li>
+		<li>Lorem ipsum dolor sit amet, consectetur adipisicing elit...</li>
+		<li>Lorem ipsum dolor sit amet, consectetur adipisicing elit...</li>
+		<li>Lorem ipsum dolor sit amet, consectetur adipisicing elit...</li>
+	</ul>
+</div>
+*/

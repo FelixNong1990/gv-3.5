@@ -1,0 +1,32 @@
+- form validation
+- subscribe to website
+- Prevent user go to admin side
+- enlarge category width inside add new post and edit post
+- fixed bug by removing error of alertify when clicked already added tag then add it back
+- Facebook share using dialog feed like youtube share
+- Edit 404 page
+- Add and edit all meta tags
+- Apply responsive design for search results
+- Add tooltip to all necessary elements
+- Fix number of times to like and dislike a post
+- Grid View and List View for category, search pages...
+- Adjust slideshow in homepage
+- Add login and register and search to sticky header
+- Edit placeholder text by changing maximum of 5 tags to 10 tags inside add and edit post page
+- Add logo
+- Change menu design
+- Allow users to login using social networks
+- Add social media link
+- Change trending topics videos
+- Add slideshow tag
+- Link image to video in homepage
+- Change hover description of video in homepage
+- Add Ajax Search
+- Remove edit profile link in author page
+- Add spinner when like or dislike video
+- Add published date to single post page
+- Optimize the website
+- Adjust user role to author instead of subscriber after register
+- Remove uncategorized category from ajax search
+- Auto focus to the first list item in ajax search
+- Make image sprite of small images

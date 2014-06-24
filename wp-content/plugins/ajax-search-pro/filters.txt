@@ -1,0 +1,27 @@
+/* Only if cache not activated! */
+
+$allpageposts = apply_filters( 'asp_pagepost_results', $allpageposts );
+$allcommentsresults = apply_filters( 'asp_comment_results', $allcommentsresults );
+$buddypresults = apply_filters( 'asp_buddyp_results', $buddypresults );
+$blogresults = apply_filters( 'asp_blog_results', $blogresults ); 
+$results = apply_filters( 'asp_only_keyword_results', $results );
+$results = apply_filters( 'asp_only_non_keyword_results', $results );
+$results = apply_filters( 'asp_results', $results );
+$s = apply_filters( 'asp_search_phrase_before_cleaning', $s );
+$s = apply_filters( 'asp_search_phrase_after_cleaning', $s );
+
+$r->title = apply_filters( 'asp_result_title_before_prostproc' , $r->title);
+$r->content = apply_filters( 'asp_result_content_before_prostproc' , $r->content);
+$r->image = apply_filters( 'asp_result_image_before_prostproc' , $r->image);
+$r->author = apply_filters( 'asp_result_author_before_prostproc' , $r->author);
+$r->date = apply_filters( 'asp_result_date_before_prostproc' , $r->date);
+
+$r->title = apply_filters( 'asp_result_title_after_prostproc' , $r->title);
+$r->content = apply_filters( 'asp_result_content_after_prostproc' , $r->content);
+$r->image = apply_filters( 'asp_result_image_after_prostproc' , $r->image);
+$r->author = apply_filters( 'asp_result_author_after_prostproc' , $r->author);
+$r->date = apply_filters( 'asp_result_date_after_prostproc' , $r->date);
+
+/* With cache activated */
+
+$cache_content = apply_filters( 'asp_cached_content_json', $cache_content);

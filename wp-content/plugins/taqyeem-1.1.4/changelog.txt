@@ -1,0 +1,86 @@
+*** Taqyeem Changelog ***
+-------------------------------------------------------------------------
+
+Version 1.1.4 - 26-01-2014
+
+- Improvements and minor bug fixes.
+
+Files updated
+- style.css
+- js/tie.js
+- taqyeem.php
+- taqyeem-panel.php
+
+
+-------------------------------------------------------------------------
+
+Version 1.1.3 - 24-06-2013
+
+- Improvements and minor bug fixes.
+
+Files updated
+- style.css
+- taqyeem.php
+- taqyeem-posts.php
+- taqyeem-widgets.php
+
+
+-------------------------------------------------------------------------
+
+Version 1.1.2 - 16-05-2013
+
+- Improvements and minor bug fixes.
+
+Files updated
+- style.css
+- taqyeem.php
+- taqyeem-posts.php
+- taqyeem-panel.php
+- js/tie.js
+- admin/js/tie.js
+- admin/style.css
+
+
+-------------------------------------------------------------------------
+
+Version 1.1.1 - 29-04-2013
+
+- Fixed : Minor responsive bug .
+
+Files updated
+- style.css
+- js/tie.js
+- taqyeem.php
+
+
+-------------------------------------------------------------------------
+
+Version 1.1.0 - 24-04-2013
+
+- Added : Supports pages .
+- Added : Supports custom post types .
+- Added : Widget for Post Types reviews .
+- Added : Ajax loading image wehen user click to rate .
+- Added : Animation effects .
+- Improvements and minor bug fixes.
+
+Files updated
+- style.css
+- js/tie.js
+- taqyeem.php
+- taqyeem-posts.php
+- taqyeem-widgets.php
+
+Files Added
+- images/ajax-loader.gif
+
+-------------------------------------------------------------------------
+
+Version 1.0.1 - 22-04-2013
+- Fixed : minor bug .
+
+
+-------------------------------------------------------------------------
+
+Version 1.0.0
+- First release

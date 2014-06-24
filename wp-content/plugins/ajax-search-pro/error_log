@@ -1,0 +1,2371 @@
+[04-Mar-2014 10:01:56 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 9 for query 
+           SELECT
+             wp_users.ID as id,
+             wp_users.display_name as title,
+             '' as date,
+             '' as author
+           FROM
+             wp_users
+           WHERE 
+            () 
+         made by do_action('ASP_ajaxsearchpro_search'), call_user_func_array, ajaxsearchpro_search, wpdreams_search->search, wpdreams_searchBuddyPress->do_search
+[04-Mar-2014 10:02:35 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 9 for query 
+           SELECT
+             wp_users.ID as id,
+             wp_users.display_name as title,
+             '' as date,
+             '' as author
+           FROM
+             wp_users
+           WHERE 
+            () 
+         made by do_action('ASP_ajaxsearchpro_search'), call_user_func_array, ajaxsearchpro_search, wpdreams_search->search, wpdreams_searchBuddyPress->do_search
+[04-Mar-2014 10:03:17 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 9 for query 
+           SELECT
+             wp_users.ID as id,
+             wp_users.display_name as title,
+             '' as date,
+             '' as author
+           FROM
+             wp_users
+           WHERE 
+            () 
+         made by do_action('ASP_ajaxsearchpro_search'), call_user_func_array, ajaxsearchpro_search, wpdreams_search->search, wpdreams_searchBuddyPress->do_search
+[04-Mar-2014 10:09:00 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 9 for query 
+           SELECT
+             wp_users.ID as id,
+             wp_users.display_name as title,
+             '' as date,
+             '' as author
+           FROM
+             wp_users
+           WHERE 
+            () 
+         made by do_action('ASP_ajaxsearchpro_search'), call_user_func_array, ajaxsearchpro_search, wpdreams_search->search, wpdreams_searchBuddyPress->do_search
+[04-Mar-2014 10:09:10 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 9 for query 
+           SELECT
+             wp_users.ID as id,
+             wp_users.display_name as title,
+             '' as date,
+             '' as author
+           FROM
+             wp_users
+           WHERE 
+            () 
+         made by do_action('ASP_ajaxsearchpro_search'), call_user_func_array, ajaxsearchpro_search, wpdreams_search->search, wpdreams_searchBuddyPress->do_search
+[04-Mar-2014 10:09:11 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 9 for query 
+           SELECT
+             wp_users.ID as id,
+             wp_users.display_name as title,
+             '' as date,
+             '' as author
+           FROM
+             wp_users
+           WHERE 
+            () 
+         made by do_action('ASP_ajaxsearchpro_search'), call_user_func_array, ajaxsearchpro_search, wpdreams_search->search, wpdreams_searchBuddyPress->do_search
+[04-Mar-2014 12:58:12 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 9 for query 
+           SELECT
+             wp_users.ID as id,
+             wp_users.display_name as title,
+             '' as date,
+             '' as author
+           FROM
+             wp_users
+           WHERE 
+            () 
+         made by do_action('ASP_ajaxsearchpro_search'), call_user_func_array, ajaxsearchpro_search, wpdreams_search->search, wpdreams_searchBuddyPress->do_search
+[04-Mar-2014 12:58:51 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 9 for query 
+           SELECT
+             wp_users.ID as id,
+             wp_users.display_name as title,
+             '' as date,
+             '' as author
+           FROM
+             wp_users
+           WHERE 
+            () 
+         made by do_action('ASP_ajaxsearchpro_search'), call_user_func_array, ajaxsearchpro_search, wpdreams_search->search, wpdreams_searchBuddyPress->do_search
+[04-Mar-2014 13:04:28 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 9 for query 
+           SELECT
+             wp_users.ID as id,
+             wp_users.display_name as title,
+             '' as date,
+             '' as author
+           FROM
+             wp_users
+           WHERE 
+            () 
+         made by do_action('ASP_ajaxsearchpro_search'), call_user_func_array, ajaxsearchpro_search, wpdreams_search->search, wpdreams_searchBuddyPress->do_search
+[04-Mar-2014 13:05:34 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 9 for query 
+           SELECT
+             wp_users.ID as id,
+             wp_users.display_name as title,
+             '' as date,
+             '' as author
+           FROM
+             wp_users
+           WHERE 
+            () 
+         made by do_action('ASP_ajaxsearchpro_search'), call_user_func_array, ajaxsearchpro_search, wpdreams_search->search, wpdreams_searchBuddyPress->do_search
+[04-Mar-2014 13:06:08 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 9 for query 
+           SELECT
+             wp_users.ID as id,
+             wp_users.display_name as title,
+             '' as date,
+             '' as author
+           FROM
+             wp_users
+           WHERE 
+            () 
+         made by do_action('ASP_ajaxsearchpro_search'), call_user_func_array, ajaxsearchpro_search, wpdreams_search->search, wpdreams_searchBuddyPress->do_search
+[04-Mar-2014 13:07:04 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 9 for query 
+           SELECT
+             wp_users.ID as id,
+             wp_users.display_name as title,
+             '' as date,
+             '' as author
+           FROM
+             wp_users
+           WHERE 
+            () 
+         made by do_action('ASP_ajaxsearchpro_search'), call_user_func_array, ajaxsearchpro_search, wpdreams_search->search, wpdreams_searchBuddyPress->do_search
+[04-Mar-2014 13:11:20 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 9 for query 
+           SELECT
+             wp_users.ID as id,
+             wp_users.display_name as title,
+             '' as date,
+             '' as author
+           FROM
+             wp_users
+           WHERE 
+            () 
+         made by do_action('ASP_ajaxsearchpro_search'), call_user_func_array, ajaxsearchpro_search, wpdreams_search->search, wpdreams_searchBuddyPress->do_search
+[04-Mar-2014 13:15:34 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 9 for query 
+           SELECT
+             wp_users.ID as id,
+             wp_users.display_name as title,
+             '' as date,
+             '' as author
+           FROM
+             wp_users
+           WHERE 
+            () 
+         made by do_action('ASP_ajaxsearchpro_search'), call_user_func_array, ajaxsearchpro_search, wpdreams_search->search, wpdreams_searchBuddyPress->do_search
+[04-Mar-2014 13:16:37 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 9 for query 
+           SELECT
+             wp_users.ID as id,
+             wp_users.display_name as title,
+             '' as date,
+             '' as author
+           FROM
+             wp_users
+           WHERE 
+            () 
+         made by do_action('ASP_ajaxsearchpro_search'), call_user_func_array, ajaxsearchpro_search, wpdreams_search->search, wpdreams_searchBuddyPress->do_search
+[04-Mar-2014 13:16:41 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 9 for query 
+           SELECT
+             wp_users.ID as id,
+             wp_users.display_name as title,
+             '' as date,
+             '' as author
+           FROM
+             wp_users
+           WHERE 
+            () 
+         made by do_action('ASP_ajaxsearchpro_search'), call_user_func_array, ajaxsearchpro_search, wpdreams_search->search, wpdreams_searchBuddyPress->do_search
+[04-Mar-2014 13:27:29 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 9 for query 
+           SELECT
+             wp_users.ID as id,
+             wp_users.display_name as title,
+             '' as date,
+             '' as author
+           FROM
+             wp_users
+           WHERE 
+            () 
+         made by do_action('ASP_ajaxsearchpro_search'), call_user_func_array, ajaxsearchpro_search, wpdreams_search->search, wpdreams_searchBuddyPress->do_search
+[04-Mar-2014 13:27:54 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 9 for query 
+           SELECT
+             wp_users.ID as id,
+             wp_users.display_name as title,
+             '' as date,
+             '' as author
+           FROM
+             wp_users
+           WHERE 
+            () 
+         made by do_action('ASP_ajaxsearchpro_search'), call_user_func_array, ajaxsearchpro_search, wpdreams_search->search, wpdreams_searchBuddyPress->do_search
+[04-Mar-2014 13:28:37 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 9 for query 
+           SELECT
+             wp_users.ID as id,
+             wp_users.display_name as title,
+             '' as date,
+             '' as author
+           FROM
+             wp_users
+           WHERE 
+            () 
+         made by do_action('ASP_ajaxsearchpro_search'), call_user_func_array, ajaxsearchpro_search, wpdreams_search->search, wpdreams_searchBuddyPress->do_search
+[04-Mar-2014 13:29:44 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 9 for query 
+           SELECT
+             wp_users.ID as id,
+             wp_users.display_name as title,
+             '' as date,
+             '' as author
+           FROM
+             wp_users
+           WHERE 
+            () 
+         made by do_action('ASP_ajaxsearchpro_search'), call_user_func_array, ajaxsearchpro_search, wpdreams_search->search, wpdreams_searchBuddyPress->do_search
+[04-Mar-2014 13:30:22 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 9 for query 
+           SELECT
+             wp_users.ID as id,
+             wp_users.display_name as title,
+             '' as date,
+             '' as author
+           FROM
+             wp_users
+           WHERE 
+            () 
+         made by do_action('ASP_ajaxsearchpro_search'), call_user_func_array, ajaxsearchpro_search, wpdreams_search->search, wpdreams_searchBuddyPress->do_search
+[04-Mar-2014 13:31:44 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 9 for query 
+           SELECT
+             wp_users.ID as id,
+             wp_users.display_name as title,
+             '' as date,
+             '' as author
+           FROM
+             wp_users
+           WHERE 
+            () 
+         made by do_action('ASP_ajaxsearchpro_search'), call_user_func_array, ajaxsearchpro_search, wpdreams_search->search, wpdreams_searchBuddyPress->do_search
+[04-Mar-2014 13:31:57 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 9 for query 
+           SELECT
+             wp_users.ID as id,
+             wp_users.display_name as title,
+             '' as date,
+             '' as author
+           FROM
+             wp_users
+           WHERE 
+            () 
+         made by do_action('ASP_ajaxsearchpro_search'), call_user_func_array, ajaxsearchpro_search, wpdreams_search->search, wpdreams_searchBuddyPress->do_search
+[04-Mar-2014 13:32:14 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 9 for query 
+           SELECT
+             wp_users.ID as id,
+             wp_users.display_name as title,
+             '' as date,
+             '' as author
+           FROM
+             wp_users
+           WHERE 
+            () 
+         made by do_action('ASP_ajaxsearchpro_search'), call_user_func_array, ajaxsearchpro_search, wpdreams_search->search, wpdreams_searchBuddyPress->do_search
+[04-Mar-2014 13:33:05 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 9 for query 
+           SELECT
+             wp_users.ID as id,
+             wp_users.display_name as title,
+             '' as date,
+             '' as author
+           FROM
+             wp_users
+           WHERE 
+            () 
+         made by do_action('ASP_ajaxsearchpro_search'), call_user_func_array, ajaxsearchpro_search, wpdreams_search->search, wpdreams_searchBuddyPress->do_search
+[04-Mar-2014 13:39:34 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 9 for query 
+           SELECT
+             wp_users.ID as id,
+             wp_users.display_name as title,
+             '' as date,
+             '' as author
+           FROM
+             wp_users
+           WHERE 
+            () 
+         made by do_action('ASP_ajaxsearchpro_search'), call_user_func_array, ajaxsearchpro_search, wpdreams_search->search, wpdreams_searchBuddyPress->do_search
+[04-Mar-2014 13:40:14 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 9 for query 
+           SELECT
+             wp_users.ID as id,
+             wp_users.display_name as title,
+             '' as date,
+             '' as author
+           FROM
+             wp_users
+           WHERE 
+            () 
+         made by do_action('ASP_ajaxsearchpro_search'), call_user_func_array, ajaxsearchpro_search, wpdreams_search->search, wpdreams_searchBuddyPress->do_search
+[04-Mar-2014 13:40:19 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 9 for query 
+           SELECT
+             wp_users.ID as id,
+             wp_users.display_name as title,
+             '' as date,
+             '' as author
+           FROM
+             wp_users
+           WHERE 
+            () 
+         made by do_action('ASP_ajaxsearchpro_search'), call_user_func_array, ajaxsearchpro_search, wpdreams_search->search, wpdreams_searchBuddyPress->do_search
+[04-Mar-2014 13:40:20 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 9 for query 
+           SELECT
+             wp_users.ID as id,
+             wp_users.display_name as title,
+             '' as date,
+             '' as author
+           FROM
+             wp_users
+           WHERE 
+            () 
+         made by do_action('ASP_ajaxsearchpro_search'), call_user_func_array, ajaxsearchpro_search, wpdreams_search->search, wpdreams_searchBuddyPress->do_search
+[04-Mar-2014 13:40:50 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 9 for query 
+           SELECT
+             wp_users.ID as id,
+             wp_users.display_name as title,
+             '' as date,
+             '' as author
+           FROM
+             wp_users
+           WHERE 
+            () 
+         made by do_action('ASP_ajaxsearchpro_search'), call_user_func_array, ajaxsearchpro_search, wpdreams_search->search, wpdreams_searchBuddyPress->do_search
+[04-Mar-2014 13:40:55 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 9 for query 
+           SELECT
+             wp_users.ID as id,
+             wp_users.display_name as title,
+             '' as date,
+             '' as author
+           FROM
+             wp_users
+           WHERE 
+            () 
+         made by do_action('ASP_ajaxsearchpro_search'), call_user_func_array, ajaxsearchpro_search, wpdreams_search->search, wpdreams_searchBuddyPress->do_search
+[04-Mar-2014 13:50:43 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 9 for query 
+           SELECT
+             wp_users.ID as id,
+             wp_users.display_name as title,
+             '' as date,
+             '' as author
+           FROM
+             wp_users
+           WHERE 
+            () 
+         made by do_action('ASP_ajaxsearchpro_search'), call_user_func_array, ajaxsearchpro_search, wpdreams_search->search, wpdreams_searchBuddyPress->do_search
+[04-Mar-2014 13:50:49 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 9 for query 
+           SELECT
+             wp_users.ID as id,
+             wp_users.display_name as title,
+             '' as date,
+             '' as author
+           FROM
+             wp_users
+           WHERE 
+            () 
+         made by do_action('ASP_ajaxsearchpro_search'), call_user_func_array, ajaxsearchpro_search, wpdreams_search->search, wpdreams_searchBuddyPress->do_search
+[04-Mar-2014 13:52:21 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 9 for query 
+           SELECT
+             wp_users.ID as id,
+             wp_users.display_name as title,
+             '' as date,
+             '' as author
+           FROM
+             wp_users
+           WHERE 
+            () 
+         made by do_action('ASP_ajaxsearchpro_search'), call_user_func_array, ajaxsearchpro_search, wpdreams_search->search, wpdreams_searchBuddyPress->do_search
+[04-Mar-2014 13:52:27 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 9 for query 
+           SELECT
+             wp_users.ID as id,
+             wp_users.display_name as title,
+             '' as date,
+             '' as author
+           FROM
+             wp_users
+           WHERE 
+            () 
+         made by do_action('ASP_ajaxsearchpro_search'), call_user_func_array, ajaxsearchpro_search, wpdreams_search->search, wpdreams_searchBuddyPress->do_search
+[04-Mar-2014 13:53:01 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 9 for query 
+           SELECT
+             wp_users.ID as id,
+             wp_users.display_name as title,
+             '' as date,
+             '' as author
+           FROM
+             wp_users
+           WHERE 
+            () 
+         made by do_action('ASP_ajaxsearchpro_search'), call_user_func_array, ajaxsearchpro_search, wpdreams_search->search, wpdreams_searchBuddyPress->do_search
+[04-Mar-2014 13:53:06 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 9 for query 
+           SELECT
+             wp_users.ID as id,
+             wp_users.display_name as title,
+             '' as date,
+             '' as author
+           FROM
+             wp_users
+           WHERE 
+            () 
+         made by do_action('ASP_ajaxsearchpro_search'), call_user_func_array, ajaxsearchpro_search, wpdreams_search->search, wpdreams_searchBuddyPress->do_search
+[04-Mar-2014 14:07:34 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 9 for query 
+           SELECT
+             wp_users.ID as id,
+             wp_users.display_name as title,
+             '' as date,
+             '' as author
+           FROM
+             wp_users
+           WHERE 
+            () 
+         made by do_action('ASP_ajaxsearchpro_search'), call_user_func_array, ajaxsearchpro_search, wpdreams_search->search, wpdreams_searchBuddyPress->do_search
+[04-Mar-2014 14:07:38 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 9 for query 
+           SELECT
+             wp_users.ID as id,
+             wp_users.display_name as title,
+             '' as date,
+             '' as author
+           FROM
+             wp_users
+           WHERE 
+            () 
+         made by do_action('ASP_ajaxsearchpro_search'), call_user_func_array, ajaxsearchpro_search, wpdreams_search->search, wpdreams_searchBuddyPress->do_search
+[04-Mar-2014 14:08:17 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 9 for query 
+           SELECT
+             wp_users.ID as id,
+             wp_users.display_name as title,
+             '' as date,
+             '' as author
+           FROM
+             wp_users
+           WHERE 
+            () 
+         made by do_action('ASP_nopriv_ajaxsearchpro_search'), call_user_func_array, ajaxsearchpro_search, wpdreams_search->search, wpdreams_searchBuddyPress->do_search
+[04-Mar-2014 14:09:41 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 9 for query 
+           SELECT
+             wp_users.ID as id,
+             wp_users.display_name as title,
+             '' as date,
+             '' as author
+           FROM
+             wp_users
+           WHERE 
+            () 
+         made by do_action('ASP_nopriv_ajaxsearchpro_search'), call_user_func_array, ajaxsearchpro_search, wpdreams_search->search, wpdreams_searchBuddyPress->do_search
+[04-Mar-2014 14:15:07 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 9 for query 
+           SELECT
+             wp_users.ID as id,
+             wp_users.display_name as title,
+             '' as date,
+             '' as author
+           FROM
+             wp_users
+           WHERE 
+            () 
+         made by do_action('ASP_ajaxsearchpro_search'), call_user_func_array, ajaxsearchpro_search, wpdreams_search->search, wpdreams_searchBuddyPress->do_search
+[04-Mar-2014 14:15:43 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 9 for query 
+           SELECT
+             wp_users.ID as id,
+             wp_users.display_name as title,
+             '' as date,
+             '' as author
+           FROM
+             wp_users
+           WHERE 
+            () 
+         made by do_action('ASP_nopriv_ajaxsearchpro_search'), call_user_func_array, ajaxsearchpro_search, wpdreams_search->search, wpdreams_searchBuddyPress->do_search
+[04-Mar-2014 14:16:29 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 9 for query 
+           SELECT
+             wp_users.ID as id,
+             wp_users.display_name as title,
+             '' as date,
+             '' as author
+           FROM
+             wp_users
+           WHERE 
+            () 
+         made by do_action('ASP_nopriv_ajaxsearchpro_search'), call_user_func_array, ajaxsearchpro_search, wpdreams_search->search, wpdreams_searchBuddyPress->do_search
+[04-Mar-2014 14:17:11 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 9 for query 
+           SELECT
+             wp_users.ID as id,
+             wp_users.display_name as title,
+             '' as date,
+             '' as author
+           FROM
+             wp_users
+           WHERE 
+            () 
+         made by do_action('ASP_nopriv_ajaxsearchpro_search'), call_user_func_array, ajaxsearchpro_search, wpdreams_search->search, wpdreams_searchBuddyPress->do_search
+[04-Mar-2014 14:17:24 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 9 for query 
+           SELECT
+             wp_users.ID as id,
+             wp_users.display_name as title,
+             '' as date,
+             '' as author
+           FROM
+             wp_users
+           WHERE 
+            () 
+         made by do_action('ASP_nopriv_ajaxsearchpro_search'), call_user_func_array, ajaxsearchpro_search, wpdreams_search->search, wpdreams_searchBuddyPress->do_search
+[04-Mar-2014 14:19:34 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 9 for query 
+           SELECT
+             wp_users.ID as id,
+             wp_users.display_name as title,
+             '' as date,
+             '' as author
+           FROM
+             wp_users
+           WHERE 
+            () 
+         made by do_action('ASP_nopriv_ajaxsearchpro_search'), call_user_func_array, ajaxsearchpro_search, wpdreams_search->search, wpdreams_searchBuddyPress->do_search
+[04-Mar-2014 14:20:30 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 9 for query 
+           SELECT
+             wp_users.ID as id,
+             wp_users.display_name as title,
+             '' as date,
+             '' as author
+           FROM
+             wp_users
+           WHERE 
+            () 
+         made by do_action('ASP_nopriv_ajaxsearchpro_search'), call_user_func_array, ajaxsearchpro_search, wpdreams_search->search, wpdreams_searchBuddyPress->do_search
+[04-Mar-2014 14:20:34 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 9 for query 
+           SELECT
+             wp_users.ID as id,
+             wp_users.display_name as title,
+             '' as date,
+             '' as author
+           FROM
+             wp_users
+           WHERE 
+            () 
+         made by do_action('ASP_nopriv_ajaxsearchpro_search'), call_user_func_array, ajaxsearchpro_search, wpdreams_search->search, wpdreams_searchBuddyPress->do_search
+[04-Mar-2014 14:22:44 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 9 for query 
+           SELECT
+             wp_users.ID as id,
+             wp_users.display_name as title,
+             '' as date,
+             '' as author
+           FROM
+             wp_users
+           WHERE 
+            () 
+         made by do_action('ASP_nopriv_ajaxsearchpro_search'), call_user_func_array, ajaxsearchpro_search, wpdreams_search->search, wpdreams_searchBuddyPress->do_search
+[04-Mar-2014 14:23:50 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 9 for query 
+           SELECT
+             wp_users.ID as id,
+             wp_users.display_name as title,
+             '' as date,
+             '' as author
+           FROM
+             wp_users
+           WHERE 
+            () 
+         made by do_action('ASP_nopriv_ajaxsearchpro_search'), call_user_func_array, ajaxsearchpro_search, wpdreams_search->search, wpdreams_searchBuddyPress->do_search
+[04-Mar-2014 14:25:37 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 9 for query 
+           SELECT
+             wp_users.ID as id,
+             wp_users.display_name as title,
+             '' as date,
+             '' as author
+           FROM
+             wp_users
+           WHERE 
+            () 
+         made by do_action('ASP_nopriv_ajaxsearchpro_search'), call_user_func_array, ajaxsearchpro_search, wpdreams_search->search, wpdreams_searchBuddyPress->do_search
+[04-Mar-2014 14:26:28 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 9 for query 
+           SELECT
+             wp_users.ID as id,
+             wp_users.display_name as title,
+             '' as date,
+             '' as author
+           FROM
+             wp_users
+           WHERE 
+            () 
+         made by do_action('ASP_nopriv_ajaxsearchpro_search'), call_user_func_array, ajaxsearchpro_search, wpdreams_search->search, wpdreams_searchBuddyPress->do_search
+[04-Mar-2014 14:26:48 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 9 for query 
+           SELECT
+             wp_users.ID as id,
+             wp_users.display_name as title,
+             '' as date,
+             '' as author
+           FROM
+             wp_users
+           WHERE 
+            () 
+         made by do_action('ASP_nopriv_ajaxsearchpro_search'), call_user_func_array, ajaxsearchpro_search, wpdreams_search->search, wpdreams_searchBuddyPress->do_search
+[04-Mar-2014 14:27:37 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 9 for query 
+           SELECT
+             wp_users.ID as id,
+             wp_users.display_name as title,
+             '' as date,
+             '' as author
+           FROM
+             wp_users
+           WHERE 
+            () 
+         made by do_action('ASP_nopriv_ajaxsearchpro_search'), call_user_func_array, ajaxsearchpro_search, wpdreams_search->search, wpdreams_searchBuddyPress->do_search
+[04-Mar-2014 14:28:15 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 9 for query 
+           SELECT
+             wp_users.ID as id,
+             wp_users.display_name as title,
+             '' as date,
+             '' as author
+           FROM
+             wp_users
+           WHERE 
+            () 
+         made by do_action('ASP_nopriv_ajaxsearchpro_search'), call_user_func_array, ajaxsearchpro_search, wpdreams_search->search, wpdreams_searchBuddyPress->do_search
+[04-Mar-2014 14:28:20 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 9 for query 
+           SELECT
+             wp_users.ID as id,
+             wp_users.display_name as title,
+             '' as date,
+             '' as author
+           FROM
+             wp_users
+           WHERE 
+            () 
+         made by do_action('ASP_nopriv_ajaxsearchpro_search'), call_user_func_array, ajaxsearchpro_search, wpdreams_search->search, wpdreams_searchBuddyPress->do_search
+[04-Mar-2014 14:28:54 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 9 for query 
+           SELECT
+             wp_users.ID as id,
+             wp_users.display_name as title,
+             '' as date,
+             '' as author
+           FROM
+             wp_users
+           WHERE 
+            () 
+         made by do_action('ASP_nopriv_ajaxsearchpro_search'), call_user_func_array, ajaxsearchpro_search, wpdreams_search->search, wpdreams_searchBuddyPress->do_search
+[04-Mar-2014 14:29:36 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 9 for query 
+           SELECT
+             wp_users.ID as id,
+             wp_users.display_name as title,
+             '' as date,
+             '' as author
+           FROM
+             wp_users
+           WHERE 
+            () 
+         made by do_action('ASP_nopriv_ajaxsearchpro_search'), call_user_func_array, ajaxsearchpro_search, wpdreams_search->search, wpdreams_searchBuddyPress->do_search
+[04-Mar-2014 14:30:47 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 9 for query 
+           SELECT
+             wp_users.ID as id,
+             wp_users.display_name as title,
+             '' as date,
+             '' as author
+           FROM
+             wp_users
+           WHERE 
+            () 
+         made by do_action('ASP_nopriv_ajaxsearchpro_search'), call_user_func_array, ajaxsearchpro_search, wpdreams_search->search, wpdreams_searchBuddyPress->do_search
+[04-Mar-2014 14:31:58 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 9 for query 
+           SELECT
+             wp_users.ID as id,
+             wp_users.display_name as title,
+             '' as date,
+             '' as author
+           FROM
+             wp_users
+           WHERE 
+            () 
+         made by do_action('ASP_nopriv_ajaxsearchpro_search'), call_user_func_array, ajaxsearchpro_search, wpdreams_search->search, wpdreams_searchBuddyPress->do_search
+[04-Mar-2014 14:32:11 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 9 for query 
+           SELECT
+             wp_users.ID as id,
+             wp_users.display_name as title,
+             '' as date,
+             '' as author
+           FROM
+             wp_users
+           WHERE 
+            () 
+         made by do_action('ASP_nopriv_ajaxsearchpro_search'), call_user_func_array, ajaxsearchpro_search, wpdreams_search->search, wpdreams_searchBuddyPress->do_search
+[04-Mar-2014 14:33:31 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 9 for query 
+           SELECT
+             wp_users.ID as id,
+             wp_users.display_name as title,
+             '' as date,
+             '' as author
+           FROM
+             wp_users
+           WHERE 
+            () 
+         made by do_action('ASP_nopriv_ajaxsearchpro_search'), call_user_func_array, ajaxsearchpro_search, wpdreams_search->search, wpdreams_searchBuddyPress->do_search
+[04-Mar-2014 14:33:50 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 9 for query 
+           SELECT
+             wp_users.ID as id,
+             wp_users.display_name as title,
+             '' as date,
+             '' as author
+           FROM
+             wp_users
+           WHERE 
+            () 
+         made by do_action('ASP_nopriv_ajaxsearchpro_search'), call_user_func_array, ajaxsearchpro_search, wpdreams_search->search, wpdreams_searchBuddyPress->do_search
+[04-Mar-2014 14:34:02 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 9 for query 
+           SELECT
+             wp_users.ID as id,
+             wp_users.display_name as title,
+             '' as date,
+             '' as author
+           FROM
+             wp_users
+           WHERE 
+            () 
+         made by do_action('ASP_nopriv_ajaxsearchpro_search'), call_user_func_array, ajaxsearchpro_search, wpdreams_search->search, wpdreams_searchBuddyPress->do_search
+[04-Mar-2014 14:34:15 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 9 for query 
+           SELECT
+             wp_users.ID as id,
+             wp_users.display_name as title,
+             '' as date,
+             '' as author
+           FROM
+             wp_users
+           WHERE 
+            () 
+         made by do_action('ASP_nopriv_ajaxsearchpro_search'), call_user_func_array, ajaxsearchpro_search, wpdreams_search->search, wpdreams_searchBuddyPress->do_search
+[04-Mar-2014 14:34:22 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 9 for query 
+           SELECT
+             wp_users.ID as id,
+             wp_users.display_name as title,
+             '' as date,
+             '' as author
+           FROM
+             wp_users
+           WHERE 
+            () 
+         made by do_action('ASP_nopriv_ajaxsearchpro_search'), call_user_func_array, ajaxsearchpro_search, wpdreams_search->search, wpdreams_searchBuddyPress->do_search
+[04-Mar-2014 14:34:42 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 9 for query 
+           SELECT
+             wp_users.ID as id,
+             wp_users.display_name as title,
+             '' as date,
+             '' as author
+           FROM
+             wp_users
+           WHERE 
+            () 
+         made by do_action('ASP_nopriv_ajaxsearchpro_search'), call_user_func_array, ajaxsearchpro_search, wpdreams_search->search, wpdreams_searchBuddyPress->do_search
+[04-Mar-2014 14:34:48 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 9 for query 
+           SELECT
+             wp_users.ID as id,
+             wp_users.display_name as title,
+             '' as date,
+             '' as author
+           FROM
+             wp_users
+           WHERE 
+            () 
+         made by do_action('ASP_nopriv_ajaxsearchpro_search'), call_user_func_array, ajaxsearchpro_search, wpdreams_search->search, wpdreams_searchBuddyPress->do_search
+[04-Mar-2014 14:35:06 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 9 for query 
+           SELECT
+             wp_users.ID as id,
+             wp_users.display_name as title,
+             '' as date,
+             '' as author
+           FROM
+             wp_users
+           WHERE 
+            () 
+         made by do_action('ASP_nopriv_ajaxsearchpro_search'), call_user_func_array, ajaxsearchpro_search, wpdreams_search->search, wpdreams_searchBuddyPress->do_search
+[04-Mar-2014 14:35:15 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 9 for query 
+           SELECT
+             wp_users.ID as id,
+             wp_users.display_name as title,
+             '' as date,
+             '' as author
+           FROM
+             wp_users
+           WHERE 
+            () 
+         made by do_action('ASP_nopriv_ajaxsearchpro_search'), call_user_func_array, ajaxsearchpro_search, wpdreams_search->search, wpdreams_searchBuddyPress->do_search
+[04-Mar-2014 14:35:36 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 9 for query 
+           SELECT
+             wp_users.ID as id,
+             wp_users.display_name as title,
+             '' as date,
+             '' as author
+           FROM
+             wp_users
+           WHERE 
+            () 
+         made by do_action('ASP_nopriv_ajaxsearchpro_search'), call_user_func_array, ajaxsearchpro_search, wpdreams_search->search, wpdreams_searchBuddyPress->do_search
+[04-Mar-2014 14:35:49 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 9 for query 
+           SELECT
+             wp_users.ID as id,
+             wp_users.display_name as title,
+             '' as date,
+             '' as author
+           FROM
+             wp_users
+           WHERE 
+            () 
+         made by do_action('ASP_nopriv_ajaxsearchpro_search'), call_user_func_array, ajaxsearchpro_search, wpdreams_search->search, wpdreams_searchBuddyPress->do_search
+[04-Mar-2014 14:36:07 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 9 for query 
+           SELECT
+             wp_users.ID as id,
+             wp_users.display_name as title,
+             '' as date,
+             '' as author
+           FROM
+             wp_users
+           WHERE 
+            () 
+         made by do_action('ASP_nopriv_ajaxsearchpro_search'), call_user_func_array, ajaxsearchpro_search, wpdreams_search->search, wpdreams_searchBuddyPress->do_search
+[04-Mar-2014 14:37:19 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 9 for query 
+           SELECT
+             wp_users.ID as id,
+             wp_users.display_name as title,
+             '' as date,
+             '' as author
+           FROM
+             wp_users
+           WHERE 
+            () 
+         made by do_action('ASP_ajaxsearchpro_search'), call_user_func_array, ajaxsearchpro_search, wpdreams_search->search, wpdreams_searchBuddyPress->do_search
+[04-Mar-2014 14:37:20 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 9 for query 
+           SELECT
+             wp_users.ID as id,
+             wp_users.display_name as title,
+             '' as date,
+             '' as author
+           FROM
+             wp_users
+           WHERE 
+            () 
+         made by do_action('ASP_ajaxsearchpro_search'), call_user_func_array, ajaxsearchpro_search, wpdreams_search->search, wpdreams_searchBuddyPress->do_search
+[04-Mar-2014 14:37:47 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 9 for query 
+           SELECT
+             wp_users.ID as id,
+             wp_users.display_name as title,
+             '' as date,
+             '' as author
+           FROM
+             wp_users
+           WHERE 
+            () 
+         made by do_action('ASP_nopriv_ajaxsearchpro_search'), call_user_func_array, ajaxsearchpro_search, wpdreams_search->search, wpdreams_searchBuddyPress->do_search
+[04-Mar-2014 14:38:17 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 9 for query 
+           SELECT
+             wp_users.ID as id,
+             wp_users.display_name as title,
+             '' as date,
+             '' as author
+           FROM
+             wp_users
+           WHERE 
+            () 
+         made by do_action('ASP_nopriv_ajaxsearchpro_search'), call_user_func_array, ajaxsearchpro_search, wpdreams_search->search, wpdreams_searchBuddyPress->do_search
+[04-Mar-2014 14:38:58 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 9 for query 
+           SELECT
+             wp_users.ID as id,
+             wp_users.display_name as title,
+             '' as date,
+             '' as author
+           FROM
+             wp_users
+           WHERE 
+            () 
+         made by do_action('ASP_nopriv_ajaxsearchpro_search'), call_user_func_array, ajaxsearchpro_search, wpdreams_search->search, wpdreams_searchBuddyPress->do_search
+[04-Mar-2014 14:40:36 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 9 for query 
+           SELECT
+             wp_users.ID as id,
+             wp_users.display_name as title,
+             '' as date,
+             '' as author
+           FROM
+             wp_users
+           WHERE 
+            () 
+         made by do_action('ASP_nopriv_ajaxsearchpro_search'), call_user_func_array, ajaxsearchpro_search, wpdreams_search->search, wpdreams_searchBuddyPress->do_search
+[04-Mar-2014 14:40:49 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 9 for query 
+           SELECT
+             wp_users.ID as id,
+             wp_users.display_name as title,
+             '' as date,
+             '' as author
+           FROM
+             wp_users
+           WHERE 
+            () 
+         made by do_action('ASP_nopriv_ajaxsearchpro_search'), call_user_func_array, ajaxsearchpro_search, wpdreams_search->search, wpdreams_searchBuddyPress->do_search
+[04-Mar-2014 14:41:34 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 9 for query 
+           SELECT
+             wp_users.ID as id,
+             wp_users.display_name as title,
+             '' as date,
+             '' as author
+           FROM
+             wp_users
+           WHERE 
+            () 
+         made by do_action('ASP_nopriv_ajaxsearchpro_search'), call_user_func_array, ajaxsearchpro_search, wpdreams_search->search, wpdreams_searchBuddyPress->do_search
+[04-Mar-2014 14:42:19 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 9 for query 
+           SELECT
+             wp_users.ID as id,
+             wp_users.display_name as title,
+             '' as date,
+             '' as author
+           FROM
+             wp_users
+           WHERE 
+            () 
+         made by do_action('ASP_nopriv_ajaxsearchpro_search'), call_user_func_array, ajaxsearchpro_search, wpdreams_search->search, wpdreams_searchBuddyPress->do_search
+[04-Mar-2014 14:42:40 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 9 for query 
+           SELECT
+             wp_users.ID as id,
+             wp_users.display_name as title,
+             '' as date,
+             '' as author
+           FROM
+             wp_users
+           WHERE 
+            () 
+         made by do_action('ASP_nopriv_ajaxsearchpro_search'), call_user_func_array, ajaxsearchpro_search, wpdreams_search->search, wpdreams_searchBuddyPress->do_search
+[04-Mar-2014 14:43:13 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 9 for query 
+           SELECT
+             wp_users.ID as id,
+             wp_users.display_name as title,
+             '' as date,
+             '' as author
+           FROM
+             wp_users
+           WHERE 
+            () 
+         made by do_action('ASP_nopriv_ajaxsearchpro_search'), call_user_func_array, ajaxsearchpro_search, wpdreams_search->search, wpdreams_searchBuddyPress->do_search
+[04-Mar-2014 14:43:44 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 9 for query 
+           SELECT
+             wp_users.ID as id,
+             wp_users.display_name as title,
+             '' as date,
+             '' as author
+           FROM
+             wp_users
+           WHERE 
+            () 
+         made by do_action('ASP_nopriv_ajaxsearchpro_search'), call_user_func_array, ajaxsearchpro_search, wpdreams_search->search, wpdreams_searchBuddyPress->do_search
+[04-Mar-2014 14:44:59 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 9 for query 
+           SELECT
+             wp_users.ID as id,
+             wp_users.display_name as title,
+             '' as date,
+             '' as author
+           FROM
+             wp_users
+           WHERE 
+            () 
+         made by do_action('ASP_nopriv_ajaxsearchpro_search'), call_user_func_array, ajaxsearchpro_search, wpdreams_search->search, wpdreams_searchBuddyPress->do_search
+[04-Mar-2014 14:45:25 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 9 for query 
+           SELECT
+             wp_users.ID as id,
+             wp_users.display_name as title,
+             '' as date,
+             '' as author
+           FROM
+             wp_users
+           WHERE 
+            () 
+         made by do_action('ASP_nopriv_ajaxsearchpro_search'), call_user_func_array, ajaxsearchpro_search, wpdreams_search->search, wpdreams_searchBuddyPress->do_search
+[04-Mar-2014 14:45:31 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 9 for query 
+           SELECT
+             wp_users.ID as id,
+             wp_users.display_name as title,
+             '' as date,
+             '' as author
+           FROM
+             wp_users
+           WHERE 
+            () 
+         made by do_action('ASP_nopriv_ajaxsearchpro_search'), call_user_func_array, ajaxsearchpro_search, wpdreams_search->search, wpdreams_searchBuddyPress->do_search
+[04-Mar-2014 14:52:12 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 9 for query 
+           SELECT
+             wp_users.ID as id,
+             wp_users.display_name as title,
+             '' as date,
+             '' as author
+           FROM
+             wp_users
+           WHERE 
+            () 
+         made by do_action('ASP_nopriv_ajaxsearchpro_search'), call_user_func_array, ajaxsearchpro_search, wpdreams_search->search, wpdreams_searchBuddyPress->do_search
+[04-Mar-2014 14:53:42 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 9 for query 
+           SELECT
+             wp_users.ID as id,
+             wp_users.display_name as title,
+             '' as date,
+             '' as author
+           FROM
+             wp_users
+           WHERE 
+            () 
+         made by do_action('ASP_nopriv_ajaxsearchpro_search'), call_user_func_array, ajaxsearchpro_search, wpdreams_search->search, wpdreams_searchBuddyPress->do_search
+[04-Mar-2014 14:56:11 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 9 for query 
+           SELECT
+             wp_users.ID as id,
+             wp_users.display_name as title,
+             '' as date,
+             '' as author
+           FROM
+             wp_users
+           WHERE 
+            () 
+         made by do_action('ASP_nopriv_ajaxsearchpro_search'), call_user_func_array, ajaxsearchpro_search, wpdreams_search->search, wpdreams_searchBuddyPress->do_search
+[04-Mar-2014 14:59:48 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 9 for query 
+           SELECT
+             wp_users.ID as id,
+             wp_users.display_name as title,
+             '' as date,
+             '' as author
+           FROM
+             wp_users
+           WHERE 
+            () 
+         made by do_action('ASP_nopriv_ajaxsearchpro_search'), call_user_func_array, ajaxsearchpro_search, wpdreams_search->search, wpdreams_searchBuddyPress->do_search
+[04-Mar-2014 15:00:43 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 9 for query 
+           SELECT
+             wp_users.ID as id,
+             wp_users.display_name as title,
+             '' as date,
+             '' as author
+           FROM
+             wp_users
+           WHERE 
+            () 
+         made by do_action('ASP_nopriv_ajaxsearchpro_search'), call_user_func_array, ajaxsearchpro_search, wpdreams_search->search, wpdreams_searchBuddyPress->do_search
+[04-Mar-2014 15:01:21 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 9 for query 
+           SELECT
+             wp_users.ID as id,
+             wp_users.display_name as title,
+             '' as date,
+             '' as author
+           FROM
+             wp_users
+           WHERE 
+            () 
+         made by do_action('ASP_ajaxsearchpro_search'), call_user_func_array, ajaxsearchpro_search, wpdreams_search->search, wpdreams_searchBuddyPress->do_search
+[04-Mar-2014 15:15:45 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 9 for query 
+           SELECT
+             wp_users.ID as id,
+             wp_users.display_name as title,
+             '' as date,
+             '' as author
+           FROM
+             wp_users
+           WHERE 
+            () 
+         made by do_action('ASP_ajaxsearchpro_search'), call_user_func_array, ajaxsearchpro_search, wpdreams_search->search, wpdreams_searchBuddyPress->do_search
+[04-Mar-2014 15:15:49 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 9 for query 
+           SELECT
+             wp_users.ID as id,
+             wp_users.display_name as title,
+             '' as date,
+             '' as author
+           FROM
+             wp_users
+           WHERE 
+            () 
+         made by do_action('ASP_ajaxsearchpro_search'), call_user_func_array, ajaxsearchpro_search, wpdreams_search->search, wpdreams_searchBuddyPress->do_search
+[04-Mar-2014 15:15:53 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 9 for query 
+           SELECT
+             wp_users.ID as id,
+             wp_users.display_name as title,
+             '' as date,
+             '' as author
+           FROM
+             wp_users
+           WHERE 
+            () 
+         made by do_action('ASP_ajaxsearchpro_search'), call_user_func_array, ajaxsearchpro_search, wpdreams_search->search, wpdreams_searchBuddyPress->do_search
+[04-Mar-2014 15:44:55 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 9 for query 
+           SELECT
+             wp_users.ID as id,
+             wp_users.display_name as title,
+             '' as date,
+             '' as author
+           FROM
+             wp_users
+           WHERE 
+            () 
+         made by do_action('ASP_ajaxsearchpro_search'), call_user_func_array, ajaxsearchpro_search, wpdreams_search->search, wpdreams_searchBuddyPress->do_search
+[04-Mar-2014 16:49:30 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 9 for query 
+           SELECT
+             wp_users.ID as id,
+             wp_users.display_name as title,
+             '' as date,
+             '' as author
+           FROM
+             wp_users
+           WHERE 
+            () 
+         made by do_action('ASP_ajaxsearchpro_search'), call_user_func_array, ajaxsearchpro_search, wpdreams_search->search, wpdreams_searchBuddyPress->do_search
+[04-Mar-2014 16:52:11 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 9 for query 
+           SELECT
+             wp_users.ID as id,
+             wp_users.display_name as title,
+             '' as date,
+             '' as author
+           FROM
+             wp_users
+           WHERE 
+            () 
+         made by do_action('ASP_ajaxsearchpro_search'), call_user_func_array, ajaxsearchpro_search, wpdreams_search->search, wpdreams_searchBuddyPress->do_search
+[04-Mar-2014 16:53:03 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 9 for query 
+           SELECT
+             wp_users.ID as id,
+             wp_users.display_name as title,
+             '' as date,
+             '' as author
+           FROM
+             wp_users
+           WHERE 
+            () 
+         made by do_action('ASP_ajaxsearchpro_search'), call_user_func_array, ajaxsearchpro_search, wpdreams_search->search, wpdreams_searchBuddyPress->do_search
+[04-Mar-2014 16:55:07 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 9 for query 
+           SELECT
+             wp_users.ID as id,
+             wp_users.display_name as title,
+             '' as date,
+             '' as author
+           FROM
+             wp_users
+           WHERE 
+            () 
+         made by do_action('ASP_ajaxsearchpro_search'), call_user_func_array, ajaxsearchpro_search, wpdreams_search->search, wpdreams_searchBuddyPress->do_search
+[04-Mar-2014 16:56:04 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 9 for query 
+           SELECT
+             wp_users.ID as id,
+             wp_users.display_name as title,
+             '' as date,
+             '' as author
+           FROM
+             wp_users
+           WHERE 
+            () 
+         made by do_action('ASP_ajaxsearchpro_search'), call_user_func_array, ajaxsearchpro_search, wpdreams_search->search, wpdreams_searchBuddyPress->do_search
+[04-Mar-2014 17:30:32 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 9 for query 
+           SELECT
+             wp_users.ID as id,
+             wp_users.display_name as title,
+             '' as date,
+             '' as author
+           FROM
+             wp_users
+           WHERE 
+            () 
+         made by do_action('ASP_ajaxsearchpro_search'), call_user_func_array, ajaxsearchpro_search, wpdreams_search->search, wpdreams_searchBuddyPress->do_search
+[04-Mar-2014 17:30:44 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 9 for query 
+           SELECT
+             wp_users.ID as id,
+             wp_users.display_name as title,
+             '' as date,
+             '' as author
+           FROM
+             wp_users
+           WHERE 
+            () 
+         made by do_action('ASP_ajaxsearchpro_search'), call_user_func_array, ajaxsearchpro_search, wpdreams_search->search, wpdreams_searchBuddyPress->do_search
+[04-Mar-2014 19:25:18 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 9 for query 
+           SELECT
+             wp_users.ID as id,
+             wp_users.display_name as title,
+             '' as date,
+             '' as author
+           FROM
+             wp_users
+           WHERE 
+            () 
+         made by do_action('ASP_nopriv_ajaxsearchpro_search'), call_user_func_array, ajaxsearchpro_search, wpdreams_search->search, wpdreams_searchBuddyPress->do_search
+[05-Mar-2014 10:59:38 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 9 for query 
+           SELECT
+             wp_users.ID as id,
+             wp_users.display_name as title,
+             '' as date,
+             '' as author
+           FROM
+             wp_users
+           WHERE 
+            () 
+         made by do_action('ASP_ajaxsearchpro_search'), call_user_func_array, ajaxsearchpro_search, wpdreams_search->search, wpdreams_searchBuddyPress->do_search
+[05-Mar-2014 16:39:54 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 9 for query 
+           SELECT
+             wp_users.ID as id,
+             wp_users.display_name as title,
+             '' as date,
+             '' as author
+           FROM
+             wp_users
+           WHERE 
+            () 
+         made by do_action('ASP_nopriv_ajaxsearchpro_search'), call_user_func_array, ajaxsearchpro_search, wpdreams_search->search, wpdreams_searchBuddyPress->do_search
+[05-Mar-2014 16:40:47 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 9 for query 
+           SELECT
+             wp_users.ID as id,
+             wp_users.display_name as title,
+             '' as date,
+             '' as author
+           FROM
+             wp_users
+           WHERE 
+            () 
+         made by do_action('ASP_nopriv_ajaxsearchpro_search'), call_user_func_array, ajaxsearchpro_search, wpdreams_search->search, wpdreams_searchBuddyPress->do_search
+[05-Mar-2014 16:40:58 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 9 for query 
+           SELECT
+             wp_users.ID as id,
+             wp_users.display_name as title,
+             '' as date,
+             '' as author
+           FROM
+             wp_users
+           WHERE 
+            () 
+         made by do_action('ASP_nopriv_ajaxsearchpro_search'), call_user_func_array, ajaxsearchpro_search, wpdreams_search->search, wpdreams_searchBuddyPress->do_search
+[05-Mar-2014 17:00:29 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 9 for query 
+           SELECT
+             wp_users.ID as id,
+             wp_users.display_name as title,
+             '' as date,
+             '' as author
+           FROM
+             wp_users
+           WHERE 
+            () 
+         made by do_action('ASP_ajaxsearchpro_search'), call_user_func_array, ajaxsearchpro_search, wpdreams_search->search, wpdreams_searchBuddyPress->do_search
+[05-Mar-2014 17:00:36 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 9 for query 
+           SELECT
+             wp_users.ID as id,
+             wp_users.display_name as title,
+             '' as date,
+             '' as author
+           FROM
+             wp_users
+           WHERE 
+            () 
+         made by do_action('ASP_ajaxsearchpro_search'), call_user_func_array, ajaxsearchpro_search, wpdreams_search->search, wpdreams_searchBuddyPress->do_search
+[05-Mar-2014 17:00:39 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 9 for query 
+           SELECT
+             wp_users.ID as id,
+             wp_users.display_name as title,
+             '' as date,
+             '' as author
+           FROM
+             wp_users
+           WHERE 
+            () 
+         made by do_action('ASP_ajaxsearchpro_search'), call_user_func_array, ajaxsearchpro_search, wpdreams_search->search, wpdreams_searchBuddyPress->do_search
+[05-Mar-2014 17:00:41 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 9 for query 
+           SELECT
+             wp_users.ID as id,
+             wp_users.display_name as title,
+             '' as date,
+             '' as author
+           FROM
+             wp_users
+           WHERE 
+            () 
+         made by do_action('ASP_ajaxsearchpro_search'), call_user_func_array, ajaxsearchpro_search, wpdreams_search->search, wpdreams_searchBuddyPress->do_search
+[05-Mar-2014 17:00:47 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 9 for query 
+           SELECT
+             wp_users.ID as id,
+             wp_users.display_name as title,
+             '' as date,
+             '' as author
+           FROM
+             wp_users
+           WHERE 
+            () 
+         made by do_action('ASP_ajaxsearchpro_search'), call_user_func_array, ajaxsearchpro_search, wpdreams_search->search, wpdreams_searchBuddyPress->do_search
+[05-Mar-2014 17:00:52 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 9 for query 
+           SELECT
+             wp_users.ID as id,
+             wp_users.display_name as title,
+             '' as date,
+             '' as author
+           FROM
+             wp_users
+           WHERE 
+            () 
+         made by do_action('ASP_ajaxsearchpro_search'), call_user_func_array, ajaxsearchpro_search, wpdreams_search->search, wpdreams_searchBuddyPress->do_search
+[05-Mar-2014 17:00:54 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 9 for query 
+           SELECT
+             wp_users.ID as id,
+             wp_users.display_name as title,
+             '' as date,
+             '' as author
+           FROM
+             wp_users
+           WHERE 
+            () 
+         made by do_action('ASP_ajaxsearchpro_search'), call_user_func_array, ajaxsearchpro_search, wpdreams_search->search, wpdreams_searchBuddyPress->do_search
+[05-Mar-2014 17:01:04 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 9 for query 
+           SELECT
+             wp_users.ID as id,
+             wp_users.display_name as title,
+             '' as date,
+             '' as author
+           FROM
+             wp_users
+           WHERE 
+            () 
+         made by do_action('ASP_ajaxsearchpro_search'), call_user_func_array, ajaxsearchpro_search, wpdreams_search->search, wpdreams_searchBuddyPress->do_search
+[05-Mar-2014 17:01:06 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 9 for query 
+           SELECT
+             wp_users.ID as id,
+             wp_users.display_name as title,
+             '' as date,
+             '' as author
+           FROM
+             wp_users
+           WHERE 
+            () 
+         made by do_action('ASP_ajaxsearchpro_search'), call_user_func_array, ajaxsearchpro_search, wpdreams_search->search, wpdreams_searchBuddyPress->do_search
+[05-Mar-2014 17:01:08 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 9 for query 
+           SELECT
+             wp_users.ID as id,
+             wp_users.display_name as title,
+             '' as date,
+             '' as author
+           FROM
+             wp_users
+           WHERE 
+            () 
+         made by do_action('ASP_ajaxsearchpro_search'), call_user_func_array, ajaxsearchpro_search, wpdreams_search->search, wpdreams_searchBuddyPress->do_search
+[05-Mar-2014 17:01:29 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 9 for query 
+           SELECT
+             wp_users.ID as id,
+             wp_users.display_name as title,
+             '' as date,
+             '' as author
+           FROM
+             wp_users
+           WHERE 
+            () 
+         made by do_action('ASP_ajaxsearchpro_search'), call_user_func_array, ajaxsearchpro_search, wpdreams_search->search, wpdreams_searchBuddyPress->do_search
+[05-Mar-2014 17:01:42 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 9 for query 
+           SELECT
+             wp_users.ID as id,
+             wp_users.display_name as title,
+             '' as date,
+             '' as author
+           FROM
+             wp_users
+           WHERE 
+            () 
+         made by do_action('ASP_ajaxsearchpro_search'), call_user_func_array, ajaxsearchpro_search, wpdreams_search->search, wpdreams_searchBuddyPress->do_search
+[05-Mar-2014 17:02:03 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 9 for query 
+           SELECT
+             wp_users.ID as id,
+             wp_users.display_name as title,
+             '' as date,
+             '' as author
+           FROM
+             wp_users
+           WHERE 
+            () 
+         made by do_action('ASP_ajaxsearchpro_search'), call_user_func_array, ajaxsearchpro_search, wpdreams_search->search, wpdreams_searchBuddyPress->do_search
+[05-Mar-2014 17:04:17 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 9 for query 
+           SELECT
+             wp_users.ID as id,
+             wp_users.display_name as title,
+             '' as date,
+             '' as author
+           FROM
+             wp_users
+           WHERE 
+            () 
+         made by do_action('ASP_nopriv_ajaxsearchpro_search'), call_user_func_array, ajaxsearchpro_search, wpdreams_search->search, wpdreams_searchBuddyPress->do_search
+[05-Mar-2014 17:04:28 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 9 for query 
+           SELECT
+             wp_users.ID as id,
+             wp_users.display_name as title,
+             '' as date,
+             '' as author
+           FROM
+             wp_users
+           WHERE 
+            () 
+         made by do_action('ASP_nopriv_ajaxsearchpro_search'), call_user_func_array, ajaxsearchpro_search, wpdreams_search->search, wpdreams_searchBuddyPress->do_search
+[05-Mar-2014 17:04:41 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 9 for query 
+           SELECT
+             wp_users.ID as id,
+             wp_users.display_name as title,
+             '' as date,
+             '' as author
+           FROM
+             wp_users
+           WHERE 
+            () 
+         made by do_action('ASP_ajaxsearchpro_search'), call_user_func_array, ajaxsearchpro_search, wpdreams_search->search, wpdreams_searchBuddyPress->do_search
+[05-Mar-2014 17:04:51 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 9 for query 
+           SELECT
+             wp_users.ID as id,
+             wp_users.display_name as title,
+             '' as date,
+             '' as author
+           FROM
+             wp_users
+           WHERE 
+            () 
+         made by do_action('ASP_ajaxsearchpro_search'), call_user_func_array, ajaxsearchpro_search, wpdreams_search->search, wpdreams_searchBuddyPress->do_search
+[05-Mar-2014 17:05:17 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 9 for query 
+           SELECT
+             wp_users.ID as id,
+             wp_users.display_name as title,
+             '' as date,
+             '' as author
+           FROM
+             wp_users
+           WHERE 
+            () 
+         made by do_action('ASP_ajaxsearchpro_search'), call_user_func_array, ajaxsearchpro_search, wpdreams_search->search, wpdreams_searchBuddyPress->do_search
+[05-Mar-2014 17:09:26 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 9 for query 
+           SELECT
+             wp_users.ID as id,
+             wp_users.display_name as title,
+             '' as date,
+             '' as author
+           FROM
+             wp_users
+           WHERE 
+            () 
+         made by do_action('ASP_ajaxsearchpro_search'), call_user_func_array, ajaxsearchpro_search, wpdreams_search->search, wpdreams_searchBuddyPress->do_search
+[05-Mar-2014 17:12:26 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 9 for query 
+           SELECT
+             wp_users.ID as id,
+             wp_users.display_name as title,
+             '' as date,
+             '' as author
+           FROM
+             wp_users
+           WHERE 
+            () 
+         made by do_action('ASP_nopriv_ajaxsearchpro_search'), call_user_func_array, ajaxsearchpro_search, wpdreams_search->search, wpdreams_searchBuddyPress->do_search
+[05-Mar-2014 17:12:52 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 9 for query 
+           SELECT
+             wp_users.ID as id,
+             wp_users.display_name as title,
+             '' as date,
+             '' as author
+           FROM
+             wp_users
+           WHERE 
+            () 
+         made by do_action('ASP_ajaxsearchpro_search'), call_user_func_array, ajaxsearchpro_search, wpdreams_search->search, wpdreams_searchBuddyPress->do_search
+[05-Mar-2014 17:16:51 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 9 for query 
+           SELECT
+             wp_users.ID as id,
+             wp_users.display_name as title,
+             '' as date,
+             '' as author
+           FROM
+             wp_users
+           WHERE 
+            () 
+         made by do_action('ASP_ajaxsearchpro_search'), call_user_func_array, ajaxsearchpro_search, wpdreams_search->search, wpdreams_searchBuddyPress->do_search
+[05-Mar-2014 17:17:37 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 9 for query 
+           SELECT
+             wp_users.ID as id,
+             wp_users.display_name as title,
+             '' as date,
+             '' as author
+           FROM
+             wp_users
+           WHERE 
+            () 
+         made by do_action('ASP_ajaxsearchpro_search'), call_user_func_array, ajaxsearchpro_search, wpdreams_search->search, wpdreams_searchBuddyPress->do_search
+[05-Mar-2014 17:18:29 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 9 for query 
+           SELECT
+             wp_users.ID as id,
+             wp_users.display_name as title,
+             '' as date,
+             '' as author
+           FROM
+             wp_users
+           WHERE 
+            () 
+         made by do_action('ASP_ajaxsearchpro_search'), call_user_func_array, ajaxsearchpro_search, wpdreams_search->search, wpdreams_searchBuddyPress->do_search
+[05-Mar-2014 17:19:04 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 9 for query 
+           SELECT
+             wp_users.ID as id,
+             wp_users.display_name as title,
+             '' as date,
+             '' as author
+           FROM
+             wp_users
+           WHERE 
+            () 
+         made by do_action('ASP_ajaxsearchpro_search'), call_user_func_array, ajaxsearchpro_search, wpdreams_search->search, wpdreams_searchBuddyPress->do_search
+[05-Mar-2014 17:21:56 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 9 for query 
+           SELECT
+             wp_users.ID as id,
+             wp_users.display_name as title,
+             '' as date,
+             '' as author
+           FROM
+             wp_users
+           WHERE 
+            () 
+         made by do_action('ASP_ajaxsearchpro_search'), call_user_func_array, ajaxsearchpro_search, wpdreams_search->search, wpdreams_searchBuddyPress->do_search
+[05-Mar-2014 17:23:19 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 9 for query 
+           SELECT
+             wp_users.ID as id,
+             wp_users.display_name as title,
+             '' as date,
+             '' as author
+           FROM
+             wp_users
+           WHERE 
+            () 
+         made by do_action('ASP_nopriv_ajaxsearchpro_search'), call_user_func_array, ajaxsearchpro_search, wpdreams_search->search, wpdreams_searchBuddyPress->do_search
+[05-Mar-2014 17:23:28 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 9 for query 
+           SELECT
+             wp_users.ID as id,
+             wp_users.display_name as title,
+             '' as date,
+             '' as author
+           FROM
+             wp_users
+           WHERE 
+            () 
+         made by do_action('ASP_nopriv_ajaxsearchpro_search'), call_user_func_array, ajaxsearchpro_search, wpdreams_search->search, wpdreams_searchBuddyPress->do_search
+[05-Mar-2014 17:23:38 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 9 for query 
+           SELECT
+             wp_users.ID as id,
+             wp_users.display_name as title,
+             '' as date,
+             '' as author
+           FROM
+             wp_users
+           WHERE 
+            () 
+         made by do_action('ASP_nopriv_ajaxsearchpro_search'), call_user_func_array, ajaxsearchpro_search, wpdreams_search->search, wpdreams_searchBuddyPress->do_search
+[06-Mar-2014 09:39:52 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 9 for query 
+           SELECT
+             wp_users.ID as id,
+             wp_users.display_name as title,
+             '' as date,
+             '' as author
+           FROM
+             wp_users
+           WHERE 
+            () 
+         made by do_action('ASP_nopriv_ajaxsearchpro_search'), call_user_func_array, ajaxsearchpro_search, wpdreams_search->search, wpdreams_searchBuddyPress->do_search
+[11-Mar-2014 15:19:02 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'ajaxsearchpro_precache' not found or invalid function name in /home/wpdreams/test/latest/wp-includes/plugin.php on line 429
+[11-Mar-2014 15:19:35 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'ajaxsearchpro_precache' not found or invalid function name in /home/wpdreams/test/latest/wp-includes/plugin.php on line 429
+[11-Mar-2014 15:20:59 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'ajaxsearchpro_precache' not found or invalid function name in /home/wpdreams/test/latest/wp-includes/plugin.php on line 429
+[11-Mar-2014 16:01:44 UTC] PHP Warning:  parse_str() [<a href='function.parse-str'>function.parse-str</a>]: Input variables exceeded 1000. To increase the limit change max_input_vars in php.ini. in /home/wpdreams/test/latest/wp-content/plugins/ajax-search-pro/search.php on line 61
+[11-Mar-2014 16:01:44 UTC] PHP Fatal error:  Class 'wpdreams_searchFulltextContent' not found in /home/wpdreams/test/latest/wp-content/plugins/ajax-search-pro/search.php on line 149
+[11-Mar-2014 16:02:58 UTC] PHP Warning:  parse_str() [<a href='function.parse-str'>function.parse-str</a>]: Input variables exceeded 1000. To increase the limit change max_input_vars in php.ini. in /home/wpdreams/test/latest/wp-content/plugins/ajax-search-pro/search.php on line 61
+[11-Mar-2014 16:02:58 UTC] PHP Fatal error:  Class 'wpdreams_searchFulltextContent' not found in /home/wpdreams/test/latest/wp-content/plugins/ajax-search-pro/search.php on line 149
+[11-Mar-2014 16:03:32 UTC] PHP Warning:  require_once(/home/wpdreams/test/latest/wp-content/plugins/ajax-search-pro//includes/search_fulltext_content.class.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory in /home/wpdreams/test/latest/wp-content/plugins/ajax-search-pro/search.php on line 18
+[11-Mar-2014 16:03:32 UTC] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required '/home/wpdreams/test/latest/wp-content/plugins/ajax-search-pro//includes/search_fulltext_content.class.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/wpdreams/test/latest/wp-content/plugins/ajax-search-pro/search.php on line 18
+[11-Mar-2014 16:04:01 UTC] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING in /home/wpdreams/test/latest/wp-content/plugins/ajax-search-pro/includes/search_content_fulltext.class.php on line 46
+[11-Mar-2014 16:04:22 UTC] PHP Warning:  parse_str() [<a href='function.parse-str'>function.parse-str</a>]: Input variables exceeded 1000. To increase the limit change max_input_vars in php.ini. in /home/wpdreams/test/latest/wp-content/plugins/ajax-search-pro/search.php on line 62
+[11-Mar-2014 16:04:22 UTC] PHP Fatal error:  Class 'wpdreams_searchFulltextContent' not found in /home/wpdreams/test/latest/wp-content/plugins/ajax-search-pro/search.php on line 150
+[11-Mar-2014 16:05:01 UTC] PHP Warning:  parse_str() [<a href='function.parse-str'>function.parse-str</a>]: Input variables exceeded 1000. To increase the limit change max_input_vars in php.ini. in /home/wpdreams/test/latest/wp-content/plugins/ajax-search-pro/search.php on line 62
+[11-Mar-2014 16:05:01 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')			    
+        AND ( MATCH(asp_title_content_excerpt) AGAINST (test) )
+     ' at line 19 for query 
+    		SELECT 
+          wp_posts.post_title as title,
+          wp_posts.ID as id,
+          wp_posts.post_date as date,               
+          wp_posts.post_content as content,
+          wp_posts.post_excerpt as excerpt,
+          wp_users.user_nicename as author,
+          GROUP_CONCAT(DISTINCT wp_terms.term_id) as term_id,
+          wp_posts.post_type as post_type, MATCH(asp_title_content_excerpt) AGAINST (test)  
+          as relevance
+    		FROM wp_posts
+        LEFT JOIN wp_postmeta ON wp_postmeta.post_id = wp_posts.ID
+        LEFT JOIN wp_users ON wp_users.ID = wp_posts.post_author
+        LEFT JOIN wp_term_relationships ON wp_posts.ID = wp_term_relationships.object_id
+        LEFT JOIN wp_term_taxonomy ON wp_term_taxonomy.term_taxonomy_id = wp_term_relationships.term_taxonomy_id
+        LEFT JOIN wp_terms ON wp_term_taxonomy.term_id = wp_terms.term_id
+    		WHERE
+        (wp_posts.post_status='publish' ) AND
+        ()			    
+        AND ( MATCH(asp_title_content_excerpt) AGAINST (test) )
+        AND (wp_posts.ID NOT IN (-55))
+        GROUP BY
+          wp_posts.ID ORDER BY relevance DESC, wp_posts.post_date DESC
+        LIMIT 10 made by do_action('ASP_ajaxsearchpro_search'), call_user_func_array, ajaxsearchpro_search, wpdreams_search->search, wpdreams_searchContentFulltext->do_search
+[11-Mar-2014 16:10:40 UTC] PHP Warning:  parse_str() [<a href='function.parse-str'>function.parse-str</a>]: Input variables exceeded 1000. To increase the limit change max_input_vars in php.ini. in /home/wpdreams/test/latest/wp-content/plugins/ajax-search-pro/search.php on line 62
+[11-Mar-2014 16:10:40 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '.excerpt) AGAINST (test)  
+          as relevance
+    		FROM wp_posts
+       ' at line 9 for query 
+    		SELECT 
+          wp_posts.post_title as title,
+          wp_posts.ID as id,
+          wp_posts.post_date as date,               
+          wp_posts.post_content as content,
+          wp_posts.post_excerpt as excerpt,
+          wp_users.user_nicename as author,
+          GROUP_CONCAT(DISTINCT wp_terms.term_id) as term_id,
+          wp_posts.post_type as post_type, MATCH(asp_wp_posts.titlewp_posts.contentwp_posts.excerpt) AGAINST (test)  
+          as relevance
+    		FROM wp_posts
+        LEFT JOIN wp_postmeta ON wp_postmeta.post_id = wp_posts.ID
+        LEFT JOIN wp_users ON wp_users.ID = wp_posts.post_author
+        LEFT JOIN wp_term_relationships ON wp_posts.ID = wp_term_relationships.object_id
+        LEFT JOIN wp_term_taxonomy ON wp_term_taxonomy.term_taxonomy_id = wp_term_relationships.term_taxonomy_id
+        LEFT JOIN wp_terms ON wp_term_taxonomy.term_id = wp_terms.term_id
+    		WHERE
+        (wp_posts.post_status='publish' ) AND
+        (1)			    
+        AND ( MATCH(asp_wp_posts.titlewp_posts.contentwp_posts.excerpt) AGAINST (test) )
+        AND (wp_posts.ID NOT IN (-55))
+        GROUP BY
+          wp_posts.ID ORDER BY relevance DESC, wp_posts.post_date DESC
+        LIMIT 10 made by do_action('ASP_ajaxsearchpro_search'), call_user_func_array, ajaxsearchpro_search, wpdreams_search->search, wpdreams_searchContentFulltext->do_search
+[11-Mar-2014 16:13:18 UTC] PHP Warning:  parse_str() [<a href='function.parse-str'>function.parse-str</a>]: Input variables exceeded 1000. To increase the limit change max_input_vars in php.ini. in /home/wpdreams/test/latest/wp-content/plugins/ajax-search-pro/search.php on line 62
+[11-Mar-2014 16:13:18 UTC] WordPress database error Unknown column 'test' in 'field list' for query 
+    		SELECT 
+          wp_posts.post_title as title,
+          wp_posts.ID as id,
+          wp_posts.post_date as date,               
+          wp_posts.post_content as content,
+          wp_posts.post_excerpt as excerpt,
+          wp_users.user_nicename as author,
+          GROUP_CONCAT(DISTINCT wp_terms.term_id) as term_id,
+          wp_posts.post_type as post_type, MATCH(wp_posts.title, wp_posts.content, wp_posts.excerpt) AGAINST (test)  
+          as relevance
+    		FROM wp_posts
+        LEFT JOIN wp_postmeta ON wp_postmeta.post_id = wp_posts.ID
+        LEFT JOIN wp_users ON wp_users.ID = wp_posts.post_author
+        LEFT JOIN wp_term_relationships ON wp_posts.ID = wp_term_relationships.object_id
+        LEFT JOIN wp_term_taxonomy ON wp_term_taxonomy.term_taxonomy_id = wp_term_relationships.term_taxonomy_id
+        LEFT JOIN wp_terms ON wp_term_taxonomy.term_id = wp_terms.term_id
+    		WHERE
+        (wp_posts.post_status='publish' ) AND
+        (1)			    
+        AND ( MATCH(wp_posts.title, wp_posts.content, wp_posts.excerpt) AGAINST (test) )
+        AND (wp_posts.ID NOT IN (-55))
+        GROUP BY
+          wp_posts.ID ORDER BY relevance DESC, wp_posts.post_date DESC
+        LIMIT 10 made by do_action('ASP_ajaxsearchpro_search'), call_user_func_array, ajaxsearchpro_search, wpdreams_search->search, wpdreams_searchContentFulltext->do_search
+[11-Mar-2014 16:13:51 UTC] PHP Warning:  parse_str() [<a href='function.parse-str'>function.parse-str</a>]: Input variables exceeded 1000. To increase the limit change max_input_vars in php.ini. in /home/wpdreams/test/latest/wp-content/plugins/ajax-search-pro/search.php on line 62
+[11-Mar-2014 16:13:51 UTC] WordPress database error Unknown column 'wp_posts.title' in 'field list' for query 
+    		SELECT 
+          wp_posts.post_title as title,
+          wp_posts.ID as id,
+          wp_posts.post_date as date,               
+          wp_posts.post_content as content,
+          wp_posts.post_excerpt as excerpt,
+          wp_users.user_nicename as author,
+          GROUP_CONCAT(DISTINCT wp_terms.term_id) as term_id,
+          wp_posts.post_type as post_type, MATCH(wp_posts.title, wp_posts.content, wp_posts.excerpt) AGAINST ('test')  
+          as relevance
+    		FROM wp_posts
+        LEFT JOIN wp_postmeta ON wp_postmeta.post_id = wp_posts.ID
+        LEFT JOIN wp_users ON wp_users.ID = wp_posts.post_author
+        LEFT JOIN wp_term_relationships ON wp_posts.ID = wp_term_relationships.object_id
+        LEFT JOIN wp_term_taxonomy ON wp_term_taxonomy.term_taxonomy_id = wp_term_relationships.term_taxonomy_id
+        LEFT JOIN wp_terms ON wp_term_taxonomy.term_id = wp_terms.term_id
+    		WHERE
+        (wp_posts.post_status='publish' ) AND
+        (1)			    
+        AND ( MATCH(wp_posts.title, wp_posts.content, wp_posts.excerpt) AGAINST ('test') )
+        AND (wp_posts.ID NOT IN (-55))
+        GROUP BY
+          wp_posts.ID ORDER BY relevance DESC, wp_posts.post_date DESC
+        LIMIT 10 made by do_action('ASP_ajaxsearchpro_search'), call_user_func_array, ajaxsearchpro_search, wpdreams_search->search, wpdreams_searchContentFulltext->do_search
+[11-Mar-2014 16:14:38 UTC] PHP Warning:  parse_str() [<a href='function.parse-str'>function.parse-str</a>]: Input variables exceeded 1000. To increase the limit change max_input_vars in php.ini. in /home/wpdreams/test/latest/wp-content/plugins/ajax-search-pro/search.php on line 62
+[11-Mar-2014 16:15:30 UTC] PHP Warning:  parse_str() [<a href='function.parse-str'>function.parse-str</a>]: Input variables exceeded 1000. To increase the limit change max_input_vars in php.ini. in /home/wpdreams/test/latest/wp-content/plugins/ajax-search-pro/search.php on line 62
+[11-Mar-2014 16:15:31 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 9 for query 
+           SELECT
+             wp_users.ID as id,
+             wp_users.display_name as title,
+             '' as date,
+             '' as author
+           FROM
+             wp_users
+           WHERE 
+            () 
+         made by do_action('ASP_ajaxsearchpro_search'), call_user_func_array, ajaxsearchpro_search, wpdreams_search->search, wpdreams_searchBuddyPress->do_search
+[11-Mar-2014 16:15:38 UTC] PHP Warning:  parse_str() [<a href='function.parse-str'>function.parse-str</a>]: Input variables exceeded 1000. To increase the limit change max_input_vars in php.ini. in /home/wpdreams/test/latest/wp-content/plugins/ajax-search-pro/search.php on line 62
+[11-Mar-2014 16:15:38 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 9 for query 
+           SELECT
+             wp_users.ID as id,
+             wp_users.display_name as title,
+             '' as date,
+             '' as author
+           FROM
+             wp_users
+           WHERE 
+            () 
+         made by do_action('ASP_ajaxsearchpro_search'), call_user_func_array, ajaxsearchpro_search, wpdreams_search->search, wpdreams_searchBuddyPress->do_search
+[11-Mar-2014 16:15:52 UTC] PHP Warning:  parse_str() [<a href='function.parse-str'>function.parse-str</a>]: Input variables exceeded 1000. To increase the limit change max_input_vars in php.ini. in /home/wpdreams/test/latest/wp-content/plugins/ajax-search-pro/search.php on line 62
+[11-Mar-2014 16:15:52 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 9 for query 
+           SELECT
+             wp_users.ID as id,
+             wp_users.display_name as title,
+             '' as date,
+             '' as author
+           FROM
+             wp_users
+           WHERE 
+            () 
+         made by do_action('ASP_ajaxsearchpro_search'), call_user_func_array, ajaxsearchpro_search, wpdreams_search->search, wpdreams_searchBuddyPress->do_search
+[11-Mar-2014 16:16:03 UTC] PHP Warning:  parse_str() [<a href='function.parse-str'>function.parse-str</a>]: Input variables exceeded 1000. To increase the limit change max_input_vars in php.ini. in /home/wpdreams/test/latest/wp-content/plugins/ajax-search-pro/search.php on line 62
+[11-Mar-2014 16:16:03 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 9 for query 
+           SELECT
+             wp_users.ID as id,
+             wp_users.display_name as title,
+             '' as date,
+             '' as author
+           FROM
+             wp_users
+           WHERE 
+            () 
+         made by do_action('ASP_ajaxsearchpro_search'), call_user_func_array, ajaxsearchpro_search, wpdreams_search->search, wpdreams_searchBuddyPress->do_search
+[11-Mar-2014 16:16:10 UTC] PHP Warning:  parse_str() [<a href='function.parse-str'>function.parse-str</a>]: Input variables exceeded 1000. To increase the limit change max_input_vars in php.ini. in /home/wpdreams/test/latest/wp-content/plugins/ajax-search-pro/search.php on line 62
+[11-Mar-2014 16:16:11 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 9 for query 
+           SELECT
+             wp_users.ID as id,
+             wp_users.display_name as title,
+             '' as date,
+             '' as author
+           FROM
+             wp_users
+           WHERE 
+            () 
+         made by do_action('ASP_ajaxsearchpro_search'), call_user_func_array, ajaxsearchpro_search, wpdreams_search->search, wpdreams_searchBuddyPress->do_search
+[11-Mar-2014 16:16:17 UTC] PHP Warning:  parse_str() [<a href='function.parse-str'>function.parse-str</a>]: Input variables exceeded 1000. To increase the limit change max_input_vars in php.ini. in /home/wpdreams/test/latest/wp-content/plugins/ajax-search-pro/search.php on line 62
+[11-Mar-2014 16:16:17 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 9 for query 
+           SELECT
+             wp_users.ID as id,
+             wp_users.display_name as title,
+             '' as date,
+             '' as author
+           FROM
+             wp_users
+           WHERE 
+            () 
+         made by do_action('ASP_ajaxsearchpro_search'), call_user_func_array, ajaxsearchpro_search, wpdreams_search->search, wpdreams_searchBuddyPress->do_search
+[11-Mar-2014 16:16:22 UTC] PHP Warning:  parse_str() [<a href='function.parse-str'>function.parse-str</a>]: Input variables exceeded 1000. To increase the limit change max_input_vars in php.ini. in /home/wpdreams/test/latest/wp-content/plugins/ajax-search-pro/search.php on line 62
+[11-Mar-2014 16:16:22 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 9 for query 
+           SELECT
+             wp_users.ID as id,
+             wp_users.display_name as title,
+             '' as date,
+             '' as author
+           FROM
+             wp_users
+           WHERE 
+            () 
+         made by do_action('ASP_ajaxsearchpro_search'), call_user_func_array, ajaxsearchpro_search, wpdreams_search->search, wpdreams_searchBuddyPress->do_search
+[11-Mar-2014 16:17:47 UTC] PHP Warning:  parse_str() [<a href='function.parse-str'>function.parse-str</a>]: Input variables exceeded 1000. To increase the limit change max_input_vars in php.ini. in /home/wpdreams/test/latest/wp-content/plugins/ajax-search-pro/search.php on line 62
+[11-Mar-2014 16:17:48 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 9 for query 
+           SELECT
+             wp_users.ID as id,
+             wp_users.display_name as title,
+             '' as date,
+             '' as author
+           FROM
+             wp_users
+           WHERE 
+            () 
+         made by do_action('ASP_ajaxsearchpro_search'), call_user_func_array, ajaxsearchpro_search, wpdreams_search->search, wpdreams_searchBuddyPress->do_search
+[11-Mar-2014 16:17:52 UTC] PHP Warning:  parse_str() [<a href='function.parse-str'>function.parse-str</a>]: Input variables exceeded 1000. To increase the limit change max_input_vars in php.ini. in /home/wpdreams/test/latest/wp-content/plugins/ajax-search-pro/search.php on line 62
+[11-Mar-2014 16:17:52 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 9 for query 
+           SELECT
+             wp_users.ID as id,
+             wp_users.display_name as title,
+             '' as date,
+             '' as author
+           FROM
+             wp_users
+           WHERE 
+            () 
+         made by do_action('ASP_ajaxsearchpro_search'), call_user_func_array, ajaxsearchpro_search, wpdreams_search->search, wpdreams_searchBuddyPress->do_search
+[11-Mar-2014 16:18:21 UTC] PHP Warning:  parse_str() [<a href='function.parse-str'>function.parse-str</a>]: Input variables exceeded 1000. To increase the limit change max_input_vars in php.ini. in /home/wpdreams/test/latest/wp-content/plugins/ajax-search-pro/search.php on line 62
+[11-Mar-2014 16:18:22 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 9 for query 
+           SELECT
+             wp_users.ID as id,
+             wp_users.display_name as title,
+             '' as date,
+             '' as author
+           FROM
+             wp_users
+           WHERE 
+            () 
+         made by do_action('ASP_ajaxsearchpro_search'), call_user_func_array, ajaxsearchpro_search, wpdreams_search->search, wpdreams_searchBuddyPress->do_search
+[11-Mar-2014 16:19:07 UTC] PHP Warning:  parse_str() [<a href='function.parse-str'>function.parse-str</a>]: Input variables exceeded 1000. To increase the limit change max_input_vars in php.ini. in /home/wpdreams/test/latest/wp-content/plugins/ajax-search-pro/search.php on line 62
+[11-Mar-2014 16:19:08 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 9 for query 
+           SELECT
+             wp_users.ID as id,
+             wp_users.display_name as title,
+             '' as date,
+             '' as author
+           FROM
+             wp_users
+           WHERE 
+            () 
+         made by do_action('ASP_ajaxsearchpro_search'), call_user_func_array, ajaxsearchpro_search, wpdreams_search->search, wpdreams_searchBuddyPress->do_search
+[11-Mar-2014 16:19:16 UTC] PHP Warning:  parse_str() [<a href='function.parse-str'>function.parse-str</a>]: Input variables exceeded 1000. To increase the limit change max_input_vars in php.ini. in /home/wpdreams/test/latest/wp-content/plugins/ajax-search-pro/search.php on line 62
+[11-Mar-2014 16:19:18 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 9 for query 
+           SELECT
+             wp_users.ID as id,
+             wp_users.display_name as title,
+             '' as date,
+             '' as author
+           FROM
+             wp_users
+           WHERE 
+            () 
+         made by do_action('ASP_ajaxsearchpro_search'), call_user_func_array, ajaxsearchpro_search, wpdreams_search->search, wpdreams_searchBuddyPress->do_search
+[11-Mar-2014 16:19:39 UTC] PHP Warning:  parse_str() [<a href='function.parse-str'>function.parse-str</a>]: Input variables exceeded 1000. To increase the limit change max_input_vars in php.ini. in /home/wpdreams/test/latest/wp-content/plugins/ajax-search-pro/search.php on line 62
+[11-Mar-2014 16:19:40 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 9 for query 
+           SELECT
+             wp_users.ID as id,
+             wp_users.display_name as title,
+             '' as date,
+             '' as author
+           FROM
+             wp_users
+           WHERE 
+            () 
+         made by do_action('ASP_ajaxsearchpro_search'), call_user_func_array, ajaxsearchpro_search, wpdreams_search->search, wpdreams_searchBuddyPress->do_search
+[11-Mar-2014 16:19:46 UTC] PHP Warning:  parse_str() [<a href='function.parse-str'>function.parse-str</a>]: Input variables exceeded 1000. To increase the limit change max_input_vars in php.ini. in /home/wpdreams/test/latest/wp-content/plugins/ajax-search-pro/search.php on line 62
+[11-Mar-2014 16:19:46 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 9 for query 
+           SELECT
+             wp_users.ID as id,
+             wp_users.display_name as title,
+             '' as date,
+             '' as author
+           FROM
+             wp_users
+           WHERE 
+            () 
+         made by do_action('ASP_ajaxsearchpro_search'), call_user_func_array, ajaxsearchpro_search, wpdreams_search->search, wpdreams_searchBuddyPress->do_search
+[11-Mar-2014 17:00:37 UTC] PHP Warning:  parse_str() [<a href='function.parse-str'>function.parse-str</a>]: Input variables exceeded 1000. To increase the limit change max_input_vars in php.ini. in /home/wpdreams/test/latest/wp-content/plugins/ajax-search-pro/search.php on line 62
+[11-Mar-2014 17:00:39 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 9 for query 
+           SELECT
+             wp_users.ID as id,
+             wp_users.display_name as title,
+             '' as date,
+             '' as author
+           FROM
+             wp_users
+           WHERE 
+            () 
+         made by do_action('ASP_ajaxsearchpro_search'), call_user_func_array, ajaxsearchpro_search, wpdreams_search->search, wpdreams_searchBuddyPress->do_search
+[11-Mar-2014 17:00:43 UTC] PHP Warning:  parse_str() [<a href='function.parse-str'>function.parse-str</a>]: Input variables exceeded 1000. To increase the limit change max_input_vars in php.ini. in /home/wpdreams/test/latest/wp-content/plugins/ajax-search-pro/search.php on line 62
+[11-Mar-2014 17:00:44 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 9 for query 
+           SELECT
+             wp_users.ID as id,
+             wp_users.display_name as title,
+             '' as date,
+             '' as author
+           FROM
+             wp_users
+           WHERE 
+            () 
+         made by do_action('ASP_ajaxsearchpro_search'), call_user_func_array, ajaxsearchpro_search, wpdreams_search->search, wpdreams_searchBuddyPress->do_search
+[11-Mar-2014 17:01:00 UTC] PHP Warning:  parse_str() [<a href='function.parse-str'>function.parse-str</a>]: Input variables exceeded 1000. To increase the limit change max_input_vars in php.ini. in /home/wpdreams/test/latest/wp-content/plugins/ajax-search-pro/search.php on line 62
+[11-Mar-2014 17:01:03 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 9 for query 
+           SELECT
+             wp_users.ID as id,
+             wp_users.display_name as title,
+             '' as date,
+             '' as author
+           FROM
+             wp_users
+           WHERE 
+            () 
+         made by do_action('ASP_ajaxsearchpro_search'), call_user_func_array, ajaxsearchpro_search, wpdreams_search->search, wpdreams_searchBuddyPress->do_search
+[11-Mar-2014 17:01:08 UTC] PHP Warning:  parse_str() [<a href='function.parse-str'>function.parse-str</a>]: Input variables exceeded 1000. To increase the limit change max_input_vars in php.ini. in /home/wpdreams/test/latest/wp-content/plugins/ajax-search-pro/search.php on line 62
+[11-Mar-2014 17:01:08 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 9 for query 
+           SELECT
+             wp_users.ID as id,
+             wp_users.display_name as title,
+             '' as date,
+             '' as author
+           FROM
+             wp_users
+           WHERE 
+            () 
+         made by do_action('ASP_ajaxsearchpro_search'), call_user_func_array, ajaxsearchpro_search, wpdreams_search->search, wpdreams_searchBuddyPress->do_search
+[11-Mar-2014 17:01:11 UTC] PHP Warning:  parse_str() [<a href='function.parse-str'>function.parse-str</a>]: Input variables exceeded 1000. To increase the limit change max_input_vars in php.ini. in /home/wpdreams/test/latest/wp-content/plugins/ajax-search-pro/search.php on line 62
+[11-Mar-2014 17:01:12 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 9 for query 
+           SELECT
+             wp_users.ID as id,
+             wp_users.display_name as title,
+             '' as date,
+             '' as author
+           FROM
+             wp_users
+           WHERE 
+            () 
+         made by do_action('ASP_ajaxsearchpro_search'), call_user_func_array, ajaxsearchpro_search, wpdreams_search->search, wpdreams_searchBuddyPress->do_search
+[11-Mar-2014 17:01:17 UTC] PHP Warning:  parse_str() [<a href='function.parse-str'>function.parse-str</a>]: Input variables exceeded 1000. To increase the limit change max_input_vars in php.ini. in /home/wpdreams/test/latest/wp-content/plugins/ajax-search-pro/search.php on line 62
+[11-Mar-2014 17:01:17 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 9 for query 
+           SELECT
+             wp_users.ID as id,
+             wp_users.display_name as title,
+             '' as date,
+             '' as author
+           FROM
+             wp_users
+           WHERE 
+            () 
+         made by do_action('ASP_ajaxsearchpro_search'), call_user_func_array, ajaxsearchpro_search, wpdreams_search->search, wpdreams_searchBuddyPress->do_search
+[11-Mar-2014 17:01:20 UTC] PHP Warning:  parse_str() [<a href='function.parse-str'>function.parse-str</a>]: Input variables exceeded 1000. To increase the limit change max_input_vars in php.ini. in /home/wpdreams/test/latest/wp-content/plugins/ajax-search-pro/search.php on line 62
+[11-Mar-2014 17:01:21 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 9 for query 
+           SELECT
+             wp_users.ID as id,
+             wp_users.display_name as title,
+             '' as date,
+             '' as author
+           FROM
+             wp_users
+           WHERE 
+            () 
+         made by do_action('ASP_ajaxsearchpro_search'), call_user_func_array, ajaxsearchpro_search, wpdreams_search->search, wpdreams_searchBuddyPress->do_search
+[11-Mar-2014 17:01:22 UTC] PHP Warning:  parse_str() [<a href='function.parse-str'>function.parse-str</a>]: Input variables exceeded 1000. To increase the limit change max_input_vars in php.ini. in /home/wpdreams/test/latest/wp-content/plugins/ajax-search-pro/search.php on line 62
+[11-Mar-2014 17:01:24 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 9 for query 
+           SELECT
+             wp_users.ID as id,
+             wp_users.display_name as title,
+             '' as date,
+             '' as author
+           FROM
+             wp_users
+           WHERE 
+            () 
+         made by do_action('ASP_ajaxsearchpro_search'), call_user_func_array, ajaxsearchpro_search, wpdreams_search->search, wpdreams_searchBuddyPress->do_search
+[11-Mar-2014 17:01:58 UTC] PHP Warning:  parse_str() [<a href='function.parse-str'>function.parse-str</a>]: Input variables exceeded 1000. To increase the limit change max_input_vars in php.ini. in /home/wpdreams/test/latest/wp-content/plugins/ajax-search-pro/search.php on line 62
+[11-Mar-2014 17:01:58 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 9 for query 
+           SELECT
+             wp_users.ID as id,
+             wp_users.display_name as title,
+             '' as date,
+             '' as author
+           FROM
+             wp_users
+           WHERE 
+            () 
+         made by do_action('ASP_ajaxsearchpro_search'), call_user_func_array, ajaxsearchpro_search, wpdreams_search->search, wpdreams_searchBuddyPress->do_search
+[11-Mar-2014 17:03:04 UTC] PHP Warning:  parse_str() [<a href='function.parse-str'>function.parse-str</a>]: Input variables exceeded 1000. To increase the limit change max_input_vars in php.ini. in /home/wpdreams/test/latest/wp-content/plugins/ajax-search-pro/search.php on line 62
+[11-Mar-2014 17:03:04 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 9 for query 
+           SELECT
+             wp_users.ID as id,
+             wp_users.display_name as title,
+             '' as date,
+             '' as author
+           FROM
+             wp_users
+           WHERE 
+            () 
+         made by do_action('ASP_ajaxsearchpro_search'), call_user_func_array, ajaxsearchpro_search, wpdreams_search->search, wpdreams_searchBuddyPress->do_search
+[11-Mar-2014 17:03:29 UTC] PHP Warning:  parse_str() [<a href='function.parse-str'>function.parse-str</a>]: Input variables exceeded 1000. To increase the limit change max_input_vars in php.ini. in /home/wpdreams/test/latest/wp-content/plugins/ajax-search-pro/search.php on line 62
+[11-Mar-2014 17:13:28 UTC] PHP Warning:  parse_str() [<a href='function.parse-str'>function.parse-str</a>]: Input variables exceeded 1000. To increase the limit change max_input_vars in php.ini. in /home/wpdreams/test/latest/wp-content/plugins/ajax-search-pro/search.php on line 62
+[11-Mar-2014 17:13:29 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 9 for query 
+           SELECT
+             wp_users.ID as id,
+             wp_users.display_name as title,
+             '' as date,
+             '' as author
+           FROM
+             wp_users
+           WHERE 
+            () 
+         made by do_action('ASP_ajaxsearchpro_search'), call_user_func_array, ajaxsearchpro_search, wpdreams_search->search, wpdreams_searchBuddyPress->do_search
+[11-Mar-2014 17:13:33 UTC] PHP Warning:  parse_str() [<a href='function.parse-str'>function.parse-str</a>]: Input variables exceeded 1000. To increase the limit change max_input_vars in php.ini. in /home/wpdreams/test/latest/wp-content/plugins/ajax-search-pro/search.php on line 62
+[11-Mar-2014 17:13:33 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 9 for query 
+           SELECT
+             wp_users.ID as id,
+             wp_users.display_name as title,
+             '' as date,
+             '' as author
+           FROM
+             wp_users
+           WHERE 
+            () 
+         made by do_action('ASP_ajaxsearchpro_search'), call_user_func_array, ajaxsearchpro_search, wpdreams_search->search, wpdreams_searchBuddyPress->do_search
+[11-Mar-2014 17:13:39 UTC] PHP Warning:  parse_str() [<a href='function.parse-str'>function.parse-str</a>]: Input variables exceeded 1000. To increase the limit change max_input_vars in php.ini. in /home/wpdreams/test/latest/wp-content/plugins/ajax-search-pro/search.php on line 62
+[11-Mar-2014 17:13:40 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 9 for query 
+           SELECT
+             wp_users.ID as id,
+             wp_users.display_name as title,
+             '' as date,
+             '' as author
+           FROM
+             wp_users
+           WHERE 
+            () 
+         made by do_action('ASP_ajaxsearchpro_search'), call_user_func_array, ajaxsearchpro_search, wpdreams_search->search, wpdreams_searchBuddyPress->do_search
+[11-Mar-2014 17:13:42 UTC] PHP Warning:  parse_str() [<a href='function.parse-str'>function.parse-str</a>]: Input variables exceeded 1000. To increase the limit change max_input_vars in php.ini. in /home/wpdreams/test/latest/wp-content/plugins/ajax-search-pro/search.php on line 62
+[11-Mar-2014 17:13:42 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 9 for query 
+           SELECT
+             wp_users.ID as id,
+             wp_users.display_name as title,
+             '' as date,
+             '' as author
+           FROM
+             wp_users
+           WHERE 
+            () 
+         made by do_action('ASP_ajaxsearchpro_search'), call_user_func_array, ajaxsearchpro_search, wpdreams_search->search, wpdreams_searchBuddyPress->do_search
+[11-Mar-2014 17:13:46 UTC] PHP Warning:  parse_str() [<a href='function.parse-str'>function.parse-str</a>]: Input variables exceeded 1000. To increase the limit change max_input_vars in php.ini. in /home/wpdreams/test/latest/wp-content/plugins/ajax-search-pro/search.php on line 62
+[11-Mar-2014 17:13:47 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 9 for query 
+           SELECT
+             wp_users.ID as id,
+             wp_users.display_name as title,
+             '' as date,
+             '' as author
+           FROM
+             wp_users
+           WHERE 
+            () 
+         made by do_action('ASP_ajaxsearchpro_search'), call_user_func_array, ajaxsearchpro_search, wpdreams_search->search, wpdreams_searchBuddyPress->do_search
+[11-Mar-2014 17:14:04 UTC] PHP Warning:  parse_str() [<a href='function.parse-str'>function.parse-str</a>]: Input variables exceeded 1000. To increase the limit change max_input_vars in php.ini. in /home/wpdreams/test/latest/wp-content/plugins/ajax-search-pro/search.php on line 62
+[11-Mar-2014 17:14:04 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 9 for query 
+           SELECT
+             wp_users.ID as id,
+             wp_users.display_name as title,
+             '' as date,
+             '' as author
+           FROM
+             wp_users
+           WHERE 
+            () 
+         made by do_action('ASP_ajaxsearchpro_search'), call_user_func_array, ajaxsearchpro_search, wpdreams_search->search, wpdreams_searchBuddyPress->do_search
+[11-Mar-2014 17:14:25 UTC] PHP Warning:  parse_str() [<a href='function.parse-str'>function.parse-str</a>]: Input variables exceeded 1000. To increase the limit change max_input_vars in php.ini. in /home/wpdreams/test/latest/wp-content/plugins/ajax-search-pro/search.php on line 62
+[11-Mar-2014 17:14:47 UTC] PHP Warning:  parse_str() [<a href='function.parse-str'>function.parse-str</a>]: Input variables exceeded 1000. To increase the limit change max_input_vars in php.ini. in /home/wpdreams/test/latest/wp-content/plugins/ajax-search-pro/search.php on line 62
+[11-Mar-2014 17:14:47 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 9 for query 
+           SELECT
+             wp_users.ID as id,
+             wp_users.display_name as title,
+             '' as date,
+             '' as author
+           FROM
+             wp_users
+           WHERE 
+            () 
+         made by do_action('ASP_ajaxsearchpro_search'), call_user_func_array, ajaxsearchpro_search, wpdreams_search->search, wpdreams_searchBuddyPress->do_search
+[11-Mar-2014 17:16:37 UTC] PHP Warning:  parse_str() [<a href='function.parse-str'>function.parse-str</a>]: Input variables exceeded 1000. To increase the limit change max_input_vars in php.ini. in /home/wpdreams/test/latest/wp-content/plugins/ajax-search-pro/search.php on line 62
+[11-Mar-2014 17:16:37 UTC] PHP Fatal error:  Class 'wpdreams_fulltext' not found in /home/wpdreams/test/latest/wp-content/plugins/ajax-search-pro/includes/search_content_fulltext.class.php on line 36
+[11-Mar-2014 17:17:16 UTC] PHP Warning:  parse_str() [<a href='function.parse-str'>function.parse-str</a>]: Input variables exceeded 1000. To increase the limit change max_input_vars in php.ini. in /home/wpdreams/test/latest/wp-content/plugins/ajax-search-pro/search.php on line 62
+[11-Mar-2014 17:17:16 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 9 for query 
+           SELECT
+             wp_users.ID as id,
+             wp_users.display_name as title,
+             '' as date,
+             '' as author
+           FROM
+             wp_users
+           WHERE 
+            () 
+         made by do_action('ASP_ajaxsearchpro_search'), call_user_func_array, ajaxsearchpro_search, wpdreams_search->search, wpdreams_searchBuddyPress->do_search
+[11-Mar-2014 17:17:19 UTC] PHP Warning:  parse_str() [<a href='function.parse-str'>function.parse-str</a>]: Input variables exceeded 1000. To increase the limit change max_input_vars in php.ini. in /home/wpdreams/test/latest/wp-content/plugins/ajax-search-pro/search.php on line 62
+[11-Mar-2014 17:17:19 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 9 for query 
+           SELECT
+             wp_users.ID as id,
+             wp_users.display_name as title,
+             '' as date,
+             '' as author
+           FROM
+             wp_users
+           WHERE 
+            () 
+         made by do_action('ASP_ajaxsearchpro_search'), call_user_func_array, ajaxsearchpro_search, wpdreams_search->search, wpdreams_searchBuddyPress->do_search
+[11-Mar-2014 17:17:34 UTC] PHP Warning:  parse_str() [<a href='function.parse-str'>function.parse-str</a>]: Input variables exceeded 1000. To increase the limit change max_input_vars in php.ini. in /home/wpdreams/test/latest/wp-content/plugins/ajax-search-pro/search.php on line 62
+[11-Mar-2014 17:17:34 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 9 for query 
+           SELECT
+             wp_users.ID as id,
+             wp_users.display_name as title,
+             '' as date,
+             '' as author
+           FROM
+             wp_users
+           WHERE 
+            () 
+         made by do_action('ASP_ajaxsearchpro_search'), call_user_func_array, ajaxsearchpro_search, wpdreams_search->search, wpdreams_searchBuddyPress->do_search
+[11-Mar-2014 17:17:39 UTC] PHP Warning:  parse_str() [<a href='function.parse-str'>function.parse-str</a>]: Input variables exceeded 1000. To increase the limit change max_input_vars in php.ini. in /home/wpdreams/test/latest/wp-content/plugins/ajax-search-pro/search.php on line 62
+[11-Mar-2014 17:17:40 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 9 for query 
+           SELECT
+             wp_users.ID as id,
+             wp_users.display_name as title,
+             '' as date,
+             '' as author
+           FROM
+             wp_users
+           WHERE 
+            () 
+         made by do_action('ASP_ajaxsearchpro_search'), call_user_func_array, ajaxsearchpro_search, wpdreams_search->search, wpdreams_searchBuddyPress->do_search
+[11-Mar-2014 17:23:39 UTC] PHP Warning:  parse_str() [<a href='function.parse-str'>function.parse-str</a>]: Input variables exceeded 1000. To increase the limit change max_input_vars in php.ini. in /home/wpdreams/test/latest/wp-content/plugins/ajax-search-pro/search.php on line 62
+[11-Mar-2014 17:23:39 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 9 for query 
+           SELECT
+             wp_users.ID as id,
+             wp_users.display_name as title,
+             '' as date,
+             '' as author
+           FROM
+             wp_users
+           WHERE 
+            () 
+         made by do_action('ASP_ajaxsearchpro_search'), call_user_func_array, ajaxsearchpro_search, wpdreams_search->search, wpdreams_searchBuddyPress->do_search
+[11-Mar-2014 17:23:44 UTC] PHP Warning:  parse_str() [<a href='function.parse-str'>function.parse-str</a>]: Input variables exceeded 1000. To increase the limit change max_input_vars in php.ini. in /home/wpdreams/test/latest/wp-content/plugins/ajax-search-pro/search.php on line 62
+[11-Mar-2014 17:23:44 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 9 for query 
+           SELECT
+             wp_users.ID as id,
+             wp_users.display_name as title,
+             '' as date,
+             '' as author
+           FROM
+             wp_users
+           WHERE 
+            () 
+         made by do_action('ASP_ajaxsearchpro_search'), call_user_func_array, ajaxsearchpro_search, wpdreams_search->search, wpdreams_searchBuddyPress->do_search
+[11-Mar-2014 17:32:23 UTC] PHP Warning:  parse_str() [<a href='function.parse-str'>function.parse-str</a>]: Input variables exceeded 1000. To increase the limit change max_input_vars in php.ini. in /home/wpdreams/test/latest/wp-content/plugins/ajax-search-pro/search.php on line 62
+[11-Mar-2014 17:32:23 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 9 for query 
+           SELECT
+             wp_users.ID as id,
+             wp_users.display_name as title,
+             '' as date,
+             '' as author
+           FROM
+             wp_users
+           WHERE 
+            () 
+         made by do_action('ASP_ajaxsearchpro_search'), call_user_func_array, ajaxsearchpro_search, wpdreams_search->search, wpdreams_searchBuddyPress->do_search
+[11-Mar-2014 17:34:00 UTC] PHP Warning:  parse_str() [<a href='function.parse-str'>function.parse-str</a>]: Input variables exceeded 1000. To increase the limit change max_input_vars in php.ini. in /home/wpdreams/test/latest/wp-content/plugins/ajax-search-pro/search.php on line 62
+[11-Mar-2014 17:34:00 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 9 for query 
+           SELECT
+             wp_users.ID as id,
+             wp_users.display_name as title,
+             '' as date,
+             '' as author
+           FROM
+             wp_users
+           WHERE 
+            () 
+         made by do_action('ASP_ajaxsearchpro_search'), call_user_func_array, ajaxsearchpro_search, wpdreams_search->search, wpdreams_searchBuddyPress->do_search
+[11-Mar-2014 17:34:07 UTC] PHP Warning:  parse_str() [<a href='function.parse-str'>function.parse-str</a>]: Input variables exceeded 1000. To increase the limit change max_input_vars in php.ini. in /home/wpdreams/test/latest/wp-content/plugins/ajax-search-pro/search.php on line 62
+[11-Mar-2014 17:34:07 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 9 for query 
+           SELECT
+             wp_users.ID as id,
+             wp_users.display_name as title,
+             '' as date,
+             '' as author
+           FROM
+             wp_users
+           WHERE 
+            () 
+         made by do_action('ASP_ajaxsearchpro_search'), call_user_func_array, ajaxsearchpro_search, wpdreams_search->search, wpdreams_searchBuddyPress->do_search
+[11-Mar-2014 17:34:11 UTC] PHP Warning:  parse_str() [<a href='function.parse-str'>function.parse-str</a>]: Input variables exceeded 1000. To increase the limit change max_input_vars in php.ini. in /home/wpdreams/test/latest/wp-content/plugins/ajax-search-pro/search.php on line 62
+[11-Mar-2014 17:34:11 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 9 for query 
+           SELECT
+             wp_users.ID as id,
+             wp_users.display_name as title,
+             '' as date,
+             '' as author
+           FROM
+             wp_users
+           WHERE 
+            () 
+         made by do_action('ASP_ajaxsearchpro_search'), call_user_func_array, ajaxsearchpro_search, wpdreams_search->search, wpdreams_searchBuddyPress->do_search
+[11-Mar-2014 17:34:17 UTC] PHP Warning:  parse_str() [<a href='function.parse-str'>function.parse-str</a>]: Input variables exceeded 1000. To increase the limit change max_input_vars in php.ini. in /home/wpdreams/test/latest/wp-content/plugins/ajax-search-pro/search.php on line 62
+[11-Mar-2014 17:34:17 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 9 for query 
+           SELECT
+             wp_users.ID as id,
+             wp_users.display_name as title,
+             '' as date,
+             '' as author
+           FROM
+             wp_users
+           WHERE 
+            () 
+         made by do_action('ASP_ajaxsearchpro_search'), call_user_func_array, ajaxsearchpro_search, wpdreams_search->search, wpdreams_searchBuddyPress->do_search
+[11-Mar-2014 17:34:51 UTC] PHP Warning:  parse_str() [<a href='function.parse-str'>function.parse-str</a>]: Input variables exceeded 1000. To increase the limit change max_input_vars in php.ini. in /home/wpdreams/test/latest/wp-content/plugins/ajax-search-pro/search.php on line 62
+[11-Mar-2014 17:35:04 UTC] PHP Warning:  parse_str() [<a href='function.parse-str'>function.parse-str</a>]: Input variables exceeded 1000. To increase the limit change max_input_vars in php.ini. in /home/wpdreams/test/latest/wp-content/plugins/ajax-search-pro/search.php on line 62
+[11-Mar-2014 17:35:41 UTC] PHP Warning:  parse_str() [<a href='function.parse-str'>function.parse-str</a>]: Input variables exceeded 1000. To increase the limit change max_input_vars in php.ini. in /home/wpdreams/test/latest/wp-content/plugins/ajax-search-pro/search.php on line 62
+[11-Mar-2014 17:38:17 UTC] PHP Warning:  parse_str() [<a href='function.parse-str'>function.parse-str</a>]: Input variables exceeded 1000. To increase the limit change max_input_vars in php.ini. in /home/wpdreams/test/latest/wp-content/plugins/ajax-search-pro/search.php on line 62
+[11-Mar-2014 17:38:17 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 9 for query 
+           SELECT
+             wp_users.ID as id,
+             wp_users.display_name as title,
+             '' as date,
+             '' as author
+           FROM
+             wp_users
+           WHERE 
+            () 
+         made by do_action('ASP_ajaxsearchpro_search'), call_user_func_array, ajaxsearchpro_search, wpdreams_search->search, wpdreams_searchBuddyPress->do_search
+[11-Mar-2014 17:38:25 UTC] PHP Warning:  parse_str() [<a href='function.parse-str'>function.parse-str</a>]: Input variables exceeded 1000. To increase the limit change max_input_vars in php.ini. in /home/wpdreams/test/latest/wp-content/plugins/ajax-search-pro/search.php on line 62
+[11-Mar-2014 17:38:26 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 9 for query 
+           SELECT
+             wp_users.ID as id,
+             wp_users.display_name as title,
+             '' as date,
+             '' as author
+           FROM
+             wp_users
+           WHERE 
+            () 
+         made by do_action('ASP_ajaxsearchpro_search'), call_user_func_array, ajaxsearchpro_search, wpdreams_search->search, wpdreams_searchBuddyPress->do_search
+[11-Mar-2014 17:38:33 UTC] PHP Warning:  parse_str() [<a href='function.parse-str'>function.parse-str</a>]: Input variables exceeded 1000. To increase the limit change max_input_vars in php.ini. in /home/wpdreams/test/latest/wp-content/plugins/ajax-search-pro/search.php on line 62
+[11-Mar-2014 17:38:33 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 9 for query 
+           SELECT
+             wp_users.ID as id,
+             wp_users.display_name as title,
+             '' as date,
+             '' as author
+           FROM
+             wp_users
+           WHERE 
+            () 
+         made by do_action('ASP_ajaxsearchpro_search'), call_user_func_array, ajaxsearchpro_search, wpdreams_search->search, wpdreams_searchBuddyPress->do_search
+[11-Mar-2014 17:38:39 UTC] PHP Warning:  parse_str() [<a href='function.parse-str'>function.parse-str</a>]: Input variables exceeded 1000. To increase the limit change max_input_vars in php.ini. in /home/wpdreams/test/latest/wp-content/plugins/ajax-search-pro/search.php on line 62
+[11-Mar-2014 17:38:39 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 9 for query 
+           SELECT
+             wp_users.ID as id,
+             wp_users.display_name as title,
+             '' as date,
+             '' as author
+           FROM
+             wp_users
+           WHERE 
+            () 
+         made by do_action('ASP_ajaxsearchpro_search'), call_user_func_array, ajaxsearchpro_search, wpdreams_search->search, wpdreams_searchBuddyPress->do_search
+[11-Mar-2014 17:39:14 UTC] PHP Warning:  parse_str() [<a href='function.parse-str'>function.parse-str</a>]: Input variables exceeded 1000. To increase the limit change max_input_vars in php.ini. in /home/wpdreams/test/latest/wp-content/plugins/ajax-search-pro/search.php on line 62
+[11-Mar-2014 17:39:14 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 9 for query 
+           SELECT
+             wp_users.ID as id,
+             wp_users.display_name as title,
+             '' as date,
+             '' as author
+           FROM
+             wp_users
+           WHERE 
+            () 
+         made by do_action('ASP_ajaxsearchpro_search'), call_user_func_array, ajaxsearchpro_search, wpdreams_search->search, wpdreams_searchBuddyPress->do_search
+[11-Mar-2014 17:39:19 UTC] PHP Warning:  parse_str() [<a href='function.parse-str'>function.parse-str</a>]: Input variables exceeded 1000. To increase the limit change max_input_vars in php.ini. in /home/wpdreams/test/latest/wp-content/plugins/ajax-search-pro/search.php on line 62
+[11-Mar-2014 17:39:19 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 9 for query 
+           SELECT
+             wp_users.ID as id,
+             wp_users.display_name as title,
+             '' as date,
+             '' as author
+           FROM
+             wp_users
+           WHERE 
+            () 
+         made by do_action('ASP_ajaxsearchpro_search'), call_user_func_array, ajaxsearchpro_search, wpdreams_search->search, wpdreams_searchBuddyPress->do_search
+[11-Mar-2014 17:39:27 UTC] PHP Warning:  parse_str() [<a href='function.parse-str'>function.parse-str</a>]: Input variables exceeded 1000. To increase the limit change max_input_vars in php.ini. in /home/wpdreams/test/latest/wp-content/plugins/ajax-search-pro/search.php on line 62
+[11-Mar-2014 17:39:27 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 9 for query 
+           SELECT
+             wp_users.ID as id,
+             wp_users.display_name as title,
+             '' as date,
+             '' as author
+           FROM
+             wp_users
+           WHERE 
+            () 
+         made by do_action('ASP_ajaxsearchpro_search'), call_user_func_array, ajaxsearchpro_search, wpdreams_search->search, wpdreams_searchBuddyPress->do_search
+[11-Mar-2014 17:39:32 UTC] PHP Warning:  parse_str() [<a href='function.parse-str'>function.parse-str</a>]: Input variables exceeded 1000. To increase the limit change max_input_vars in php.ini. in /home/wpdreams/test/latest/wp-content/plugins/ajax-search-pro/search.php on line 62
+[11-Mar-2014 17:39:32 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 9 for query 
+           SELECT
+             wp_users.ID as id,
+             wp_users.display_name as title,
+             '' as date,
+             '' as author
+           FROM
+             wp_users
+           WHERE 
+            () 
+         made by do_action('ASP_ajaxsearchpro_search'), call_user_func_array, ajaxsearchpro_search, wpdreams_search->search, wpdreams_searchBuddyPress->do_search
+[11-Mar-2014 17:44:38 UTC] PHP Warning:  parse_str() [<a href='function.parse-str'>function.parse-str</a>]: Input variables exceeded 1000. To increase the limit change max_input_vars in php.ini. in /home/wpdreams/test/latest/wp-content/plugins/ajax-search-pro/search.php on line 62
+[11-Mar-2014 17:44:39 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 9 for query 
+           SELECT
+             wp_users.ID as id,
+             wp_users.display_name as title,
+             '' as date,
+             '' as author
+           FROM
+             wp_users
+           WHERE 
+            () 
+         made by do_action('ASP_ajaxsearchpro_search'), call_user_func_array, ajaxsearchpro_search, wpdreams_search->search, wpdreams_searchBuddyPress->do_search
+[11-Mar-2014 17:45:10 UTC] PHP Warning:  parse_str() [<a href='function.parse-str'>function.parse-str</a>]: Input variables exceeded 1000. To increase the limit change max_input_vars in php.ini. in /home/wpdreams/test/latest/wp-content/plugins/ajax-search-pro/search.php on line 62
+[11-Mar-2014 17:45:12 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 9 for query 
+           SELECT
+             wp_users.ID as id,
+             wp_users.display_name as title,
+             '' as date,
+             '' as author
+           FROM
+             wp_users
+           WHERE 
+            () 
+         made by do_action('ASP_ajaxsearchpro_search'), call_user_func_array, ajaxsearchpro_search, wpdreams_search->search, wpdreams_searchBuddyPress->do_search
+[11-Mar-2014 17:45:25 UTC] PHP Warning:  parse_str() [<a href='function.parse-str'>function.parse-str</a>]: Input variables exceeded 1000. To increase the limit change max_input_vars in php.ini. in /home/wpdreams/test/latest/wp-content/plugins/ajax-search-pro/search.php on line 62
+[11-Mar-2014 17:45:25 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 9 for query 
+           SELECT
+             wp_users.ID as id,
+             wp_users.display_name as title,
+             '' as date,
+             '' as author
+           FROM
+             wp_users
+           WHERE 
+            () 
+         made by do_action('ASP_ajaxsearchpro_search'), call_user_func_array, ajaxsearchpro_search, wpdreams_search->search, wpdreams_searchBuddyPress->do_search
+[11-Mar-2014 17:46:16 UTC] PHP Warning:  parse_str() [<a href='function.parse-str'>function.parse-str</a>]: Input variables exceeded 1000. To increase the limit change max_input_vars in php.ini. in /home/wpdreams/test/latest/wp-content/plugins/ajax-search-pro/search.php on line 62
+[11-Mar-2014 17:46:16 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 9 for query 
+           SELECT
+             wp_users.ID as id,
+             wp_users.display_name as title,
+             '' as date,
+             '' as author
+           FROM
+             wp_users
+           WHERE 
+            () 
+         made by do_action('ASP_ajaxsearchpro_search'), call_user_func_array, ajaxsearchpro_search, wpdreams_search->search, wpdreams_searchBuddyPress->do_search
+[11-Mar-2014 17:47:03 UTC] PHP Warning:  parse_str() [<a href='function.parse-str'>function.parse-str</a>]: Input variables exceeded 1000. To increase the limit change max_input_vars in php.ini. in /home/wpdreams/test/latest/wp-content/plugins/ajax-search-pro/search.php on line 62
+[11-Mar-2014 17:47:04 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 9 for query 
+           SELECT
+             wp_users.ID as id,
+             wp_users.display_name as title,
+             '' as date,
+             '' as author
+           FROM
+             wp_users
+           WHERE 
+            () 
+         made by do_action('ASP_ajaxsearchpro_search'), call_user_func_array, ajaxsearchpro_search, wpdreams_search->search, wpdreams_searchBuddyPress->do_search
+[11-Mar-2014 17:48:33 UTC] PHP Warning:  parse_str() [<a href='function.parse-str'>function.parse-str</a>]: Input variables exceeded 1000. To increase the limit change max_input_vars in php.ini. in /home/wpdreams/test/latest/wp-content/plugins/ajax-search-pro/search.php on line 62
+[11-Mar-2014 17:49:00 UTC] PHP Warning:  parse_str() [<a href='function.parse-str'>function.parse-str</a>]: Input variables exceeded 1000. To increase the limit change max_input_vars in php.ini. in /home/wpdreams/test/latest/wp-content/plugins/ajax-search-pro/search.php on line 62
+[11-Mar-2014 17:49:00 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 9 for query 
+           SELECT
+             wp_users.ID as id,
+             wp_users.display_name as title,
+             '' as date,
+             '' as author
+           FROM
+             wp_users
+           WHERE 
+            () 
+         made by do_action('ASP_ajaxsearchpro_search'), call_user_func_array, ajaxsearchpro_search, wpdreams_search->search, wpdreams_searchBuddyPress->do_search
+[12-Mar-2014 11:42:56 UTC] PHP Warning:  require_once(/home/wpdreams/test/fresh/wp-content/plugins/related-posts-pro//search.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory in /home/wpdreams/test/fresh/wp-content/plugins/related-posts-pro/related-posts-pro.php on line 37
+[12-Mar-2014 11:42:56 UTC] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required '/home/wpdreams/test/fresh/wp-content/plugins/related-posts-pro//search.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/wpdreams/test/fresh/wp-content/plugins/related-posts-pro/related-posts-pro.php on line 37
+[12-Mar-2014 11:42:56 UTC] PHP Warning:  require_once(/home/wpdreams/test/fresh/wp-content/plugins/related-posts-pro//search.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory in /home/wpdreams/test/fresh/wp-content/plugins/related-posts-pro/related-posts-pro.php on line 37
+[12-Mar-2014 11:42:56 UTC] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required '/home/wpdreams/test/fresh/wp-content/plugins/related-posts-pro//search.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/wpdreams/test/fresh/wp-content/plugins/related-posts-pro/related-posts-pro.php on line 37
+[12-Mar-2014 11:42:56 UTC] PHP Warning:  require_once(/home/wpdreams/test/fresh/wp-content/plugins/related-posts-pro//search.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory in /home/wpdreams/test/fresh/wp-content/plugins/related-posts-pro/related-posts-pro.php on line 37
+[12-Mar-2014 11:42:56 UTC] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required '/home/wpdreams/test/fresh/wp-content/plugins/related-posts-pro//search.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/wpdreams/test/fresh/wp-content/plugins/related-posts-pro/related-posts-pro.php on line 37
+[12-Mar-2014 11:42:57 UTC] PHP Warning:  require_once(/home/wpdreams/test/fresh/wp-content/plugins/related-posts-pro//search.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory in /home/wpdreams/test/fresh/wp-content/plugins/related-posts-pro/related-posts-pro.php on line 37
+[12-Mar-2014 11:42:57 UTC] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required '/home/wpdreams/test/fresh/wp-content/plugins/related-posts-pro//search.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/wpdreams/test/fresh/wp-content/plugins/related-posts-pro/related-posts-pro.php on line 37
+[12-Mar-2014 11:43:13 UTC] PHP Warning:  require_once(/home/wpdreams/test/fresh/wp-content/plugins/related-posts-pro//search.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory in /home/wpdreams/test/fresh/wp-content/plugins/related-posts-pro/related-posts-pro.php on line 37
+[12-Mar-2014 11:43:13 UTC] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required '/home/wpdreams/test/fresh/wp-content/plugins/related-posts-pro//search.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/wpdreams/test/fresh/wp-content/plugins/related-posts-pro/related-posts-pro.php on line 37
+[12-Mar-2014 11:43:13 UTC] PHP Warning:  require_once(/home/wpdreams/test/fresh/wp-content/plugins/related-posts-pro//search.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory in /home/wpdreams/test/fresh/wp-content/plugins/related-posts-pro/related-posts-pro.php on line 37
+[12-Mar-2014 11:43:13 UTC] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required '/home/wpdreams/test/fresh/wp-content/plugins/related-posts-pro//search.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/wpdreams/test/fresh/wp-content/plugins/related-posts-pro/related-posts-pro.php on line 37
+[12-Mar-2014 11:43:14 UTC] PHP Warning:  require_once(/home/wpdreams/test/fresh/wp-content/plugins/related-posts-pro//search.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory in /home/wpdreams/test/fresh/wp-content/plugins/related-posts-pro/related-posts-pro.php on line 37
+[12-Mar-2014 11:43:14 UTC] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required '/home/wpdreams/test/fresh/wp-content/plugins/related-posts-pro//search.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/wpdreams/test/fresh/wp-content/plugins/related-posts-pro/related-posts-pro.php on line 37
+[12-Mar-2014 11:43:14 UTC] PHP Warning:  require_once(/home/wpdreams/test/fresh/wp-content/plugins/related-posts-pro//search.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory in /home/wpdreams/test/fresh/wp-content/plugins/related-posts-pro/related-posts-pro.php on line 37
+[12-Mar-2014 11:43:14 UTC] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required '/home/wpdreams/test/fresh/wp-content/plugins/related-posts-pro//search.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/wpdreams/test/fresh/wp-content/plugins/related-posts-pro/related-posts-pro.php on line 37
+[12-Mar-2014 11:43:14 UTC] PHP Warning:  require_once(/home/wpdreams/test/fresh/wp-content/plugins/related-posts-pro//search.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory in /home/wpdreams/test/fresh/wp-content/plugins/related-posts-pro/related-posts-pro.php on line 37
+[12-Mar-2014 11:43:14 UTC] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required '/home/wpdreams/test/fresh/wp-content/plugins/related-posts-pro//search.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/wpdreams/test/fresh/wp-content/plugins/related-posts-pro/related-posts-pro.php on line 37
