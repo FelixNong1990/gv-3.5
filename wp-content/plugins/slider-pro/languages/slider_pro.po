@@ -1,0 +1,3580 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Slider PRO\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2014-04-15 12:36+0200\n"
+"PO-Revision-Date: 2014-04-15 12:37+0200\n"
+"Last-Translator: David <contact@bqworks.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e\n"
+"X-Poedit-Basepath: ../\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: slider-pro.php:195
+msgid "Slider PRO - Sliders"
+msgstr ""
+
+#: slider-pro.php:196 includes/sliders.php:3
+msgid "Sliders"
+msgstr ""
+
+#: slider-pro.php:202
+msgid "Slider PRO - Add New"
+msgstr ""
+
+#: slider-pro.php:203
+msgid "Add New"
+msgstr ""
+
+#: slider-pro.php:209
+msgid "Slider PRO - Skin Editor"
+msgstr ""
+
+#: slider-pro.php:210 includes/skin-editor.php:3
+msgid "Skin Editor"
+msgstr ""
+
+#: slider-pro.php:216
+msgid "Slider PRO - Plugin Options"
+msgstr ""
+
+#: slider-pro.php:217 includes/plugin-options.php:3
+msgid "Plugin Options"
+msgstr ""
+
+#: slider-pro.php:223
+msgid "Slider PRO - Help"
+msgstr ""
+
+#: slider-pro.php:224
+msgid "Help"
+msgstr ""
+
+#: slider-pro.php:250
+msgid "Slider PRO"
+msgstr ""
+
+#: slider-pro.php:363
+msgid "Are you sure you want to delete this slide?"
+msgstr ""
+
+#: slider-pro.php:364
+msgid "Are you sure you want to delete this slider?"
+msgstr ""
+
+#: slider-pro.php:365
+msgid "Are you sure you want to delete the slides?"
+msgstr ""
+
+#: slider-pro.php:366
+msgid "Are you sure you want to delete the layer?"
+msgstr ""
+
+#: slider-pro.php:367
+msgid "An export file is not available for this slider. More details "
+msgstr ""
+
+#: slider-pro.php:368 slider-pro.php:370 includes/slider-update.php:98
+msgid "here"
+msgstr ""
+
+#: slider-pro.php:369
+msgid ""
+"For performance purposes, you can select a maximum of 5 terms. More details "
+msgstr ""
+
+#: slider-pro.php:371
+msgid "Yes"
+msgstr ""
+
+#: slider-pro.php:372
+msgid "Cancel"
+msgstr ""
+
+#: slider-pro.php:373
+msgid "Close"
+msgstr ""
+
+#: slider-pro.php:374 includes/sliders.php:82
+msgid "Preview"
+msgstr ""
+
+#: slider-pro.php:375
+msgid "Edit Custom JavaScript"
+msgstr ""
+
+#: slider-pro.php:376
+msgid "Edit Custom CSS"
+msgstr ""
+
+#: slider-pro.php:377
+msgid "Import slider"
+msgstr ""
+
+#: slider-pro.php:378 includes/replicate-skin-form.php:29
+#: includes/skin-editor.php:44
+msgid "Replicate Skin"
+msgstr ""
+
+#: slider-pro.php:379
+msgid "Slider PRO Media Loader"
+msgstr ""
+
+#: slider-pro.php:380
+msgid "Layer Settings"
+msgstr ""
+
+#: slider-pro.php:1212
+msgid "The slider doesn't exist."
+msgstr ""
+
+#: slider-pro.php:2592
+msgid "% Comments"
+msgstr ""
+
+#: slider-pro.php:2594
+msgid "No Comments"
+msgstr ""
+
+#: slider-pro.php:2596
+msgid "1 Comment"
+msgstr ""
+
+#: includes/admin-lists.php:91 includes/admin-lists.php:96
+#: includes/admin-lists.php:157
+msgid "Top Left"
+msgstr ""
+
+#: includes/admin-lists.php:91
+msgid "Top Center"
+msgstr ""
+
+#: includes/admin-lists.php:91 includes/admin-lists.php:96
+#: includes/admin-lists.php:157
+msgid "Top Right"
+msgstr ""
+
+#: includes/admin-lists.php:92
+msgid "Center Left"
+msgstr ""
+
+#: includes/admin-lists.php:92
+msgid "Center Center"
+msgstr ""
+
+#: includes/admin-lists.php:93
+msgid "Center Right"
+msgstr ""
+
+#: includes/admin-lists.php:93 includes/admin-lists.php:97
+#: includes/admin-lists.php:157
+msgid "Bottom Left"
+msgstr ""
+
+#: includes/admin-lists.php:94
+msgid "Bottom Center"
+msgstr ""
+
+#: includes/admin-lists.php:94 includes/admin-lists.php:97
+#: includes/admin-lists.php:158
+msgid "Bottom Right"
+msgstr ""
+
+#: includes/admin-lists.php:119
+msgid "Auto"
+msgstr ""
+
+#: includes/admin-lists.php:119
+msgid "Auto Horizontal"
+msgstr ""
+
+#: includes/admin-lists.php:119
+msgid "Auto Vertical"
+msgstr ""
+
+#: includes/admin-lists.php:121 includes/admin-lists.php:156
+msgid "Left"
+msgstr ""
+
+#: includes/admin-lists.php:121 includes/admin-lists.php:156
+msgid "Right"
+msgstr ""
+
+#: includes/admin-lists.php:121 includes/admin-lists.php:156
+msgid "Top"
+msgstr ""
+
+#: includes/admin-lists.php:121 includes/admin-lists.php:157
+msgid "Bottom"
+msgstr ""
+
+#: includes/admin-lists.php:122
+msgid "Up"
+msgstr ""
+
+#: includes/admin-lists.php:122
+msgid "Down"
+msgstr ""
+
+#: includes/admin-lists.php:123
+msgid "Horizontal Alternate"
+msgstr ""
+
+#: includes/admin-lists.php:123
+msgid "Vertical Alternate"
+msgstr ""
+
+#: includes/admin-lists.php:125
+msgid "Custom"
+msgstr ""
+
+#: includes/admin-lists.php:127 includes/layer-settings.php:55
+msgid "Horizontal"
+msgstr ""
+
+#: includes/admin-lists.php:127 includes/layer-settings.php:58
+msgid "Vertical"
+msgstr ""
+
+#: includes/admin-lists.php:129
+msgid "Scroller"
+msgstr ""
+
+#: includes/admin-lists.php:129 includes/general-lists.php:1093
+#: includes/general-lists.php:1099 includes/general-lists.php:1105
+msgid "Tooltip"
+msgstr ""
+
+#: includes/admin-lists.php:129
+msgid "Tooltip And Scroller"
+msgstr ""
+
+#: includes/admin-lists.php:134
+msgid "No Scale"
+msgstr ""
+
+#: includes/admin-lists.php:134
+msgid "Exact Fit"
+msgstr ""
+
+#: includes/admin-lists.php:134
+msgid "Inside Fit"
+msgstr ""
+
+#: includes/admin-lists.php:135
+msgid "Outside Fit"
+msgstr ""
+
+#: includes/admin-lists.php:135
+msgid "Proportional"
+msgstr ""
+
+#: includes/admin-lists.php:137
+msgid "None"
+msgstr ""
+
+#: includes/admin-lists.php:137
+msgid "Stop Slideshow"
+msgstr ""
+
+#: includes/admin-lists.php:137
+msgid "Pause Slideshow"
+msgstr ""
+
+#: includes/admin-lists.php:138
+msgid "Start Slideshow"
+msgstr ""
+
+#: includes/admin-lists.php:138
+msgid "Resume Slideshow"
+msgstr ""
+
+#: includes/admin-lists.php:138
+msgid "Reset Video"
+msgstr ""
+
+#: includes/admin-lists.php:139
+msgid "Next Slide"
+msgstr ""
+
+#: includes/admin-lists.php:139
+msgid "Start Video"
+msgstr ""
+
+#: includes/admin-lists.php:139
+msgid "Pause Video"
+msgstr ""
+
+#: includes/admin-lists.php:140
+msgid "Stop Video"
+msgstr ""
+
+#: includes/admin-lists.php:140
+msgid "Play Video"
+msgstr ""
+
+#: includes/admin-lists.php:140
+msgid "Pause Video And Buffering"
+msgstr ""
+
+#: includes/admin-lists.php:141
+msgid "Remove Video"
+msgstr ""
+
+#: includes/admin-lists.php:143
+msgid "Slice"
+msgstr ""
+
+#: includes/admin-lists.php:143 includes/general-lists.php:1318
+#: includes/general-lists.php:1325 includes/general-lists.php:1332
+#: includes/general-lists.php:1338 includes/general-lists.php:1344
+#: includes/general-lists.php:1350 includes/slide.php:9 includes/slide.php:12
+msgid "Slide"
+msgstr ""
+
+#: includes/admin-lists.php:143
+msgid "Swipe"
+msgstr ""
+
+#: includes/admin-lists.php:143
+msgid "Fade"
+msgstr ""
+
+#: includes/admin-lists.php:144 includes/slider.php:217
+msgid "Scale"
+msgstr ""
+
+#: includes/admin-lists.php:144 includes/general-lists.php:17
+#: includes/layer-settings.php:61 includes/slider.php:140
+msgid "Width"
+msgstr ""
+
+#: includes/admin-lists.php:144 includes/general-lists.php:23
+#: includes/layer-settings.php:64 includes/slider.php:143
+msgid "Height"
+msgstr ""
+
+#: includes/admin-lists.php:144 includes/admin-lists.php:146
+msgid "Random"
+msgstr ""
+
+#: includes/admin-lists.php:146 includes/media-loader.php:128
+msgid "Date"
+msgstr ""
+
+#: includes/admin-lists.php:146
+msgid "Comments"
+msgstr ""
+
+#: includes/admin-lists.php:146 includes/slide.php:69 includes/slide.php:124
+#: includes/slide.php:244 includes/slide.php:293
+msgid "Title"
+msgstr ""
+
+#: includes/admin-lists.php:148
+msgid "AND"
+msgstr ""
+
+#: includes/admin-lists.php:148
+msgid "OR"
+msgstr ""
+
+#: includes/admin-lists.php:150
+msgid "Attached Images"
+msgstr ""
+
+#: includes/admin-lists.php:150 includes/admin-lists.php:152
+msgid "Gallery Images"
+msgstr ""
+
+#: includes/admin-lists.php:152
+msgid "Static"
+msgstr ""
+
+#: includes/admin-lists.php:152
+msgid "Posts Content"
+msgstr ""
+
+#: includes/admin-lists.php:152
+msgid "Flickr"
+msgstr ""
+
+#: includes/admin-lists.php:154
+msgid "Set"
+msgstr ""
+
+#: includes/admin-lists.php:154
+msgid "Gallery"
+msgstr ""
+
+#: includes/admin-lists.php:154
+msgid "Username"
+msgstr ""
+
+#: includes/admin-lists.php:156
+msgid "Center"
+msgstr ""
+
+#: includes/admin-lists.php:160
+msgid "Black"
+msgstr ""
+
+#: includes/admin-lists.php:160
+msgid "White"
+msgstr ""
+
+#: includes/admin-lists.php:160
+msgid "Rounded"
+msgstr ""
+
+#: includes/admin-lists.php:165
+#, php-format
+msgid ""
+"The total width of the slider. Can be set in percentages if the '%' symbol "
+"is used or in pixels if only a number is used. If the slider is set to be "
+"responsive, the specified value will represent the maximum width."
+msgstr ""
+
+#: includes/admin-lists.php:166 includes/admin-lists.php:169
+#: includes/admin-lists.php:172 includes/admin-lists.php:175
+#: includes/admin-lists.php:178 includes/admin-lists.php:181
+#: includes/admin-lists.php:184 includes/admin-lists.php:187
+#: includes/admin-lists.php:190 includes/admin-lists.php:195
+#: includes/admin-lists.php:198 includes/admin-lists.php:201
+#: includes/admin-lists.php:204 includes/admin-lists.php:207
+#: includes/admin-lists.php:210 includes/admin-lists.php:213
+#: includes/admin-lists.php:216 includes/admin-lists.php:219
+#: includes/admin-lists.php:222 includes/admin-lists.php:225
+#: includes/admin-lists.php:228 includes/admin-lists.php:231
+#: includes/admin-lists.php:235 includes/admin-lists.php:238
+#: includes/admin-lists.php:241 includes/admin-lists.php:244
+#: includes/admin-lists.php:247 includes/admin-lists.php:250
+#: includes/admin-lists.php:253 includes/admin-lists.php:259
+#: includes/admin-lists.php:262 includes/admin-lists.php:265
+#: includes/admin-lists.php:268 includes/admin-lists.php:271
+#: includes/admin-lists.php:274 includes/admin-lists.php:277
+#: includes/admin-lists.php:280 includes/admin-lists.php:283
+#: includes/admin-lists.php:286 includes/admin-lists.php:289
+#: includes/admin-lists.php:294 includes/admin-lists.php:297
+#: includes/admin-lists.php:300 includes/admin-lists.php:303
+#: includes/admin-lists.php:306 includes/admin-lists.php:309
+#: includes/admin-lists.php:312 includes/admin-lists.php:315
+#: includes/admin-lists.php:318 includes/admin-lists.php:321
+#: includes/admin-lists.php:324 includes/admin-lists.php:327
+#: includes/admin-lists.php:330 includes/admin-lists.php:333
+#: includes/admin-lists.php:336 includes/admin-lists.php:339
+#: includes/admin-lists.php:342 includes/admin-lists.php:345
+#: includes/admin-lists.php:348 includes/admin-lists.php:354
+#: includes/admin-lists.php:357 includes/admin-lists.php:363
+#: includes/admin-lists.php:366 includes/admin-lists.php:369
+#: includes/admin-lists.php:376 includes/admin-lists.php:379
+#: includes/admin-lists.php:382 includes/admin-lists.php:385
+#: includes/admin-lists.php:388 includes/admin-lists.php:391
+#: includes/admin-lists.php:395 includes/admin-lists.php:398
+#: includes/admin-lists.php:401 includes/admin-lists.php:404
+#: includes/admin-lists.php:407 includes/admin-lists.php:410
+#: includes/admin-lists.php:413 includes/admin-lists.php:416
+#: includes/admin-lists.php:419 includes/admin-lists.php:422
+#: includes/admin-lists.php:425 includes/admin-lists.php:428
+#: includes/admin-lists.php:431 includes/admin-lists.php:434
+#: includes/admin-lists.php:437 includes/admin-lists.php:440
+#: includes/admin-lists.php:461 includes/admin-lists.php:468
+#: includes/admin-lists.php:475 includes/admin-lists.php:478
+#: includes/admin-lists.php:481 includes/admin-lists.php:484
+#: includes/admin-lists.php:487 includes/admin-lists.php:490
+#: includes/admin-lists.php:493 includes/admin-lists.php:496
+#: includes/admin-lists.php:499 includes/admin-lists.php:502
+#: includes/admin-lists.php:505 includes/admin-lists.php:508
+#: includes/admin-lists.php:511 includes/admin-lists.php:514
+#: includes/admin-lists.php:517 includes/admin-lists.php:520
+#: includes/admin-lists.php:523 includes/admin-lists.php:526
+#: includes/admin-lists.php:529 includes/admin-lists.php:532
+#: includes/admin-lists.php:535 includes/admin-lists.php:538
+#: includes/admin-lists.php:544 includes/admin-lists.php:547
+#: includes/admin-lists.php:550 includes/admin-lists.php:553
+#: includes/admin-lists.php:556 includes/admin-lists.php:559
+#: includes/admin-lists.php:562 includes/admin-lists.php:565
+#: includes/admin-lists.php:568 includes/admin-lists.php:571
+#: includes/admin-lists.php:574 includes/admin-lists.php:577
+#: includes/admin-lists.php:580 includes/admin-lists.php:583
+#: includes/admin-lists.php:586 includes/admin-lists.php:589
+#: includes/admin-lists.php:592 includes/admin-lists.php:595
+#: includes/admin-lists.php:598 includes/admin-lists.php:601
+#: includes/admin-lists.php:604 includes/admin-lists.php:608
+#: includes/admin-lists.php:611 includes/admin-lists.php:614
+#: includes/admin-lists.php:617 includes/admin-lists.php:620
+#: includes/admin-lists.php:623 includes/admin-lists.php:626
+#: includes/admin-lists.php:629 includes/admin-lists.php:632
+#: includes/admin-lists.php:635 includes/admin-lists.php:638
+#: includes/admin-lists.php:641 includes/admin-lists.php:644
+#: includes/admin-lists.php:647 includes/admin-lists.php:650
+#: includes/admin-lists.php:653 includes/admin-lists.php:656
+#: includes/admin-lists.php:659 includes/admin-lists.php:662
+#: includes/admin-lists.php:665 includes/admin-lists.php:668
+#: includes/admin-lists.php:672 includes/admin-lists.php:675
+#: includes/admin-lists.php:678 includes/admin-lists.php:681
+#: includes/admin-lists.php:684 includes/admin-lists.php:688
+#: includes/admin-lists.php:691 includes/admin-lists.php:695
+#: includes/admin-lists.php:698 includes/admin-lists.php:701
+#: includes/admin-lists.php:704 includes/admin-lists.php:707
+#: includes/admin-lists.php:710 includes/admin-lists.php:713
+#: includes/admin-lists.php:716 includes/admin-lists.php:719
+#: includes/admin-lists.php:722 includes/admin-lists.php:726
+#: includes/admin-lists.php:729 includes/admin-lists.php:732
+#: includes/admin-lists.php:735 includes/admin-lists.php:739
+#: includes/admin-lists.php:742 includes/admin-lists.php:745
+#: includes/admin-lists.php:748 includes/admin-lists.php:754
+#: includes/admin-lists.php:757 includes/admin-lists.php:760
+#: includes/admin-lists.php:763 includes/admin-lists.php:766
+#: includes/admin-lists.php:769 includes/admin-lists.php:772
+#: includes/admin-lists.php:775 includes/admin-lists.php:778
+#: includes/admin-lists.php:782 includes/admin-lists.php:785
+#: includes/admin-lists.php:788 includes/admin-lists.php:791
+#: includes/admin-lists.php:794 includes/admin-lists.php:797
+#: includes/admin-lists.php:800 includes/admin-lists.php:803
+#: includes/admin-lists.php:806 includes/admin-lists.php:809
+#: includes/admin-lists.php:812 includes/admin-lists.php:817
+#: includes/admin-lists.php:822 includes/admin-lists.php:828
+#: includes/admin-lists.php:834 includes/admin-lists.php:839
+#: includes/admin-lists.php:842 includes/admin-lists.php:845
+#: includes/admin-lists.php:848 includes/admin-lists.php:851
+#: includes/admin-lists.php:854 includes/admin-lists.php:857
+#: includes/admin-lists.php:860 includes/admin-lists.php:863
+#: includes/admin-lists.php:866 includes/admin-lists.php:874
+#: includes/admin-lists.php:878 includes/admin-lists.php:881
+#: includes/admin-lists.php:884 includes/admin-lists.php:887
+#: includes/admin-lists.php:890 includes/admin-lists.php:898
+#: includes/admin-lists.php:902 includes/admin-lists.php:905
+#: includes/admin-lists.php:908 includes/admin-lists.php:911
+#: includes/admin-lists.php:914 includes/admin-lists.php:917
+#: includes/admin-lists.php:920 includes/admin-lists.php:923
+#: includes/admin-lists.php:926 includes/admin-lists.php:929
+#: includes/admin-lists.php:932 includes/admin-lists.php:935
+#: includes/admin-lists.php:938 includes/admin-lists.php:941
+#: includes/admin-lists.php:944 includes/admin-lists.php:947
+#: includes/admin-lists.php:950 includes/admin-lists.php:953
+#: includes/admin-lists.php:956 includes/admin-lists.php:959
+#: includes/admin-lists.php:962 includes/admin-lists.php:965
+#: includes/admin-lists.php:968 includes/admin-lists.php:971
+#: includes/admin-lists.php:974 includes/admin-lists.php:977
+#: includes/admin-lists.php:980 includes/admin-lists.php:983
+#: includes/admin-lists.php:986 includes/admin-lists.php:989
+#: includes/admin-lists.php:992 includes/admin-lists.php:995
+#: includes/admin-lists.php:998
+msgid "Setting Name: "
+msgstr ""
+
+#: includes/admin-lists.php:168
+#, php-format
+msgid ""
+"The total height of the slider. Can be set in percentages if the '%' symbol "
+"is used or in pixels if only a number is used. If the slider is set to be "
+"responsive, the specified value will represent the maximum height."
+msgstr ""
+
+#: includes/admin-lists.php:171
+msgid ""
+"Sets the slider to be responsive. The values specified for the Width and "
+"Height options will represent the maximum width and height for the slider."
+msgstr ""
+
+#: includes/admin-lists.php:174
+msgid ""
+"Sets the aspect ratio of the slider. The aspect ratio defines the ratio "
+"between the width and the height of the slider. A ratio of 2 will make the "
+"slider width 2 times larger than the height. <br/>The default value, -1, "
+"indicates that an aspect ratio will not be applied to the slider."
+msgstr ""
+
+#: includes/admin-lists.php:177
+msgid "Indicates whether the slider shadow will be displayed."
+msgstr ""
+
+#: includes/admin-lists.php:180
+msgid ""
+"Indicates whether a border will be displayed around the slide. This "
+"customization can also be done with CSS."
+msgstr ""
+
+#: includes/admin-lists.php:183
+msgid ""
+"Indicates whether a glow effect will be displayed around the slide. This "
+"customization can also be done with CSS."
+msgstr ""
+
+#: includes/admin-lists.php:186
+msgid "The Skin of the slider."
+msgstr ""
+
+#: includes/admin-lists.php:189
+msgid "The Skin of the scrollbar."
+msgstr ""
+
+#: includes/admin-lists.php:192
+msgid ""
+"You only need to check this option if you add the slider in the header, "
+"sidebar or anywhere else outside a regular post/page."
+msgstr ""
+
+#: includes/admin-lists.php:194
+msgid "Sets the alignment of the slide's image."
+msgstr ""
+
+#: includes/admin-lists.php:197
+msgid "Sets the scaling type of the image."
+msgstr ""
+
+#: includes/admin-lists.php:200
+msgid "Allows the image to scale up to a size larger than the original size."
+msgstr ""
+
+#: includes/admin-lists.php:203
+msgid ""
+"Indicates whether the images will be loaded only when they are requested."
+msgstr ""
+
+#: includes/admin-lists.php:206
+msgid ""
+"Indicates whether the images located nearby the currently opened image will "
+"be preloaded. This will happen only if the nearby images are set to lazy "
+"load."
+msgstr ""
+
+#: includes/admin-lists.php:209
+msgid "The index of the slide which will be visible when the slider starts."
+msgstr ""
+
+#: includes/admin-lists.php:212
+msgid "Indicates whether the slides will be shuffled."
+msgstr ""
+
+#: includes/admin-lists.php:215
+msgid "Disables the right-click menu for images."
+msgstr ""
+
+#: includes/admin-lists.php:218
+msgid "Indicates whether the previous slide will fade out during transition."
+msgstr ""
+
+#: includes/admin-lists.php:221
+msgid ""
+"Sets the fade out duration for the previous slide, when the feature is used."
+msgstr ""
+
+#: includes/admin-lists.php:224
+msgid "Sets the slideshow mode."
+msgstr ""
+
+#: includes/admin-lists.php:227
+msgid ""
+"Indicates whether the slider will loop continuously through the slides or "
+"only one time."
+msgstr ""
+
+#: includes/admin-lists.php:230
+msgid "Sets the delay, in milliseconds, for the slideshow mode."
+msgstr ""
+
+#: includes/admin-lists.php:233
+msgid ""
+"Sets the direction of the slideshow. If 'next' was specified the slideshow "
+"will advance to the next slide, if 'previous' the slideshow will open the "
+"previous slide."
+msgstr ""
+
+#: includes/admin-lists.php:234 includes/admin-lists.php:256
+#: includes/admin-lists.php:351 includes/admin-lists.php:360
+#: includes/admin-lists.php:372 includes/admin-lists.php:394
+#: includes/admin-lists.php:443 includes/admin-lists.php:464
+#: includes/admin-lists.php:471 includes/admin-lists.php:541
+#: includes/admin-lists.php:607 includes/admin-lists.php:687
+#: includes/admin-lists.php:694 includes/admin-lists.php:725
+#: includes/admin-lists.php:738 includes/admin-lists.php:751
+#: includes/admin-lists.php:815 includes/admin-lists.php:820
+#: includes/admin-lists.php:825 includes/admin-lists.php:831
+#: includes/admin-lists.php:837 includes/admin-lists.php:869
+#: includes/admin-lists.php:893
+msgid "Available Values: "
+msgstr ""
+
+#: includes/admin-lists.php:237
+msgid "Indicates whether the slideshow button will be displayed."
+msgstr ""
+
+#: includes/admin-lists.php:240
+msgid ""
+"Indicates whether the slideshow button will fade in/out on  mouse hover."
+msgstr ""
+
+#: includes/admin-lists.php:243
+msgid "Sets the duration for the fade in animations of the slideshow button."
+msgstr ""
+
+#: includes/admin-lists.php:246
+msgid "Sets the duration for the fade out animations of the slideshow button."
+msgstr ""
+
+#: includes/admin-lists.php:249
+msgid ""
+"Indicates whether the slideshow will be paused when the mouse is over the "
+"slide."
+msgstr ""
+
+#: includes/admin-lists.php:252
+msgid ""
+"Enables the lightbox for all slides. This is an alternative for enabling the "
+"Lightbox option for each individual slide."
+msgstr ""
+
+#: includes/admin-lists.php:255
+msgid "Sets the theme of the lightbox."
+msgstr ""
+
+#: includes/admin-lists.php:261
+msgid "Sets the opacity of the lightbox's overlay."
+msgstr ""
+
+#: includes/admin-lists.php:264
+msgid "Indicates whether the lightbox will play automatically."
+msgstr ""
+
+#: includes/admin-lists.php:267
+msgid "Sets the delay of the lightbox's autoplay function."
+msgstr ""
+
+#: includes/admin-lists.php:270
+msgid "Indicates whether the videos in the lightbox will play automatically."
+msgstr ""
+
+#: includes/admin-lists.php:273
+msgid "Indicates whether the lightbox resize button will be visible."
+msgstr ""
+
+#: includes/admin-lists.php:276
+msgid ""
+"Indicate whether an overlay icon will appear when a slide or thumbnail has a "
+"lightbox attached to it."
+msgstr ""
+
+#: includes/admin-lists.php:279
+msgid "Indicates whether the lightbox icon will fade in/out on hover."
+msgstr ""
+
+#: includes/admin-lists.php:282
+msgid "Sets the duration for the fade in/out animation of the lightbox icon."
+msgstr ""
+
+#: includes/admin-lists.php:285
+msgid ""
+"Indicates whether a lightbox icon will be displayed on the thumbnail when "
+"the corresponding slide has a lightbox attached to it.<br/><b>Not to be "
+"confused with the possibility of having the icon displayed when a lightbox "
+"is attached to the thumbnail itself. For this, only the 'Lightbox Icon' "
+"option needs to be enabled."
+msgstr ""
+
+#: includes/admin-lists.php:288
+msgid ""
+"Indicates whether the thumbnail lightbox icon will fade in/out on hover. "
+"This option is used only when the lightbox icon is enabled for the "
+"thumbnails that correspond to slides that have a lightbox attached to them."
+msgstr ""
+
+#: includes/admin-lists.php:291
+msgid ""
+"Indicates whether the navigation controls will be enabled in the lightbox."
+msgstr ""
+
+#: includes/admin-lists.php:293
+msgid "Indicates whether the fullscreen controls will be displayed."
+msgstr ""
+
+#: includes/admin-lists.php:296
+msgid ""
+"Indicates whether the fullscreen controls will be displayed only when the "
+"mouse is over the slide."
+msgstr ""
+
+#: includes/admin-lists.php:299
+msgid "Sets the duration for the fade in animation of the fullscreen controls."
+msgstr ""
+
+#: includes/admin-lists.php:302
+msgid ""
+"Sets the duration for the fade out animation of the fullscreen controls."
+msgstr ""
+
+#: includes/admin-lists.php:305
+msgid ""
+"Indicates whether the thumbnail scroller, if enabled, will be displayed over "
+"the slide image."
+msgstr ""
+
+#: includes/admin-lists.php:308
+msgid ""
+"Indicates whether the slide buttons, if enabled, will be displayed. By "
+"default, the buttons will be hidden."
+msgstr ""
+
+#: includes/admin-lists.php:311
+msgid ""
+"Indicates whether the slider's 3D shadow, if enabled, will be displayed. By "
+"default, the shadow will be hidden."
+msgstr ""
+
+#: includes/admin-lists.php:314
+msgid "Indicates whether the timer animation will be displayed."
+msgstr ""
+
+#: includes/admin-lists.php:317
+msgid ""
+"Indicates whether the play and pause button will be displayed inside the "
+"timer animation."
+msgstr ""
+
+#: includes/admin-lists.php:320
+msgid "Sets the duration for the fade in/out animation of the timer."
+msgstr ""
+
+#: includes/admin-lists.php:323
+msgid "Indicates whether the timer will fade in/out on hover."
+msgstr ""
+
+#: includes/admin-lists.php:326
+msgid "Sets the radius of the timer."
+msgstr ""
+
+#: includes/admin-lists.php:329
+msgid "Sets the color of the timer's back stroke."
+msgstr ""
+
+#: includes/admin-lists.php:332
+msgid "Sets the color of the timer's front stroke."
+msgstr ""
+
+#: includes/admin-lists.php:335
+msgid "Sets the opacity of the timer's back stroke."
+msgstr ""
+
+#: includes/admin-lists.php:338
+msgid "Sets the opacity of the timer's front stroke."
+msgstr ""
+
+#: includes/admin-lists.php:341
+msgid "Sets the width of the timer's back stroke."
+msgstr ""
+
+#: includes/admin-lists.php:344
+msgid "Sets the width of the timer's front stroke."
+msgstr ""
+
+#: includes/admin-lists.php:347
+msgid ""
+"Indicates whether it's permitted to start a new transition while another one "
+"is in progress."
+msgstr ""
+
+#: includes/admin-lists.php:350
+msgid "Sets the transition effect type."
+msgstr ""
+
+#: includes/admin-lists.php:356
+msgid ""
+"Indicates whether the transition effects  will use the hardware accelerated "
+"CSS3 transition capabilities."
+msgstr ""
+
+#: includes/admin-lists.php:359
+msgid "Sets the effect type for the \"slice\" transition."
+msgstr ""
+
+#: includes/admin-lists.php:365
+msgid ""
+"Indicates whether the initial slide will have a transition effect. If set to "
+"false, the first slide will initially appear instantly."
+msgstr ""
+
+#: includes/admin-lists.php:368
+msgid ""
+"Indicates whether specified HTML content will be displayed while the "
+"transition is in progress. A transition which displayes HTML will be slower."
+msgstr ""
+
+#: includes/admin-lists.php:371
+msgid "Sets the direction of the slides."
+msgstr ""
+
+#: includes/admin-lists.php:378
+msgid ""
+"Indicates whether the slides will run in a loop when the 'auto H' or 'auto "
+"V' directions are used."
+msgstr ""
+
+#: includes/admin-lists.php:381 includes/admin-lists.php:973
+msgid "Sets the duration of the transition."
+msgstr ""
+
+#: includes/admin-lists.php:384
+msgid "Sets the easing of the transition effect"
+msgstr ""
+
+#: includes/admin-lists.php:387
+msgid "Indicates whether the swipe effect will work for touch gestures."
+msgstr ""
+
+#: includes/admin-lists.php:390
+msgid "Indicates whether the swipe effect will work when the mouse is used."
+msgstr ""
+
+#: includes/admin-lists.php:393
+msgid ""
+"Sets the orientation of the slides and the direction for which the swipe "
+"gestures will work."
+msgstr ""
+
+#: includes/admin-lists.php:397
+msgid ""
+"Sets the minimum amount that the slides need to be dragged in order to "
+"navigate to the new slide."
+msgstr ""
+
+#: includes/admin-lists.php:400
+msgid "Sets the duration of the swipe transition."
+msgstr ""
+
+#: includes/admin-lists.php:403
+msgid ""
+"Sets the duration of slide's movement when the drag amount is below the "
+"threshold."
+msgstr ""
+
+#: includes/admin-lists.php:406
+msgid "Sets the distance between slides."
+msgstr ""
+
+#: includes/admin-lists.php:409
+msgid "Enables the grabbing cursor for the Swipe effect."
+msgstr ""
+
+#: includes/admin-lists.php:412
+msgid "Sets the easing of the transition."
+msgstr ""
+
+#: includes/admin-lists.php:415
+msgid "Sets the duration of 'in' transition."
+msgstr ""
+
+#: includes/admin-lists.php:418
+msgid "Sets the easing type of 'in' transition."
+msgstr ""
+
+#: includes/admin-lists.php:421
+msgid "Sets the duration of 'out' transition."
+msgstr ""
+
+#: includes/admin-lists.php:424
+msgid "Sets the easing type of 'out' transition."
+msgstr ""
+
+#: includes/admin-lists.php:427
+msgid "Sets the delay between each slice (square) animation."
+msgstr ""
+
+#: includes/admin-lists.php:430
+msgid "Sets the duration of each slice animation."
+msgstr ""
+
+#: includes/admin-lists.php:433
+msgid "Sets the easing of each slice animation."
+msgstr ""
+
+#: includes/admin-lists.php:436
+msgid "Sets the number of horizontal slices."
+msgstr ""
+
+#: includes/admin-lists.php:439
+msgid "Sets the number of vertical slices."
+msgstr ""
+
+#: includes/admin-lists.php:442
+msgid "Sets the pattern in which the slices will be animated."
+msgstr ""
+
+#: includes/admin-lists.php:463
+msgid ""
+"Sets the point from which the slice will begin to grow when the 'scale', "
+"'width' or 'height' effects are used."
+msgstr ""
+
+#: includes/admin-lists.php:470
+msgid ""
+"Sets the starting position of the slice when the 'slide' effect is used."
+msgstr ""
+
+#: includes/admin-lists.php:477
+msgid ""
+"Sets the actual distance between the starting and ending point for the "
+"'slide' animation. The actual distance will be determined by multiplying the "
+"slice's width/height to the 'sliceStartRatio' property."
+msgstr ""
+
+#: includes/admin-lists.php:480
+msgid ""
+"Indicates whether the slice will start as transparent and fade in when "
+"'scale', 'width' or 'height' or 'slide' effects are used."
+msgstr ""
+
+#: includes/admin-lists.php:483
+msgid ""
+"Indicates whether the slices will be visible outside the slide area. This "
+"effect is relevant when the 'slide' effect is used."
+msgstr ""
+
+#: includes/admin-lists.php:486
+msgid ""
+"Indicates whether keyboard navigation will be enabled. This options allows "
+"navigation through the slides by using the left and right arrow keyboard "
+"keys. Also if you have a link attached to a slide, it' possible to open that "
+"link by pressing the 'Enter' key."
+msgstr ""
+
+#: includes/admin-lists.php:489
+msgid ""
+"Indicates whether keyboard navigation will be enabled only when the slider "
+"has focus."
+msgstr ""
+
+#: includes/admin-lists.php:492
+msgid ""
+"Indicates whether the Left and Right arrows will be displayed for the main "
+"slide."
+msgstr ""
+
+#: includes/admin-lists.php:495
+msgid "Indicates whether the slide arrows will fade in/out on hover."
+msgstr ""
+
+#: includes/admin-lists.php:498
+msgid ""
+"Sets the duration for the fade in animations of the slide navigation arrows."
+msgstr ""
+
+#: includes/admin-lists.php:501
+msgid ""
+"Sets the duration for the fade out animations of the slide navigation arrows."
+msgstr ""
+
+#: includes/admin-lists.php:504
+msgid "Indicates whether the navigation buttons (bullets) will be displayed."
+msgstr ""
+
+#: includes/admin-lists.php:507
+msgid ""
+"Indicates whether the navigation buttons will be centered horizontally "
+"within the main buttons container. If false, you can set a custom position "
+"for the buttons from within the CSS file."
+msgstr ""
+
+#: includes/admin-lists.php:510
+msgid ""
+"Indicates whether the navigation buttons container will be centered "
+"horizontally. If false, you can set a custom position for the container from "
+"within the CSS file."
+msgstr ""
+
+#: includes/admin-lists.php:513
+msgid "Indicates whether the navigation buttons will fade in/out on hover."
+msgstr ""
+
+#: includes/admin-lists.php:516
+msgid ""
+"Sets the duration for the fade in animations of the slide navigation buttons."
+msgstr ""
+
+#: includes/admin-lists.php:519
+msgid ""
+"Sets the duration for the fade out animations of the slide navigation "
+"buttons."
+msgstr ""
+
+#: includes/admin-lists.php:522
+msgid "Indicates whether numbers will be displayed over the slide buttons."
+msgstr ""
+
+#: includes/admin-lists.php:525
+msgid ""
+"Indicates whether the navigation controls (slide arrows, slide buttons, "
+"slideshow controls) will automatically hide if the mouse pointer doesn't "
+"move for a certain time interval, defined by the autoToggleDelay property. "
+"The controls will automatically hide only if the control's toggle property "
+"(for example, slideArrowsToggle) was set to true."
+msgstr ""
+
+#: includes/admin-lists.php:528
+msgid ""
+"Sets the delay, in milliseconds, after which the controls will automatically "
+"hide."
+msgstr ""
+
+#: includes/admin-lists.php:531
+msgid ""
+"Sets the sliding amount of the thumbnail, when Thumbnails Type is set to "
+"'tooltip'."
+msgstr ""
+
+#: includes/admin-lists.php:534
+msgid ""
+"Sets the sliding  duration of the thumbnail, when Thumbnails Type is set to "
+"'tooltip'."
+msgstr ""
+
+#: includes/admin-lists.php:537
+msgid ""
+"Sets the sliding easing of the thumbnail, when Thumbnails Type is set to "
+"'tooltip'"
+msgstr ""
+
+#: includes/admin-lists.php:540
+msgid ""
+"Indicates the way in which the thumbnails will be displayed. If 'tooltip' is "
+"used the thumbnails will fade in on top of the navigation buttons when you "
+"roll over\tthem. If 'scroller' is used the thumbnails will appear inside the "
+"thumbnail scroller and it 'tooltipAndScroller' is used the thumbnails will "
+"appear both as tooltips and inside the thumbnail scroller."
+msgstr ""
+
+#: includes/admin-lists.php:546
+msgid "Sets the width of the thumbnail"
+msgstr ""
+
+#: includes/admin-lists.php:549
+msgid "Sets the height of the thumbnail"
+msgstr ""
+
+#: includes/admin-lists.php:552
+msgid "Indicates whether the thumbnail's border will be visible."
+msgstr ""
+
+#: includes/admin-lists.php:555
+msgid "Indicates whether the thumbnail's background color will be visible."
+msgstr ""
+
+#: includes/admin-lists.php:558
+msgid "Indicates whether the thumbnail's glow/shadow will be visible."
+msgstr ""
+
+#: includes/admin-lists.php:561
+msgid "Indicates whether the thumbnail scroller will fade in/out on hover."
+msgstr ""
+
+#: includes/admin-lists.php:564
+msgid "Sets the duration for the fade out animation of the thumbnail scroller."
+msgstr ""
+
+#: includes/admin-lists.php:567
+msgid "Sets the duration for the fade in animation of the thumbnail scroller."
+msgstr ""
+
+#: includes/admin-lists.php:570
+msgid ""
+"Indicates whether the thumbnail scroller will be centered relativelly to the "
+"slide."
+msgstr ""
+
+#: includes/admin-lists.php:573
+msgid "Enables the touch swipe functionality for the thumbnail scoller."
+msgstr ""
+
+#: includes/admin-lists.php:576
+msgid ""
+"Sets the minimum amount that the thumbnail scroller needs to be dragged in "
+"order to navigate to a new thumbnail page."
+msgstr ""
+
+#: includes/admin-lists.php:579
+msgid ""
+"Sets the duration of thumbnail scroller's movement when the drag amount is "
+"below the threshold."
+msgstr ""
+
+#: includes/admin-lists.php:582
+msgid "Indicates whether the thumbnail swipe will work when the mouse is used."
+msgstr ""
+
+#: includes/admin-lists.php:585
+msgid "Indicates whether the thumbnail swipe will work for touch gestures."
+msgstr ""
+
+#: includes/admin-lists.php:588
+msgid "Enables the grabbing cursor for the thumbnail scroller."
+msgstr ""
+
+#: includes/admin-lists.php:591
+msgid ""
+"Indicates whether the thumbnail page will always be synchronized with the "
+"current slide."
+msgstr ""
+
+#: includes/admin-lists.php:594
+msgid ""
+"Indicates whether the thumbnail scroller will be responsive as well if the "
+"slider's size is set in percentages."
+msgstr ""
+
+#: includes/admin-lists.php:597
+msgid ""
+"Indicates whether the thumbnail scroller will be displayed over the slider, "
+"nstead of outside the slider."
+msgstr ""
+
+#: includes/admin-lists.php:600
+msgid "Sets the maximum number of thumbnails per page."
+msgstr ""
+
+#: includes/admin-lists.php:603
+msgid ""
+"Sets the minimum number of thumbnails per page. This property is useful in a "
+"responsive layout."
+msgstr ""
+
+#: includes/admin-lists.php:606
+msgid ""
+"Indicates whether the thumbnails will be arranged horizontally or vertically."
+msgstr ""
+
+#: includes/admin-lists.php:610
+msgid ""
+"Indicates the number of layers that will be used. Layers can represent "
+"either rows, when the thumbnail orientation is set to 'horizontal', or "
+"columns, when the thumbnail orientation is set to 'vertical'. In order to "
+"use the maximum amount of layers allowed, set this option to -1."
+msgstr ""
+
+#: includes/admin-lists.php:613
+msgid ""
+"Indicates whether the tooltip will be displayed for those thumbnails for "
+"which the tooltip content was specified."
+msgstr ""
+
+#: includes/admin-lists.php:616
+msgid ""
+"Indicates whether the navigation thumbnails will have arrows for navigating "
+"through thumbnail pages."
+msgstr ""
+
+#: includes/admin-lists.php:619
+msgid "Indicates whether the thumbnail arrows will fade in/out on hover."
+msgstr ""
+
+#: includes/admin-lists.php:622
+msgid ""
+"Sets the duration of the scrolling animation when the thumbnail arrows or "
+"thumbnail buttons are used for scrolling."
+msgstr ""
+
+#: includes/admin-lists.php:625
+msgid ""
+"Sets the easing of the scrolling animation when the thumbnail arrows or "
+"thumbnail buttons are used for scrolling."
+msgstr ""
+
+#: includes/admin-lists.php:628
+msgid ""
+"Indicates the duration for the fade out animation of the thumbnail arrows."
+msgstr ""
+
+#: includes/admin-lists.php:631
+msgid ""
+"Indicates the duration for the fade in animation of the thumbnail arrows."
+msgstr ""
+
+#: includes/admin-lists.php:634
+msgid ""
+"Indicates whether the navigation thumbnails will have buttons (bullets) for "
+"navigating through thumbnail pages."
+msgstr ""
+
+#: includes/admin-lists.php:637
+msgid "Indicates whether the thumbnail buttons will fade in/out on hover."
+msgstr ""
+
+#: includes/admin-lists.php:640
+msgid ""
+"Indicates the duration for the fade out animation of the thumbnail buttons."
+msgstr ""
+
+#: includes/admin-lists.php:643
+msgid ""
+"Indicates the duration for the fade in animation of the thumbnail buttons."
+msgstr ""
+
+#: includes/admin-lists.php:646
+msgid "Indicates whether the navigation thumbnails will have a scrollbar."
+msgstr ""
+
+#: includes/admin-lists.php:649
+msgid "Indicates whether the thumbnail scrollbar will fade in/out on hover."
+msgstr ""
+
+#: includes/admin-lists.php:652
+msgid ""
+"Indicates the duration for the fade out animation of the thumbnail scrollbar."
+msgstr ""
+
+#: includes/admin-lists.php:655
+msgid ""
+"Indicates the duration for the fade in animation of the thumbnail scrollbar."
+msgstr ""
+
+#: includes/admin-lists.php:658
+msgid "Indicates the easing amount for the scrollbar scrolling."
+msgstr ""
+
+#: includes/admin-lists.php:661
+msgid ""
+"Sets the amount, in pixels, by which the thumbnails will be scrolled when "
+"one of the scrollbar's arrows is clicked."
+msgstr ""
+
+#: includes/admin-lists.php:664
+msgid ""
+"Indicates whether the thumbnails can be scrolled by moving the mouse over "
+"them."
+msgstr ""
+
+#: includes/admin-lists.php:667
+msgid "Sets the speed of the thumbnail mouse scrolling."
+msgstr ""
+
+#: includes/admin-lists.php:671
+msgid ""
+"Sets the ease of the mouse scrolling when the mouse leaves the thumbnails "
+"area."
+msgstr ""
+
+#: includes/admin-lists.php:674
+msgid "Indicates whether the thumbnails can be scrolled using the mouse wheel."
+msgstr ""
+
+#: includes/admin-lists.php:677
+msgid "Sets the speed of the thumbnail mouse wheel scrolling."
+msgstr ""
+
+#: includes/admin-lists.php:680
+msgid ""
+"Indicates whether the thumbnails will be scrolled in the opposite direction "
+"when mouse wheel scrolling is used."
+msgstr ""
+
+#: includes/admin-lists.php:683
+msgid ""
+"Indicates whether the thumbnails will display a caption. The thumbnail's "
+"caption needs to be specified in the thumbnail's \"Alt\" field."
+msgstr ""
+
+#: includes/admin-lists.php:686
+msgid ""
+"Sets the position of the caption inside the thumbnail. Can be set to 'top' "
+"or 'bottom'."
+msgstr ""
+
+#: includes/admin-lists.php:690
+msgid "Indicates whether the thumbnail caption will be hidden/shown on hover."
+msgstr ""
+
+#: includes/admin-lists.php:693
+msgid "Sets the animation effect type for the captions."
+msgstr ""
+
+#: includes/admin-lists.php:697
+msgid "Sets the duration of the fade/slide in animation of the caption."
+msgstr ""
+
+#: includes/admin-lists.php:700
+msgid "Sets the duration of the fade/slide out animation of the caption."
+msgstr ""
+
+#: includes/admin-lists.php:703
+msgid "Sets the easing of the caption's animation."
+msgstr ""
+
+#: includes/admin-lists.php:706
+msgid "Sets the duration of the tooltip's fade in animation."
+msgstr ""
+
+#: includes/admin-lists.php:709
+msgid "Sets the duration of the tooltip's fade out animation."
+msgstr ""
+
+#: includes/admin-lists.php:712
+msgid "Indicates whether the slide caption will be hidden/shown on hover."
+msgstr ""
+
+#: includes/admin-lists.php:715
+msgid "Sets the delay time for the caption's show effect."
+msgstr ""
+
+#: includes/admin-lists.php:718
+msgid "Sets the caption's background opacity."
+msgstr ""
+
+#: includes/admin-lists.php:721
+msgid "Sets the caption's background color."
+msgstr ""
+
+#: includes/admin-lists.php:724
+msgid "Sets the effect type for the caption's show animation."
+msgstr ""
+
+#: includes/admin-lists.php:728
+msgid "Sets the duration for the caption's show animation."
+msgstr ""
+
+#: includes/admin-lists.php:731
+msgid "Sets the easing type for the caption's show animation."
+msgstr ""
+
+#: includes/admin-lists.php:734
+msgid ""
+"Sets the direction of the sliding for the caption's show animation,when the "
+"slide effect is used."
+msgstr ""
+
+#: includes/admin-lists.php:737
+msgid "Sets the effect type for the caption's hide animation."
+msgstr ""
+
+#: includes/admin-lists.php:741
+msgid "Sets the duration for the caption's hide animation."
+msgstr ""
+
+#: includes/admin-lists.php:744
+msgid "Sets the easing type for the caption's hide animation."
+msgstr ""
+
+#: includes/admin-lists.php:747
+msgid ""
+"Sets the direction of the sliding for the caption's hide animation, when the "
+"slide effect is used."
+msgstr ""
+
+#: includes/admin-lists.php:750
+msgid "Sets the position of the caption inside the slide."
+msgstr ""
+
+#: includes/admin-lists.php:756
+msgid ""
+"Sets the width or height of the caption when the 'Caption Position' option "
+"is set to 'Top', 'Bottom', 'Left', 'Right'"
+msgstr ""
+
+#: includes/admin-lists.php:759 includes/admin-lists.php:762
+msgid ""
+"Sets the left position of the caption when caption's position is 'custom'"
+msgstr ""
+
+#: includes/admin-lists.php:765
+msgid "Sets the width of the caption when caption's position is 'custom'"
+msgstr ""
+
+#: includes/admin-lists.php:768
+msgid "Sets the height of the caption when caption's position is 'custom'"
+msgstr ""
+
+#: includes/admin-lists.php:771
+msgid "The path to the slide's image."
+msgstr ""
+
+#: includes/admin-lists.php:774
+msgid ""
+"The ALT text for the slide's image. Will be used as a lightbox title if a "
+"lightbox was created for the slide."
+msgstr ""
+
+#: includes/admin-lists.php:777
+msgid "The title text for the current slide's image."
+msgstr ""
+
+#: includes/admin-lists.php:780
+msgid ""
+"Sets a custom thumbnail image for the current slide. If no path is "
+"specified, a thumbnail will be automatically generated from the slide's main "
+"image."
+msgstr ""
+
+#: includes/admin-lists.php:784
+msgid ""
+"The ALT text for the thumbnail image. Can be used either to specify a "
+"tooltip or the lightbox title if a lightbox was created for the thumbnail."
+msgstr ""
+
+#: includes/admin-lists.php:787
+msgid ""
+"The title text for the current slide's thumbnail.\tWill also be used as a "
+"thumbnail caption. The caption will be displayed only if the Thumbnails Type "
+"is set to 'scroller' or 'tooltipAndScroller'."
+msgstr ""
+
+#: includes/admin-lists.php:790
+msgid ""
+"Sets a link for the slide image. The link will be opened in a lightbox if "
+"the 'Lightbox' checkbox is checked."
+msgstr ""
+
+#: includes/admin-lists.php:793 includes/admin-lists.php:805
+msgid "Sets the target of the link."
+msgstr ""
+
+#: includes/admin-lists.php:796 includes/admin-lists.php:808
+msgid ""
+"Sets the title of the link. It will be used to specify the lightbox "
+"description if the link will be opened in a lightbox."
+msgstr ""
+
+#: includes/admin-lists.php:799 includes/admin-lists.php:811
+msgid "Indicates whether the link will be opened in a lightbox."
+msgstr ""
+
+#: includes/admin-lists.php:802
+msgid ""
+"Sets a link for the thumbnail image. The link will be opened in a lightbox "
+"if the 'Lightbox' checkbox is checked."
+msgstr ""
+
+#: includes/admin-lists.php:814
+msgid "Sets the action that will be triggered when the video starts playing."
+msgstr ""
+
+#: includes/admin-lists.php:819
+msgid "Sets the action that will be triggered when the video is paused."
+msgstr ""
+
+#: includes/admin-lists.php:824
+msgid "Sets the action that will be triggered when the video end."
+msgstr ""
+
+#: includes/admin-lists.php:830
+msgid ""
+"Sets the action that will be triggered when the user navigates away from the "
+"video."
+msgstr ""
+
+#: includes/admin-lists.php:836
+msgid ""
+"Sets the action that will be triggered when the user reaches a slide that "
+"contains a video."
+msgstr ""
+
+#: includes/admin-lists.php:841
+msgid "Enables the automatic video controller for YouTube videos."
+msgstr ""
+
+#: includes/admin-lists.php:844
+msgid "Enables the automatic video controller for Vimeo videos."
+msgstr ""
+
+#: includes/admin-lists.php:847
+msgid "Enables the automatic video controller for simple HMTL5 videos."
+msgstr ""
+
+#: includes/admin-lists.php:850
+msgid ""
+"Enables the automatic video controller for videos that use the VideoJS "
+"wrapper."
+msgstr ""
+
+#: includes/admin-lists.php:853 includes/admin-lists.php:856
+msgid "Enables the automatic video controller for videos that use JW Player."
+msgstr ""
+
+#: includes/admin-lists.php:859
+msgid ""
+"Indicates the path to the folder that contains the JW Player source files."
+msgstr ""
+
+#: includes/admin-lists.php:862
+msgid "Indicates the path to the JW Player skin."
+msgstr ""
+
+#: includes/admin-lists.php:865
+msgid ""
+"Indicates whether the slide images will be resized to the specified width "
+"and height for the slide."
+msgstr ""
+
+#: includes/admin-lists.php:868
+msgid "Sets the align type of the resized slide image."
+msgstr ""
+
+#: includes/admin-lists.php:876
+msgid "Sets the cropping type of the resized slide image."
+msgstr ""
+
+#: includes/admin-lists.php:877 includes/admin-lists.php:901
+msgid ""
+"Available Values: </b> <br/> 0 - resize to fit specified dimensions. <br/> 1 "
+"- resize and crop to best fit the specified dimensions. <br/> 2 - resize "
+"proportionally to fit entire image into specified dimenstions, and add "
+"borders if required. <br/> 3 - resize proportionally, adjusting the size of "
+"the scaled image so there are no borders."
+msgstr ""
+
+#: includes/admin-lists.php:880
+msgid ""
+"Sets the quality of the resized slide image. 100 is the maximum value but "
+"most of the times 95 is sufficient."
+msgstr ""
+
+#: includes/admin-lists.php:883
+msgid ""
+"Sets the width to which the slide image will be resized. If the value is set "
+"to 'auto', the image's width will be set to the total width of the slider "
+"specified in the 'General' panel. "
+msgstr ""
+
+#: includes/admin-lists.php:886
+msgid ""
+"Sets the height to which the slide image will be resized. If the value is "
+"set to 'auto', the image's height will be set to the total height of the "
+"slider specified in the 'General' panel. "
+msgstr ""
+
+#: includes/admin-lists.php:889
+msgid ""
+"Indicates whether the thumbnail images will be resized to the specified "
+"width and height for the thumbnail."
+msgstr ""
+
+#: includes/admin-lists.php:892
+msgid "Sets the align type of the resized thumbnail image."
+msgstr ""
+
+#: includes/admin-lists.php:900
+msgid "Sets the cropping type of the resized thumbnail image."
+msgstr ""
+
+#: includes/admin-lists.php:904
+msgid ""
+"Sets the quality of the resized thumbnail image. 100 is the maximum value "
+"but most of the times 95 is sufficient."
+msgstr ""
+
+#: includes/admin-lists.php:907
+msgid ""
+"Sets a custom class for the slider. You can use this class to reference the "
+"slider in your custom JavaScript and CSS code."
+msgstr ""
+
+#: includes/admin-lists.php:910
+msgid "Indicates whether the custom JavaScript code will be loaded."
+msgstr ""
+
+#: includes/admin-lists.php:913
+msgid "Indicates whether the custom CSS code will be loaded."
+msgstr ""
+
+#: includes/admin-lists.php:916
+msgid ""
+"Indicates the type of the current slide. A slide can be static or dynamic. A "
+"dynamic slide can also be of 2 types: a slide that fetches data from posts, "
+"pages and custom posts types or a slide that fetches data from a post's "
+"gallery."
+msgstr ""
+
+#: includes/admin-lists.php:919
+msgid ""
+"Indicates whether posts will be ordered in ascending or descending order."
+msgstr ""
+
+#: includes/admin-lists.php:922
+msgid "Indicates the parameter by which the posts will be ordered."
+msgstr ""
+
+#: includes/admin-lists.php:925
+msgid ""
+"Indicates whether posts that will be loaded need to have all the selected "
+"taxonomy terms (AND) or at least one (OR)."
+msgstr ""
+
+#: includes/admin-lists.php:928
+msgid ""
+"Indicates whether posts that will be loaded need to have the selected "
+"taxonomy terms (IN) or need to not have them (NOT IN)."
+msgstr ""
+
+#: includes/admin-lists.php:931
+msgid ""
+"Sets the maximum number of posts that will be queried. If you want to query "
+"all posts, set the option to -1."
+msgstr ""
+
+#: includes/admin-lists.php:934
+msgid "Sets the offset of the posts that will be loaded."
+msgstr ""
+
+#: includes/admin-lists.php:937
+msgid "Indicates whether only posts marked to be featured will be loaded."
+msgstr ""
+
+#: includes/admin-lists.php:940
+msgid ""
+"Sets the ID of the post from where the images will be loaded. If -1 is used, "
+"the images will be loaded from the post where the slider is inserted."
+msgstr ""
+
+#: includes/admin-lists.php:943
+msgid ""
+"Sets the maximum number of images that will be loaded. If -1 is used, all "
+"the images from the post's gallery will be loaded."
+msgstr ""
+
+#: includes/admin-lists.php:946
+msgid "Sets the offset of the images that will be loaded."
+msgstr ""
+
+#: includes/admin-lists.php:949
+msgid ""
+"Indicates whether the slider will load images attached/uploaded to the post, "
+"or images from a gallery that was added to that post."
+msgstr ""
+
+#: includes/admin-lists.php:952
+msgid "The API key provided by Flickr."
+msgstr ""
+
+#: includes/admin-lists.php:955
+msgid ""
+"The user ID, if Data Type is set to 'Username', or photoset ID, of Data Type "
+"is set to 'Set'."
+msgstr ""
+
+#: includes/admin-lists.php:958
+msgid ""
+"Indicates whether photos from a certain set will be loaded or photos from a "
+"certain user."
+msgstr ""
+
+#: includes/admin-lists.php:961
+msgid "Sets the maximum number of photos that will be loaded."
+msgstr ""
+
+#: includes/admin-lists.php:964
+msgid ""
+"Sets the direction of the layer's slide in transition. If 'Left' is used, "
+"the layer will slide in from right to left. If 'Up' is used, the layer will "
+"slide in from bottom to top. "
+msgstr ""
+
+#: includes/admin-lists.php:967
+msgid "Sets an offset for the transition."
+msgstr ""
+
+#: includes/admin-lists.php:970
+msgid "Sets the easing type of the transition."
+msgstr ""
+
+#: includes/admin-lists.php:976
+msgid "Sets the delay of the transition."
+msgstr ""
+
+#: includes/admin-lists.php:979
+msgid "Sets the reference point for the position of the layers."
+msgstr ""
+
+#: includes/admin-lists.php:982
+msgid ""
+"Sets the horizontal position of the layer. Can be set to left, center, "
+"right, a percentage value or a fixed value. This value will be relative to "
+"reference point set for the data-position attribute."
+msgstr ""
+
+#: includes/admin-lists.php:985
+msgid ""
+"Sets the vertical position of the layer. Can be set to top, center, bottom, "
+"a percentage value or a fixed value. This value will be relative to "
+"reference point set for the data-position attribute."
+msgstr ""
+
+#: includes/admin-lists.php:988
+msgid ""
+"Sets the width of the layer. Can be set to auto, a percentage value or a "
+"fixed value."
+msgstr ""
+
+#: includes/admin-lists.php:991
+msgid ""
+"Sets the height of the layer. Can be set to auto, a percentage value or a "
+"fixed value."
+msgstr ""
+
+#: includes/admin-lists.php:994
+msgid "Contains all the custom class names that will be applied to the layer."
+msgstr ""
+
+#: includes/admin-lists.php:997
+msgid "Sets the depth of the layer."
+msgstr ""
+
+#: includes/admin-lists.php:1004
+msgid "Publish"
+msgstr ""
+
+#: includes/admin-lists.php:1005 includes/general-lists.php:149
+#: includes/general-lists.php:155 includes/general-lists.php:161
+#: includes/general-lists.php:167 includes/general-lists.php:174
+#: includes/general-lists.php:303 includes/general-lists.php:309
+#: includes/general-lists.php:316 includes/general-lists.php:322
+#: includes/general-lists.php:328 includes/general-lists.php:430
+#: includes/general-lists.php:436 includes/general-lists.php:442
+#: includes/general-lists.php:448 includes/general-lists.php:500
+#: includes/general-lists.php:512 includes/general-lists.php:518
+#: includes/general-lists.php:524 includes/general-lists.php:736
+#: includes/general-lists.php:742 includes/general-lists.php:748
+#: includes/slider.php:132
+msgid "General"
+msgstr ""
+
+#: includes/admin-lists.php:1006 includes/general-lists.php:146
+msgid "Slideshow"
+msgstr ""
+
+#: includes/admin-lists.php:1007 includes/general-lists.php:300
+#: includes/slide.php:251 includes/slide.php:300
+msgid "Lightbox"
+msgstr ""
+
+#: includes/admin-lists.php:1008 includes/general-lists.php:385
+#: includes/general-lists.php:391 includes/general-lists.php:397
+#: includes/general-lists.php:403 includes/general-lists.php:409
+#: includes/general-lists.php:415 includes/general-lists.php:421
+msgid "Fullscreen"
+msgstr ""
+
+#: includes/admin-lists.php:1009 includes/general-lists.php:427
+msgid "Timer Animation"
+msgstr ""
+
+#: includes/admin-lists.php:1010
+msgid "Slide Navigation Controls"
+msgstr ""
+
+#: includes/admin-lists.php:1011
+msgid "Transition Effects"
+msgstr ""
+
+#: includes/admin-lists.php:1012
+msgid "Thumbnails"
+msgstr ""
+
+#: includes/admin-lists.php:1013
+msgid "Captions"
+msgstr ""
+
+#: includes/admin-lists.php:1014
+msgid "Video"
+msgstr ""
+
+#: includes/admin-lists.php:1015
+msgid "TimThumb Resizing"
+msgstr ""
+
+#: includes/admin-lists.php:1016
+msgid "Slides Order"
+msgstr ""
+
+#: includes/flickr-data-fields.php:6
+msgid "API Key"
+msgstr ""
+
+#: includes/flickr-data-fields.php:16
+msgid "Data ID"
+msgstr ""
+
+#: includes/flickr-data-fields.php:24
+msgid "Data Type"
+msgstr ""
+
+#: includes/flickr-data-fields.php:39 includes/gallery-data-fields.php:8
+#: includes/posts-data-fields.php:116
+msgid "Maximum"
+msgstr ""
+
+#: includes/gallery-data-fields.php:3
+msgid "Post"
+msgstr ""
+
+#: includes/gallery-data-fields.php:13 includes/layer-settings.php:19
+#: includes/posts-data-fields.php:121
+msgid "Offset"
+msgstr ""
+
+#: includes/gallery-data-fields.php:18
+msgid "Type"
+msgstr ""
+
+#: includes/general-lists.php:20 includes/general-lists.php:26
+#: includes/general-lists.php:32 includes/general-lists.php:38
+#: includes/general-lists.php:45 includes/general-lists.php:51
+#: includes/general-lists.php:77 includes/general-lists.php:83
+#: includes/general-lists.php:89 includes/general-lists.php:755
+#: includes/general-lists.php:761 includes/general-lists.php:767
+#: includes/general-lists.php:1114 includes/general-lists.php:1120
+#: includes/general-lists.php:1126 includes/layer-settings.php:70
+#: includes/slider.php:157
+msgid "Style"
+msgstr ""
+
+#: includes/general-lists.php:29 includes/slider.php:146
+msgid "Responsive"
+msgstr ""
+
+#: includes/general-lists.php:35
+msgid "Aspect Ratio"
+msgstr ""
+
+#: includes/general-lists.php:41 includes/slider.php:159
+msgid "Skin"
+msgstr ""
+
+#: includes/general-lists.php:48 includes/slider.php:176
+msgid "Include Skin"
+msgstr ""
+
+#: includes/general-lists.php:54
+msgid "Scale Type"
+msgstr ""
+
+#: includes/general-lists.php:58 includes/general-lists.php:65
+#: includes/general-lists.php:71
+msgid "Image Scale and Align"
+msgstr ""
+
+#: includes/general-lists.php:61 includes/general-lists.php:1441
+msgid "Align Type"
+msgstr ""
+
+#: includes/general-lists.php:68
+msgid "Allow Scale Up"
+msgstr ""
+
+#: includes/general-lists.php:74
+msgid "Shadow"
+msgstr ""
+
+#: includes/general-lists.php:80 includes/slider.php:188
+msgid "Border"
+msgstr ""
+
+#: includes/general-lists.php:86 includes/slider.php:193
+msgid "Glow"
+msgstr ""
+
+#: includes/general-lists.php:93 includes/slider.php:240
+msgid "Lazy Loading"
+msgstr ""
+
+#: includes/general-lists.php:96 includes/general-lists.php:102
+#: includes/general-lists.php:108 includes/general-lists.php:114
+#: includes/slider.php:238
+msgid "Slides"
+msgstr ""
+
+#: includes/general-lists.php:99
+msgid "Preload Nearby Images"
+msgstr ""
+
+#: includes/general-lists.php:105
+msgid "Slide Start"
+msgstr ""
+
+#: includes/general-lists.php:111 includes/slider.php:250
+msgid "Shuffle"
+msgstr ""
+
+#: includes/general-lists.php:118 includes/slider.php:265
+msgid "Disable Right Click"
+msgstr ""
+
+#: includes/general-lists.php:121 includes/slider.php:263
+msgid "Other"
+msgstr ""
+
+#: includes/general-lists.php:125 includes/layer-settings.php:85
+#: includes/slider.php:432
+msgid "Custom Class"
+msgstr ""
+
+#: includes/general-lists.php:128 includes/general-lists.php:134
+#: includes/general-lists.php:140
+msgid "Custom JS and CSS"
+msgstr ""
+
+#: includes/general-lists.php:131 includes/slider.php:453
+msgid "Enable Custom JS"
+msgstr ""
+
+#: includes/general-lists.php:137 includes/slider.php:440
+msgid "Enable Custom CSS"
+msgstr ""
+
+#: includes/general-lists.php:152 includes/general-lists.php:1447
+msgid "Slideshow Delay"
+msgstr ""
+
+#: includes/general-lists.php:158
+msgid "Slideshow Loop"
+msgstr ""
+
+#: includes/general-lists.php:164
+msgid "Pause Slideshow On Hover"
+msgstr ""
+
+#: includes/general-lists.php:170
+msgid "Slideshow Direction"
+msgstr ""
+
+#: includes/general-lists.php:177
+msgid "Slideshow Controls"
+msgstr ""
+
+#: includes/general-lists.php:180 includes/general-lists.php:186
+#: includes/general-lists.php:192 includes/general-lists.php:198
+msgid "Controls"
+msgstr ""
+
+#: includes/general-lists.php:183
+msgid "Slideshow Controls Toggle"
+msgstr ""
+
+#: includes/general-lists.php:189
+msgid "Slideshow Controls Show Duration"
+msgstr ""
+
+#: includes/general-lists.php:195
+msgid "Slideshow Controls Hide Duration"
+msgstr ""
+
+#: includes/general-lists.php:204
+msgid "Keyboard Navigation"
+msgstr ""
+
+#: includes/general-lists.php:207 includes/general-lists.php:213
+msgid "Keyboard"
+msgstr ""
+
+#: includes/general-lists.php:210
+msgid "Keyboard Navigation On Focus Only"
+msgstr ""
+
+#: includes/general-lists.php:217 includes/general-lists.php:220
+#: includes/general-lists.php:226 includes/general-lists.php:232
+#: includes/general-lists.php:238
+msgid "Slide Arrows"
+msgstr ""
+
+#: includes/general-lists.php:223
+msgid "Slide Arrows Toggle"
+msgstr ""
+
+#: includes/general-lists.php:229
+msgid "Slide Arrows Show Duration"
+msgstr ""
+
+#: includes/general-lists.php:235
+msgid "Slide Arrows Hide Duration"
+msgstr ""
+
+#: includes/general-lists.php:242 includes/general-lists.php:245
+#: includes/general-lists.php:251 includes/general-lists.php:257
+#: includes/general-lists.php:263 includes/general-lists.php:269
+#: includes/general-lists.php:275 includes/general-lists.php:281
+msgid "Slide Buttons"
+msgstr ""
+
+#: includes/general-lists.php:248
+msgid "Slide Buttons Center"
+msgstr ""
+
+#: includes/general-lists.php:254
+msgid "Slide Buttons Container Center"
+msgstr ""
+
+#: includes/general-lists.php:260
+msgid "Slide Buttons Toggle"
+msgstr ""
+
+#: includes/general-lists.php:266
+msgid "Slide Buttons Show Duration"
+msgstr ""
+
+#: includes/general-lists.php:272
+msgid "Slide Buttons Hide Duration"
+msgstr ""
+
+#: includes/general-lists.php:278
+msgid "Slide Buttons Number"
+msgstr ""
+
+#: includes/general-lists.php:285 includes/general-lists.php:288
+#: includes/general-lists.php:294
+msgid "Auto Toggle"
+msgstr ""
+
+#: includes/general-lists.php:291
+msgid "Auto Toggle Delay"
+msgstr ""
+
+#: includes/general-lists.php:306
+msgid "Lightbox Gallery"
+msgstr ""
+
+#: includes/general-lists.php:312
+msgid "Lightbox Theme"
+msgstr ""
+
+#: includes/general-lists.php:319
+msgid "Lightbox Opacity"
+msgstr ""
+
+#: includes/general-lists.php:325
+msgid "Ligthbox Allow Resize"
+msgstr ""
+
+#: includes/general-lists.php:331
+msgid "Lightbox Autoplay"
+msgstr ""
+
+#: includes/general-lists.php:334 includes/general-lists.php:340
+#: includes/general-lists.php:346
+msgid "Autoplay"
+msgstr ""
+
+#: includes/general-lists.php:337
+msgid "Lightbox Autoplay Delay"
+msgstr ""
+
+#: includes/general-lists.php:343
+msgid "Lightbox Video Autoplay"
+msgstr ""
+
+#: includes/general-lists.php:350
+msgid "Lightbox Icon"
+msgstr ""
+
+#: includes/general-lists.php:353 includes/general-lists.php:359
+#: includes/general-lists.php:365 includes/general-lists.php:371
+#: includes/general-lists.php:377
+msgid "Icons"
+msgstr ""
+
+#: includes/general-lists.php:356
+msgid "Lightbox Icon Toggle"
+msgstr ""
+
+#: includes/general-lists.php:362
+msgid "Lightbox Icon Fade Duration"
+msgstr ""
+
+#: includes/general-lists.php:368
+msgid "Thumbnail Lightbox Icon"
+msgstr ""
+
+#: includes/general-lists.php:374
+msgid "Thumbnail Lightbox Icon Toggle"
+msgstr ""
+
+#: includes/general-lists.php:382
+msgid "Fullscreen Controls"
+msgstr ""
+
+#: includes/general-lists.php:388
+msgid "Fullscreen Controls Toggle"
+msgstr ""
+
+#: includes/general-lists.php:394
+msgid "Fullscreen Controls Show Duration"
+msgstr ""
+
+#: includes/general-lists.php:400
+msgid "Fullscreen Controls Hide Duration"
+msgstr ""
+
+#: includes/general-lists.php:406
+msgid "Fullscreen Thumbnail Scroller Overlay"
+msgstr ""
+
+#: includes/general-lists.php:412
+msgid "Fullscreen Slide Buttons"
+msgstr ""
+
+#: includes/general-lists.php:418
+msgid "Fullscreen Shadow"
+msgstr ""
+
+#: includes/general-lists.php:433
+msgid "Timer Animation Controls"
+msgstr ""
+
+#: includes/general-lists.php:439
+msgid "Timer Toggle"
+msgstr ""
+
+#: includes/general-lists.php:445
+msgid "Timer Fade Duration"
+msgstr ""
+
+#: includes/general-lists.php:451
+msgid "Timer Radius"
+msgstr ""
+
+#: includes/general-lists.php:454 includes/general-lists.php:460
+#: includes/general-lists.php:466 includes/general-lists.php:472
+#: includes/general-lists.php:478 includes/general-lists.php:484
+#: includes/general-lists.php:490
+msgid "Graphic Style"
+msgstr ""
+
+#: includes/general-lists.php:457
+msgid "Timer Stroke Color 1"
+msgstr ""
+
+#: includes/general-lists.php:463
+msgid "Timer Stroke Color 2"
+msgstr ""
+
+#: includes/general-lists.php:469
+msgid "Timer Stroke Opacity 1"
+msgstr ""
+
+#: includes/general-lists.php:475
+msgid "Timer Stroke Opacity 2"
+msgstr ""
+
+#: includes/general-lists.php:481
+msgid "Timer Stroke Width 1"
+msgstr ""
+
+#: includes/general-lists.php:487
+msgid "Timer Stroke Width 2"
+msgstr ""
+
+#: includes/general-lists.php:496 includes/general-lists.php:1458
+msgid "Effect Type"
+msgstr ""
+
+#: includes/general-lists.php:509
+msgid "Initial Effect"
+msgstr ""
+
+#: includes/general-lists.php:515 includes/general-lists.php:1470
+msgid "HTML During Transition"
+msgstr ""
+
+#: includes/general-lists.php:521
+msgid "Override Transition"
+msgstr ""
+
+#: includes/general-lists.php:528 includes/general-lists.php:1475
+msgid "Slide Direction"
+msgstr ""
+
+#: includes/general-lists.php:532 includes/general-lists.php:538
+#: includes/general-lists.php:544 includes/general-lists.php:551
+msgid "Slide Transition"
+msgstr ""
+
+#: includes/general-lists.php:535 includes/general-lists.php:1481
+msgid "Slide Loop"
+msgstr ""
+
+#: includes/general-lists.php:541 includes/general-lists.php:1486
+msgid "Slide Duration"
+msgstr ""
+
+#: includes/general-lists.php:547 includes/general-lists.php:1491
+msgid "Slide Easing"
+msgstr ""
+
+#: includes/general-lists.php:555 includes/general-lists.php:1464
+msgid "Slice Effect Type"
+msgstr ""
+
+#: includes/general-lists.php:559 includes/general-lists.php:565
+#: includes/general-lists.php:571 includes/general-lists.php:578
+#: includes/general-lists.php:584 includes/general-lists.php:590
+#: includes/general-lists.php:597 includes/general-lists.php:603
+#: includes/general-lists.php:610 includes/general-lists.php:617
+#: includes/general-lists.php:623 includes/general-lists.php:629
+#: includes/general-lists.php:635 includes/general-lists.php:641
+msgid "Slice Transition"
+msgstr ""
+
+#: includes/general-lists.php:562 includes/general-lists.php:1513
+msgid "Horizontal Slices"
+msgstr ""
+
+#: includes/general-lists.php:568 includes/general-lists.php:1518
+msgid "Vertical Slices"
+msgstr ""
+
+#: includes/general-lists.php:574 includes/general-lists.php:1523
+msgid "Slice Pattern"
+msgstr ""
+
+#: includes/general-lists.php:581 includes/general-lists.php:1502
+msgid "Slice Duration"
+msgstr ""
+
+#: includes/general-lists.php:587 includes/general-lists.php:1497
+msgid "Slice Delay"
+msgstr ""
+
+#: includes/general-lists.php:593 includes/general-lists.php:1529
+msgid "Slice Point"
+msgstr ""
+
+#: includes/general-lists.php:600 includes/general-lists.php:1546
+msgid "Slice Fade"
+msgstr ""
+
+#: includes/general-lists.php:606 includes/general-lists.php:1507
+msgid "Slice Easing"
+msgstr ""
+
+#: includes/general-lists.php:613 includes/general-lists.php:1535
+msgid "Slice Start Position"
+msgstr ""
+
+#: includes/general-lists.php:620 includes/general-lists.php:1541
+msgid "Slice Start Ratio"
+msgstr ""
+
+#: includes/general-lists.php:626 includes/general-lists.php:1551
+msgid "Slide Mask"
+msgstr ""
+
+#: includes/general-lists.php:632 includes/general-lists.php:1556
+msgid "Fade Previous Slide"
+msgstr ""
+
+#: includes/general-lists.php:638 includes/general-lists.php:1561
+msgid "Fade Previous Slide Duration"
+msgstr ""
+
+#: includes/general-lists.php:645 includes/general-lists.php:1566
+msgid "Fade In Duration"
+msgstr ""
+
+#: includes/general-lists.php:648 includes/general-lists.php:654
+#: includes/general-lists.php:661 includes/general-lists.php:668
+msgid "Fade Transition"
+msgstr ""
+
+#: includes/general-lists.php:651 includes/general-lists.php:1571
+msgid "Fade Out Duration"
+msgstr ""
+
+#: includes/general-lists.php:657 includes/general-lists.php:1576
+msgid "Fade In Easing"
+msgstr ""
+
+#: includes/general-lists.php:664 includes/general-lists.php:1582
+msgid "Fade Out Easing"
+msgstr ""
+
+#: includes/general-lists.php:672
+msgid "Swipe Orientation"
+msgstr ""
+
+#: includes/general-lists.php:676 includes/general-lists.php:682
+#: includes/general-lists.php:688 includes/general-lists.php:694
+#: includes/general-lists.php:700 includes/general-lists.php:707
+#: includes/general-lists.php:713 includes/general-lists.php:719
+#: includes/general-lists.php:725
+msgid "Swipe Transition"
+msgstr ""
+
+#: includes/general-lists.php:679
+msgid "Swipe Threshold"
+msgstr ""
+
+#: includes/general-lists.php:685
+msgid "Swipe Duration"
+msgstr ""
+
+#: includes/general-lists.php:691
+msgid "Swipe Back Duration"
+msgstr ""
+
+#: includes/general-lists.php:697
+msgid "Swipe Slide Distance"
+msgstr ""
+
+#: includes/general-lists.php:703
+msgid "Swipe Easing"
+msgstr ""
+
+#: includes/general-lists.php:710
+msgid "Swipe Mouse Drag"
+msgstr ""
+
+#: includes/general-lists.php:716
+msgid "Swipe Touch Drag"
+msgstr ""
+
+#: includes/general-lists.php:722
+msgid "Swipe Grab Cursor"
+msgstr ""
+
+#: includes/general-lists.php:732 includes/general-lists.php:1452
+msgid "Thumbnail Type"
+msgstr ""
+
+#: includes/general-lists.php:739
+msgid "Thumbnail Width"
+msgstr ""
+
+#: includes/general-lists.php:745
+msgid "Thumbnail Height"
+msgstr ""
+
+#: includes/general-lists.php:752
+msgid "Thumbnail Border"
+msgstr ""
+
+#: includes/general-lists.php:758
+msgid "Thumbnail Background"
+msgstr ""
+
+#: includes/general-lists.php:764
+msgid "Thumbnail Glow"
+msgstr ""
+
+#: includes/general-lists.php:771
+msgid "Thumbnail Slide Amount"
+msgstr ""
+
+#: includes/general-lists.php:774 includes/general-lists.php:780
+#: includes/general-lists.php:787
+msgid "Tooltip Thumbnails"
+msgstr ""
+
+#: includes/general-lists.php:777
+msgid "Thumbnail Slide Duration"
+msgstr ""
+
+#: includes/general-lists.php:783
+msgid "Thumbnail Slide Easing"
+msgstr ""
+
+#: includes/general-lists.php:791
+msgid "Thumbnail Orientation"
+msgstr ""
+
+#: includes/general-lists.php:795 includes/general-lists.php:801
+#: includes/general-lists.php:807 includes/general-lists.php:813
+#: includes/general-lists.php:819 includes/general-lists.php:825
+#: includes/general-lists.php:831 includes/general-lists.php:837
+#: includes/general-lists.php:843 includes/general-lists.php:849
+#: includes/general-lists.php:855
+msgid "Thumbnail Scroller"
+msgstr ""
+
+#: includes/general-lists.php:798
+msgid "Thumbnail Layers"
+msgstr ""
+
+#: includes/general-lists.php:804
+msgid "Maximum Visible Thumbnails"
+msgstr ""
+
+#: includes/general-lists.php:810
+msgid "Minimum Visible Thumbnails"
+msgstr ""
+
+#: includes/general-lists.php:816
+msgid "Thumbnail Scroller Responsive"
+msgstr ""
+
+#: includes/general-lists.php:822
+msgid "Thumbnail Scroller Overlay"
+msgstr ""
+
+#: includes/general-lists.php:828
+msgid "Thumbnail Sync"
+msgstr ""
+
+#: includes/general-lists.php:834
+msgid "Thumbnail Scroller Toggle"
+msgstr ""
+
+#: includes/general-lists.php:840
+msgid "Thumbnail Scroller Hide Duration"
+msgstr ""
+
+#: includes/general-lists.php:846
+msgid "Thumbnail Scroller Show Duration"
+msgstr ""
+
+#: includes/general-lists.php:852
+msgid "Thumbnail Scroller Center"
+msgstr ""
+
+#: includes/general-lists.php:860 includes/general-lists.php:863
+#: includes/general-lists.php:869 includes/general-lists.php:875
+#: includes/general-lists.php:881 includes/general-lists.php:887
+#: includes/general-lists.php:893
+msgid "Thumbnail Swipe"
+msgstr ""
+
+#: includes/general-lists.php:866
+msgid "Thumbnail Swipe Threshold"
+msgstr ""
+
+#: includes/general-lists.php:872
+msgid "Thumbnail Swipe Back Duration"
+msgstr ""
+
+#: includes/general-lists.php:878
+msgid "Thumbnail Swipe Mouse Drag"
+msgstr ""
+
+#: includes/general-lists.php:884
+msgid "Thumbnail Swipe Touch Drag"
+msgstr ""
+
+#: includes/general-lists.php:890
+msgid "Thumbnail Swipe Grab Cursor"
+msgstr ""
+
+#: includes/general-lists.php:898
+msgid "Thumbnail Scroll Duration"
+msgstr ""
+
+#: includes/general-lists.php:901 includes/general-lists.php:908
+msgid "Scrolling"
+msgstr ""
+
+#: includes/general-lists.php:904
+msgid "Thumbnail Scroll Easing"
+msgstr ""
+
+#: includes/general-lists.php:912
+msgid "Thumbnail Arrows"
+msgstr ""
+
+#: includes/general-lists.php:915 includes/general-lists.php:921
+#: includes/general-lists.php:927 includes/general-lists.php:933
+msgid "Arrows"
+msgstr ""
+
+#: includes/general-lists.php:918
+msgid "Thumbnail Arrows Toggle"
+msgstr ""
+
+#: includes/general-lists.php:924
+msgid "Thumbnail Arrows Hide Duration"
+msgstr ""
+
+#: includes/general-lists.php:930
+msgid "Thumbnail Arrows Show Duration"
+msgstr ""
+
+#: includes/general-lists.php:937
+msgid "Thumbnail Buttons"
+msgstr ""
+
+#: includes/general-lists.php:943
+msgid "Thumbnail Buttons Toggle"
+msgstr ""
+
+#: includes/general-lists.php:949
+msgid "Thumbnail Buttons Hide Duration"
+msgstr ""
+
+#: includes/general-lists.php:955
+msgid "Thumbnail Buttons Show Duration"
+msgstr ""
+
+#: includes/general-lists.php:962
+msgid "Thumbnail Scrollbar"
+msgstr ""
+
+#: includes/general-lists.php:965 includes/general-lists.php:972
+#: includes/general-lists.php:978 includes/general-lists.php:984
+#: includes/general-lists.php:990 includes/general-lists.php:996
+#: includes/general-lists.php:1002
+msgid "Scrollbar"
+msgstr ""
+
+#: includes/general-lists.php:968
+msgid "Scrollbar Skin"
+msgstr ""
+
+#: includes/general-lists.php:975
+msgid "Thumbnail Scrollbar Toggle"
+msgstr ""
+
+#: includes/general-lists.php:981
+msgid "Thumbnail Scrollbar Hide Duration"
+msgstr ""
+
+#: includes/general-lists.php:987
+msgid "Thumbnail Scrollbar Show Duration"
+msgstr ""
+
+#: includes/general-lists.php:993
+msgid "Thumbnail Scrollbar Ease"
+msgstr ""
+
+#: includes/general-lists.php:999
+msgid "Scrollbar Arrow Scroll Amount"
+msgstr ""
+
+#: includes/general-lists.php:1006
+msgid "Thumbnail Mouse Scroll"
+msgstr ""
+
+#: includes/general-lists.php:1009 includes/general-lists.php:1015
+#: includes/general-lists.php:1021
+msgid "Mouse Scroll"
+msgstr ""
+
+#: includes/general-lists.php:1012 includes/general-lists.php:1031
+msgid "Thumbnail Mouse Scroll Speed"
+msgstr ""
+
+#: includes/general-lists.php:1018
+msgid "Thumbnail Mouse Scroll Ease"
+msgstr ""
+
+#: includes/general-lists.php:1025
+msgid "Thumbnail Mouse Wheel"
+msgstr ""
+
+#: includes/general-lists.php:1028 includes/general-lists.php:1034
+#: includes/general-lists.php:1040
+msgid "Mouse Wheel"
+msgstr ""
+
+#: includes/general-lists.php:1037
+msgid "Thumbnail Mouse Wheel Reverse"
+msgstr ""
+
+#: includes/general-lists.php:1044
+msgid "Thumbnail Caption"
+msgstr ""
+
+#: includes/general-lists.php:1047 includes/general-lists.php:1054
+#: includes/general-lists.php:1061 includes/general-lists.php:1067
+#: includes/general-lists.php:1073 includes/general-lists.php:1079
+#: includes/general-lists.php:1086 includes/general-lists.php:1591
+#: includes/general-lists.php:1596 includes/general-lists.php:1601
+#: includes/general-lists.php:1606 includes/general-lists.php:1612
+#: includes/general-lists.php:1617 includes/general-lists.php:1623
+#: includes/general-lists.php:1629 includes/general-lists.php:1635
+#: includes/general-lists.php:1640 includes/general-lists.php:1646
+#: includes/general-lists.php:1652 includes/general-lists.php:1657
+#: includes/general-lists.php:1662 includes/general-lists.php:1667
+#: includes/general-lists.php:1672 includes/general-lists.php:1677
+#: includes/slide.php:28
+msgid "Caption"
+msgstr ""
+
+#: includes/general-lists.php:1050
+msgid "Thumbnail Caption Position"
+msgstr ""
+
+#: includes/general-lists.php:1057
+msgid "Thumbnail Caption Effect"
+msgstr ""
+
+#: includes/general-lists.php:1064
+msgid "Thumbnail Caption Toggle"
+msgstr ""
+
+#: includes/general-lists.php:1070
+msgid "Thumbnail Caption Show Duration"
+msgstr ""
+
+#: includes/general-lists.php:1076
+msgid "Thumbnail Caption Hide Duration"
+msgstr ""
+
+#: includes/general-lists.php:1082
+msgid "Thumbnail Caption Easing"
+msgstr ""
+
+#: includes/general-lists.php:1090
+msgid "Thumbnail Tooltip"
+msgstr ""
+
+#: includes/general-lists.php:1096
+msgid "Tooltip Show Duration"
+msgstr ""
+
+#: includes/general-lists.php:1102
+msgid "Tooltip Hide Duration"
+msgstr ""
+
+#: includes/general-lists.php:1111
+msgid "Caption Toggle"
+msgstr ""
+
+#: includes/general-lists.php:1117 includes/general-lists.php:1599
+msgid "Caption Background Opacity"
+msgstr ""
+
+#: includes/general-lists.php:1123 includes/general-lists.php:1604
+msgid "Caption Background Color"
+msgstr ""
+
+#: includes/general-lists.php:1129 includes/general-lists.php:1594
+msgid "Caption Delay"
+msgstr ""
+
+#: includes/general-lists.php:1132 includes/general-lists.php:1178
+#: includes/general-lists.php:1184 includes/general-lists.php:1191
+#: includes/general-lists.php:1198
+msgid "Show Effect"
+msgstr ""
+
+#: includes/general-lists.php:1136 includes/general-lists.php:1588
+msgid "Caption Position"
+msgstr ""
+
+#: includes/general-lists.php:1140 includes/general-lists.php:1146
+#: includes/general-lists.php:1152 includes/general-lists.php:1158
+#: includes/general-lists.php:1164 includes/general-lists.php:1170
+msgid "Size and Position"
+msgstr ""
+
+#: includes/general-lists.php:1143 includes/general-lists.php:1655
+msgid "Caption Size"
+msgstr ""
+
+#: includes/general-lists.php:1149 includes/general-lists.php:1660
+msgid "Caption Left"
+msgstr ""
+
+#: includes/general-lists.php:1155 includes/general-lists.php:1665
+msgid "Caption Top"
+msgstr ""
+
+#: includes/general-lists.php:1161 includes/general-lists.php:1670
+msgid "Caption Width"
+msgstr ""
+
+#: includes/general-lists.php:1167 includes/general-lists.php:1675
+msgid "Caption Height"
+msgstr ""
+
+#: includes/general-lists.php:1174 includes/general-lists.php:1609
+msgid "Caption Show Effect"
+msgstr ""
+
+#: includes/general-lists.php:1181 includes/general-lists.php:1615
+msgid "Caption Show Effect Duration"
+msgstr ""
+
+#: includes/general-lists.php:1187 includes/general-lists.php:1620
+msgid "Caption Show Effect Easing"
+msgstr ""
+
+#: includes/general-lists.php:1194 includes/general-lists.php:1626
+msgid "Caption Show Slide Direction"
+msgstr ""
+
+#: includes/general-lists.php:1202 includes/general-lists.php:1632
+msgid "Caption Hide Effect"
+msgstr ""
+
+#: includes/general-lists.php:1206 includes/general-lists.php:1212
+#: includes/general-lists.php:1219 includes/general-lists.php:1226
+msgid "Hide Effect"
+msgstr ""
+
+#: includes/general-lists.php:1209 includes/general-lists.php:1638
+msgid "Caption Hide Effect Duration"
+msgstr ""
+
+#: includes/general-lists.php:1215 includes/general-lists.php:1643
+msgid "Caption Hide Effect Easing"
+msgstr ""
+
+#: includes/general-lists.php:1222 includes/general-lists.php:1649
+msgid "Caption Hide Slide Direction"
+msgstr ""
+
+#: includes/general-lists.php:1265
+msgid "Video Play Action"
+msgstr ""
+
+#: includes/general-lists.php:1269 includes/general-lists.php:1276
+#: includes/general-lists.php:1283 includes/general-lists.php:1290
+#: includes/general-lists.php:1297 includes/sliders.php:48
+#: includes/sliders.php:125
+msgid "Actions"
+msgstr ""
+
+#: includes/general-lists.php:1272
+msgid "Video Pause Action"
+msgstr ""
+
+#: includes/general-lists.php:1279
+msgid "Video End Action"
+msgstr ""
+
+#: includes/general-lists.php:1286
+msgid "Reach Video Action"
+msgstr ""
+
+#: includes/general-lists.php:1293
+msgid "Leave Video Action"
+msgstr ""
+
+#: includes/general-lists.php:1300
+msgid "JW Player Path"
+msgstr ""
+
+#: includes/general-lists.php:1303 includes/general-lists.php:1309
+msgid "JW Player"
+msgstr ""
+
+#: includes/general-lists.php:1306
+msgid "JW Player Skin"
+msgstr ""
+
+#: includes/general-lists.php:1315
+msgid "Slide Resizing Resize"
+msgstr ""
+
+#: includes/general-lists.php:1321
+msgid "Slide Resizing Align"
+msgstr ""
+
+#: includes/general-lists.php:1328
+msgid "Slide Resizing Crop"
+msgstr ""
+
+#: includes/general-lists.php:1335
+msgid "Slide Resizing Quality"
+msgstr ""
+
+#: includes/general-lists.php:1341
+msgid "Slide Resizing Width"
+msgstr ""
+
+#: includes/general-lists.php:1347
+msgid "Slide Resizing Height"
+msgstr ""
+
+#: includes/general-lists.php:1354
+msgid "Thumbnail Resizing Resize"
+msgstr ""
+
+#: includes/general-lists.php:1360
+msgid "Thumbnail Resizing Align"
+msgstr ""
+
+#: includes/general-lists.php:1367
+msgid "Thumbnail Resizing Crop"
+msgstr ""
+
+#: includes/general-lists.php:1374
+msgid "Thumbnail Resizing Quality"
+msgstr ""
+
+#: includes/general-lists.php:1444 includes/general-lists.php:1449
+#: includes/general-lists.php:1455
+msgid "Miscellaneous"
+msgstr ""
+
+#: includes/general-lists.php:1461 includes/general-lists.php:1467
+#: includes/general-lists.php:1472
+msgid "Effects General"
+msgstr ""
+
+#: includes/general-lists.php:1478 includes/general-lists.php:1483
+#: includes/general-lists.php:1488 includes/general-lists.php:1494
+msgid "Slide Effect"
+msgstr ""
+
+#: includes/general-lists.php:1499 includes/general-lists.php:1504
+#: includes/general-lists.php:1510 includes/general-lists.php:1515
+#: includes/general-lists.php:1520 includes/general-lists.php:1526
+#: includes/general-lists.php:1532 includes/general-lists.php:1538
+#: includes/general-lists.php:1543 includes/general-lists.php:1548
+#: includes/general-lists.php:1553 includes/general-lists.php:1558
+#: includes/general-lists.php:1563
+msgid "Slice Effect"
+msgstr ""
+
+#: includes/general-lists.php:1568 includes/general-lists.php:1573
+#: includes/general-lists.php:1579 includes/general-lists.php:1585
+msgid "Fade Effect"
+msgstr ""
+
+#: includes/general-lists.php:1894
+msgid "Administrator"
+msgstr ""
+
+#: includes/general-lists.php:1894
+msgid "Editor"
+msgstr ""
+
+#: includes/general-lists.php:1895 includes/replicate-skin-form.php:23
+msgid "Author"
+msgstr ""
+
+#: includes/general-lists.php:1895
+msgid "Contributor"
+msgstr ""
+
+#: includes/general-lists.php:1901
+msgid "Super Admin"
+msgstr ""
+
+#: includes/import-slider-form.php:4
+msgid "Import"
+msgstr ""
+
+#: includes/layer-settings.php:6
+msgid "Effect"
+msgstr ""
+
+#: includes/layer-settings.php:8
+msgid "Transition"
+msgstr ""
+
+#: includes/layer-settings.php:22
+msgid "Easing"
+msgstr ""
+
+#: includes/layer-settings.php:33
+msgid "Duration"
+msgstr ""
+
+#: includes/layer-settings.php:36
+msgid "Delay"
+msgstr ""
+
+#: includes/layer-settings.php:42
+msgid "Size & Position"
+msgstr ""
+
+#: includes/layer-settings.php:44
+msgid "Position"
+msgstr ""
+
+#: includes/layer-settings.php:88
+msgid "Depth"
+msgstr ""
+
+#: includes/layer-settings.php:94 includes/slider.php:74
+msgid "Apply"
+msgstr ""
+
+#: includes/layer-settings.php:95
+msgid "OK"
+msgstr ""
+
+#: includes/media-loader.php:125
+msgid "#"
+msgstr ""
+
+#: includes/media-loader.php:126 includes/slide.php:23
+msgid "Image"
+msgstr ""
+
+#: includes/media-loader.php:127 includes/sliders.php:45
+#: includes/sliders.php:122
+msgid "Name"
+msgstr ""
+
+#: includes/media-loader.php:129
+msgid "Insert"
+msgstr ""
+
+#: includes/plugin-options.php:7
+msgid "Plugin options updated."
+msgstr ""
+
+#: includes/plugin-options.php:17
+msgid "Enable TimThumb"
+msgstr ""
+
+#: includes/plugin-options.php:20
+msgid ""
+"This option needs to be enabled if you want the images to be dynamically "
+"resized."
+msgstr ""
+
+#: includes/plugin-options.php:27
+msgid "Use compressed scripts"
+msgstr ""
+
+#: includes/plugin-options.php:30
+msgid ""
+"You can disable this option if you want to use the uncompressed scripts, for "
+"debugging or other reasons."
+msgstr ""
+
+#: includes/plugin-options.php:37
+msgid "Visual editor"
+msgstr ""
+
+#: includes/plugin-options.php:40
+msgid ""
+"This option will enable the TinyMCE visual editor for the Caption and Inline "
+"HTML sections. If you disable it, only a simple text area will be displayed."
+msgstr ""
+
+#: includes/plugin-options.php:47
+msgid "Show admin bar links"
+msgstr ""
+
+#: includes/plugin-options.php:50
+msgid ""
+"If you don't want the Slider PRO links to be displayed in the admin bar, you "
+"can disable this option."
+msgstr ""
+
+#: includes/plugin-options.php:57
+msgid "Enqueue jQuery"
+msgstr ""
+
+#: includes/plugin-options.php:60
+msgid ""
+"The slider will need the jQuery library but if you already load it in your "
+"theme you can disable this option."
+msgstr ""
+
+#: includes/plugin-options.php:67
+msgid "Enqueue jQuery Easing"
+msgstr ""
+
+#: includes/plugin-options.php:70
+msgid "If you only use the default easing type you can disable this option."
+msgstr ""
+
+#: includes/plugin-options.php:77
+msgid "Enqueue jQuery MouseWheel"
+msgstr ""
+
+#: includes/plugin-options.php:80
+msgid ""
+"If you use a different plugin for handling the mouse wheel input you can "
+"disable this option."
+msgstr ""
+
+#: includes/plugin-options.php:87
+msgid "Generate slider XML file"
+msgstr ""
+
+#: includes/plugin-options.php:90
+msgid ""
+"This feature will generate an XML file for each of your sliders allowing you "
+"to export/import sliders. If your server doesn't have the DOM XML extension "
+"installed, you can disable the feature."
+msgstr ""
+
+#: includes/plugin-options.php:97
+msgid "Rewrite MultiSite paths"
+msgstr ""
+
+#: includes/plugin-options.php:100
+msgid ""
+"This option needs to be enabled if you use the slider in a WordPress "
+"MultiSite environment and TimThumb is enabled. This feature will rewrite the "
+"vritual image paths that are used in Multisite to real file paths that are "
+"necessary for TimThumb."
+msgstr ""
+
+#: includes/plugin-options.php:107
+msgid "Enable the custom Media Loader"
+msgstr ""
+
+#: includes/plugin-options.php:110
+msgid ""
+"Since WordPress 3.5 the slider uses the default media library but you can "
+"revert to the previous custom media loader by checking this option."
+msgstr ""
+
+#: includes/plugin-options.php:117
+msgid "Enable the Caption and Inline HTML sections"
+msgstr ""
+
+#: includes/plugin-options.php:120
+msgid ""
+"These fields are available by default in slider versions previous to version "
+"3.0. In version 3.0, the Layers section was introduced and is meant to be a "
+"replacement for both the Caption and Inline HTML sections."
+msgstr ""
+
+#: includes/plugin-options.php:127
+msgid "Enable dynamic slides \"Featured\" filter"
+msgstr ""
+
+#: includes/plugin-options.php:130
+msgid ""
+"Enables an additional filter for the \"Posts Content\" slides, allowing you "
+"to fetch only posts that were selected from within the post's edit page."
+msgstr ""
+
+#: includes/plugin-options.php:137
+msgid "Show \"Getting Started\" message"
+msgstr ""
+
+#: includes/plugin-options.php:140
+msgid ""
+"Indicates whether the \"Getting Started\" message will be displayed in the "
+"Sliders page."
+msgstr ""
+
+#: includes/plugin-options.php:147
+msgid "Display all slider options"
+msgstr ""
+
+#: includes/plugin-options.php:150
+msgid ""
+"Indicates whether all the slider's options will be visible by default. If "
+"disabled, the options will be hidden dy default, and displayed only if they "
+"are selected."
+msgstr ""
+
+#: includes/plugin-options.php:165
+msgid "Role Access"
+msgstr ""
+
+#: includes/plugin-options.php:168
+msgid "Select which role you want to have access to the Slider PRO plugin."
+msgstr ""
+
+#: includes/plugin-options.php:173
+msgid "Update Options"
+msgstr ""
+
+#: includes/plugin-options.php:178
+msgid "Automatic updates"
+msgstr ""
+
+#: includes/plugin-options.php:188
+msgid ""
+"Please enter your purchase code in order to have access to automatic updates."
+msgstr ""
+
+#: includes/plugin-options.php:191
+msgid "The purchase code is valid."
+msgstr ""
+
+#: includes/plugin-options.php:194
+msgid "The purchase code is not valid."
+msgstr ""
+
+#: includes/plugin-options.php:197
+msgid ""
+"An error occurred during the validation. Please try again later and if the "
+"error persists, contact the plugin's author."
+msgstr ""
+
+#: includes/plugin-options.php:201
+msgid ""
+"You're almost ready. Please prepare the plugin for automatic updates, as "
+"indicated below."
+msgstr ""
+
+#: includes/plugin-options.php:207
+msgid "Purchase Code:"
+msgstr ""
+
+#: includes/plugin-options.php:209
+msgid "Verify Purchase Code"
+msgstr ""
+
+#: includes/plugin-options.php:219
+msgid ""
+"The plugin is ready for automatic updates. However, as WordPress recommends, "
+"it's a best practice to backup your site before doing any update."
+msgstr ""
+
+#: includes/plugin-options.php:224
+msgid ""
+"The folders could not be created automatically, so they need to be created "
+"manually."
+msgstr ""
+
+#: includes/plugin-options.php:225
+msgid ""
+"This process is required only once, and all you have to do is create the "
+"'slider-pro-assets' folder in 'wp-content/plugins/' and then copy the "
+"'custom', 'skins' and 'xml' folders from 'wp-content/plugins/slider-pro/' "
+"into 'wp-content/plugins/slider-pro-assets/'. Then, click the 'Prepare "
+"plugin for update' button below again."
+msgstr ""
+
+#: includes/plugin-options.php:226
+msgid ""
+"If you need assistance with this, please contact <a target=\"_blank\" href="
+"\"http://support.bqworks.com\">support</a>, and we'll help you."
+msgstr ""
+
+#: includes/plugin-options.php:236
+msgid "Prepare the plugin for automatic updates"
+msgstr ""
+
+#: includes/plugin-options.php:238
+msgid "This is required only once, before the first update."
+msgstr ""
+
+#: includes/plugin-options.php:239
+msgid ""
+"In order to preserve your customizations during an update, the plugin needs "
+"to move some folders, that contain custom files, outside the main plugin "
+"folder."
+msgstr ""
+
+#: includes/plugin-options.php:240
+msgid "The folders that need to be preserved are:"
+msgstr ""
+
+#: includes/plugin-options.php:242
+msgid "'xml' folder - which contains all the sliders exported as XML files"
+msgstr ""
+
+#: includes/plugin-options.php:243
+msgid "'custom' folder - which contains the custom CSS and JavaScript"
+msgstr ""
+
+#: includes/plugin-options.php:244
+msgid "'skins' folder - contains all the skin files"
+msgstr ""
+
+#: includes/plugin-options.php:246
+msgid ""
+"The plugin will attempt to move the folders for you automatically, if you "
+"click the button below. The folders will be moved in 'wp-content/plugins/"
+"slider-pro-assets'. The 'slider-pro-assets' will be created automatically."
+msgstr ""
+
+#: includes/plugin-options.php:247
+msgid ""
+"If folder permissions on the server don't allow the plugin to move the "
+"folders automatically, you will need to move them manually, in order to "
+"avoid losing customizations."
+msgstr ""
+
+#: includes/plugin-options.php:251
+msgid "Prepare plugin for update"
+msgstr ""
+
+#: includes/posts-data-fields.php:65
+msgid "Relation"
+msgstr ""
+
+#: includes/posts-data-fields.php:77
+msgid "Operator"
+msgstr ""
+
+#: includes/posts-data-fields.php:89
+msgid "Order By"
+msgstr ""
+
+#: includes/posts-data-fields.php:101
+msgid "Order"
+msgstr ""
+
+#: includes/posts-data-fields.php:127
+msgid "Featured"
+msgstr ""
+
+#: includes/replicate-skin-form.php:8
+msgid "Skin Name"
+msgstr ""
+
+#: includes/replicate-skin-form.php:13
+msgid "Class"
+msgstr ""
+
+#: includes/replicate-skin-form.php:18
+msgid "Description"
+msgstr ""
+
+#: includes/skin-editor.php:12
+msgid "Select a skin to edit"
+msgstr ""
+
+#: includes/skin-editor.php:33
+msgid "Skin Name: "
+msgstr ""
+
+#: includes/skin-editor.php:34
+msgid "Skin Class: "
+msgstr ""
+
+#: includes/skin-editor.php:35
+msgid "Skin Author: "
+msgstr ""
+
+#: includes/skin-editor.php:36
+msgid "Skin Description: "
+msgstr ""
+
+#: includes/skin-editor.php:49
+msgid "Refresh All Skins"
+msgstr ""
+
+#: includes/slide.php:2
+msgid "Show/Hide Slide"
+msgstr ""
+
+#: includes/slide.php:3
+msgid "Delete Slide"
+msgstr ""
+
+#: includes/slide.php:4
+msgid "Duplicate Slide"
+msgstr ""
+
+#: includes/slide.php:6
+msgid "Enable the slide"
+msgstr ""
+
+#: includes/slide.php:6
+msgid "Disable the slide"
+msgstr ""
+
+#: includes/slide.php:7
+msgid "Mark Slide"
+msgstr ""
+
+#: includes/slide.php:24
+msgid "Thumbnail"
+msgstr ""
+
+#: includes/slide.php:25
+msgid "Layers"
+msgstr ""
+
+#: includes/slide.php:29
+msgid "Inline HTML"
+msgstr ""
+
+#: includes/slide.php:32
+msgid "Link & Lightbox"
+msgstr ""
+
+#: includes/slide.php:33
+msgid "Settings"
+msgstr ""
+
+#: includes/slide.php:34 includes/slide.php:375
+msgid "Slide Type"
+msgstr ""
+
+#: includes/slide.php:57 includes/slide.php:112 includes/slide.php:221
+#: includes/slide.php:270
+msgid "Path"
+msgstr ""
+
+#: includes/slide.php:63 includes/slide.php:118
+msgid "Alt"
+msgstr ""
+
+#: includes/slide.php:79 includes/slide.php:135
+msgid "Add Image"
+msgstr ""
+
+#: includes/slide.php:83 includes/slide.php:139
+msgid "Refresh Image"
+msgstr ""
+
+#: includes/slide.php:182
+msgid "Add New Layer"
+msgstr ""
+
+#: includes/slide.php:228 includes/slide.php:277
+msgid "Target"
+msgstr ""
+
+#: includes/slider-update.php:96
+msgid " To activate automatic updates, you need to enter your purchase code "
+msgstr ""
+
+#: includes/slider.php:5
+msgid "Edit Slider"
+msgstr ""
+
+#: includes/slider.php:5 includes/sliders.php:131
+msgid "Create New Slider"
+msgstr ""
+
+#: includes/slider.php:12
+msgid "Slider created."
+msgstr ""
+
+#: includes/slider.php:14
+msgid "Slider updated."
+msgstr ""
+
+#: includes/slider.php:30
+msgid "My Slider"
+msgstr ""
+
+#: includes/slider.php:60
+msgid "Add New Slides"
+msgstr ""
+
+#: includes/slider.php:66
+msgid "Add Image Slides"
+msgstr ""
+
+#: includes/slider.php:70
+msgid "Processing Request..."
+msgstr ""
+
+#: includes/slider.php:78
+msgid "Bulk Actions"
+msgstr ""
+
+#: includes/slider.php:79
+msgid "Mark All"
+msgstr ""
+
+#: includes/slider.php:80
+msgid "Unmark All"
+msgstr ""
+
+#: includes/slider.php:81
+msgid "Reverse marking"
+msgstr ""
+
+#: includes/slider.php:82
+msgid "Delete Slides"
+msgstr ""
+
+#: includes/slider.php:83
+msgid "Enable Slides"
+msgstr ""
+
+#: includes/slider.php:84
+msgid "Disable Slides"
+msgstr ""
+
+#: includes/slider.php:85
+msgid "Refresh Images"
+msgstr ""
+
+#: includes/slider.php:86
+msgid "Refresh Thumbs"
+msgstr ""
+
+#: includes/slider.php:106
+msgid "Update Slider"
+msgstr ""
+
+#: includes/slider.php:106
+msgid "Create Slider"
+msgstr ""
+
+#: includes/slider.php:115
+msgid "Preview Slider"
+msgstr ""
+
+#: includes/slider.php:118
+msgid "Delete Slider"
+msgstr ""
+
+#: includes/slider.php:138
+msgid "Size"
+msgstr ""
+
+#: includes/slider.php:151
+msgid "Ratio"
+msgstr ""
+
+#: includes/slider.php:183
+msgid "3D Shadow"
+msgstr ""
+
+#: includes/slider.php:204
+msgid "Image Align & Scale"
+msgstr ""
+
+#: includes/slider.php:206
+msgid "Align"
+msgstr ""
+
+#: includes/slider.php:228
+msgid "Scale Up"
+msgstr ""
+
+#: includes/slider.php:245
+msgid "Preload Nearby"
+msgstr ""
+
+#: includes/slider.php:255
+msgid "Start"
+msgstr ""
+
+#: includes/slider.php:404
+msgid "Slides order"
+msgstr ""
+
+#: includes/slider.php:420
+msgid "Custom CSS & JavaScript"
+msgstr ""
+
+#: includes/sliders.php:31
+msgid "Slider deleted."
+msgstr ""
+
+#: includes/sliders.php:34
+msgid ""
+"Something went wrong. You probably added more slides than the server allows. "
+"For more details about this please see the "
+msgstr ""
+
+#: includes/sliders.php:44 includes/sliders.php:121
+msgid "ID"
+msgstr ""
+
+#: includes/sliders.php:46 includes/sliders.php:123
+msgid "Created"
+msgstr ""
+
+#: includes/sliders.php:47 includes/sliders.php:124
+msgid "Modified"
+msgstr ""
+
+#: includes/sliders.php:62
+msgid "No slider created yet."
+msgstr ""
+
+#: includes/sliders.php:78
+msgid "Edit"
+msgstr ""
+
+#: includes/sliders.php:86
+msgid "Delete"
+msgstr ""
+
+#: includes/sliders.php:90
+msgid "Duplicate"
+msgstr ""
+
+#: includes/sliders.php:104
+msgid "Export"
+msgstr ""
+
+#: includes/sliders.php:106
+msgid "Export N/A"
+msgstr ""
+
+#: includes/sliders.php:132
+msgid "Import Slider"
+msgstr ""
