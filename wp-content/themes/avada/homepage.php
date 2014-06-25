@@ -47,9 +47,19 @@ get_header(); ?>
 						</a>
 					</div>
 					<div class="layer static slider-description" data-horizontal="65%" data-vertical="-2" data-width="35%" data-height="100%">
-						<div class="title">
+						
+						<h1>
+							Cathedral
+						</h1>
+						<div class="content">
 							<p>
-								Cathedral
+								The film is based on a short story by Jacek Dukaj under the same title. In 2002 "Cathedral" was awarded the main prize at SIGGRAPH festival ("Best Animated Short"). A year later it received an Oscar nomination in the category "Best Animated Short Film".
+							</p>
+							<p>
+								SYNOPSIS: Story of a pilgrim who comes to the Cathedral on the border of the known world. He wants to find answers. He finds tranquility.
+							</p>
+							<p>
+								DIRECTOR: Tomasz Baginski
 							</p>
 						</div>
 						<div class="content">
