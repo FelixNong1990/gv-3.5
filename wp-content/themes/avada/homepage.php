@@ -36,9 +36,10 @@ get_header(); ?>
 ?>
 
 <div id="content" class="full-width">
-
+	<?php echo slider_pro(1); ?>
 
 	<div class="fullwidth-box" style="padding-top: 0px; padding-bottom: 0px;">
+
 
 		<div id="layerslider_1" class="ls-wp-container" style="width:1000px;height:430px;margin:0 auto;margin-bottom: 0px; wwhite-space: normal;">
 			<div class="ls-slide" data-ls=" transition2d: all;">
