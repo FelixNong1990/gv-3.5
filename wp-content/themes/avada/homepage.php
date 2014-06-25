@@ -36,11 +36,81 @@ get_header(); ?>
 ?>
 
 <div id="content" class="full-width">
-
+	<?php //echo slider_pro(1); ?>
 
 	<div class="fullwidth-box" style="padding-top: 0px; padding-bottom: 0px;">
+		<div class="advanced-slider slider-pro video-slider" id="slider-pro-1" tabindex="0" style="width: 100%; height: 430px;">
+			<div class="slides">
+				<div class="slide">
+					<div class="layer static" data-width="65%" data-height="100%" data-horizontal="-5" data-vertical="-2">
+						<a class="video" href="http://www.youtube.com/watch?v=msIjWthwWwI&rel=0&controls=1&showinfo=0&theme=light&allowfullscreen=1">
+							<img src="http://bqworks.com/products/advanced-slider/images/v4/videos/cathedral.jpg" width="100%" height="100%"/>
+						</a>
+					</div>
+					<div class="layer static slider-description" data-horizontal="65%" data-vertical="-2" data-width="35%" data-height="100%">
+						<div class="title">
+							<p>
+								Cathedral
+							</p>
+						</div>
+						<div class="content">
+							<p>
+								The film is based on a short story by Jacek Dukaj under the same title. In 2002 "Cathedral" was awarded the main prize at SIGGRAPH festival ("Best Animated Short"). A year later it received an Oscar nomination in the category "Best Animated Short Film".
+							</p>
+							<p>
+								SYNOPSIS: Story of a pilgrim who comes to the Cathedral on the border of the known world. He wants to find answers. He finds tranquility.
+							</p>
+							<p>
+								DIRECTOR: Tomasz Baginski
+							</p>
+						</div>
+						<div class="link">
+							<p>
+								SOURCE: <a href="http://www.youtube.com/watch?v=msIjWthwWwI" target="_blank">youtube.com/watch?v=msIjWthwWwI</a>
+							</p>
+						</div>
+					</div>
+				</div>
+				<div class="slide">
+					<div class="layer static" data-width="65%" data-height="100%" data-horizontal="-5" data-vertical="-2">
+						<a class="video" href="http://vimeo.com/3116167">
+							<img src="http://bqworks.com/products/advanced-slider/images/v4/videos/ark.jpg" width="100%" height="100%" />
+						 </a>
+						<!--<iframe src="//player.vimeo.com/video/40612295" width="100%" height="100%" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>-->
+					</div>
+					<div class="layer static slider-description" data-horizontal="65%" data-vertical="-2" data-width="35%" data-height="100%">
+						<div class="title">
+							<p>
+								ARK
+							</p>
+						</div>
+						<div class="content">
+							<p>
+								An unknown virus has destroyed almost the entire human population. Oblivious to the true nature of the disease, the only remaining survivors escape to the sea. In great ships, they set off in search of uninhabited land. So begins the exodus, led by one man.
+							</p>
+							<p>
+								DIRECTOR: Grzegorz Jonkajtys
+							</p>
+							<p>
+								PRODUCERS: Grzegorz Jonkajtys, Marcin Kobylecki
+							</p>
+							<p>
+								CO-PRODUCERS: Piotr Sikora, Jaroslaw Sawko (Platige Image)
+							</p>
+						</div>
+						<div class="link">
+							<p>
+								SOURCE: <a href="http://vimeo.com/3116167" target="_blank">vimeo.com/3116167</a>
+							</p>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
 
-		<div id="layerslider_1" class="ls-wp-container" style="width:1000px;height:430px;margin:0 auto;margin-bottom: 0px; wwhite-space: normal;">
+
+
+		<!--<div id="layerslider_1" class="ls-wp-container" style="width:1000px;height:430px;margin:0 auto;margin-bottom: 0px; wwhite-space: normal;">
 			<div class="ls-slide" data-ls=" transition2d: all;">
 				<div class="ls-l" style="top:0px;left:0px;white-space: nowrap;">
 					<iframe width="560" height="430" src="//www.youtube.com/embed/7Ee9u0hyz6A" frameborder="0" allowfullscreen>
@@ -75,7 +145,7 @@ get_header(); ?>
 	
 		<?php //layerslider(1) ?>
 		<p style="margin-bottom: 40px">Test</p>
-		<?php jnewsticker_display(0) ?>
+		<?php //jnewsticker_display(0) ?>
 	
 		<div id="layerslider" class="ls-wp-container ls-container ls-borderlessdark" style="width: 1000px; height: 430px;">
 			<div class="ls-inner" style="width: 1000px; height: 430px;">
@@ -95,7 +165,7 @@ get_header(); ?>
 					</div>
 				</div>
 			</div>
-		</div>
+		</div>-->
 
 		<?php
 		    // Create array of all categories
