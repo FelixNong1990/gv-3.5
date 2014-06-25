@@ -880,6 +880,15 @@ margin: 0 3px;
 }
 
 /*====================
+==== Slider ====
+====================*/
+.slider-description {
+	overflow: auto;
+}
+
+
+
+/*====================
 ==== User Logged In Menu ====
 ====================*/
 .user-wrapper {
