@@ -40,80 +40,79 @@ get_header(); ?>
 	<div class="fullwidth-box" style="padding-top: 0px; padding-bottom: 0px;">
 		<div class="advanced-slider slider-pro video-slider" id="slider-pro-1" tabindex="0" style="width: 100%; height: 430px;">
 			<div class="slides">
+				<?php
+					$catquery = new WP_Query( array('category_name'=> 'featured' , 'posts_per_page' => 5) );
+					while($catquery->have_posts()) : $catquery->the_post();
+					$post_id = get_the_ID();
+					$ratings = get_post_meta( $post_id, '_kksr_avg' , true );
+					$per = ($ratings/5)*100;
+					$views = getPostViews($post_id);
+					$author_id=$post->post_author;
+					$author_url = get_author_posts_url($author_id);
+					$published_date = get_the_time('F j, Y', $post_id);
+					
+					$url = get_post_meta($post_id, 'post_meta_embed_code', true); 
+					$video_info = getVideoInfo($url);
+					$video_id   = $video_info['video_id'];
+					$video_provider   = $video_info['video_provider'];
+					
+					// Check whether current video provider is youtube or vimeo then get the thumnail source and video duration
+					if($video_provider == 'youtube') {
+						$link = "https://gdata.youtube.com/feeds/api/videos/". $video_id;
+						$doc = new DOMDocument;
+						$doc->load($link);
+						$title = $doc->getElementsByTagName("title")->item(0)->nodeValue;
+						$duration = $doc->getElementsByTagName('duration')->item(0)->getAttribute('seconds');
+						$src = 'http://i1.ytimg.com/vi/' . $video_id . '/0.jpg';
+						$href = 'http://www.youtube.com/watch?v=' . $video_id . '&rel=0&controls=1&showinfo=0&theme=light';
+					} else if($video_provider == 'vimeo') {
+						$file_contents = file_get_contents("http://vimeo.com/api/oembed.json?url=http%3A//vimeo.com/" . $video_id, true);
+						$vimeo_info    = json_decode($file_contents,true);
+						$duration      = $vimeo_info['duration'];
+						$hash = unserialize(file_get_contents("http://vimeo.com/api/v2/video/" . $video_id . ".php"));
+						$src = $hash[0]['thumbnail_large'];
+						$href = 'http://vimeo.com/' . $video_id;
+					}
+				?>
 				<div class="slide">
 					<div class="layer static" data-width="65%" data-height="100%" data-horizontal="-5" data-vertical="-2">
-						<a class="video" href="http://www.youtube.com/watch?v=msIjWthwWwI&rel=0&controls=1&showinfo=0&theme=light&allowfullscreen=1">
-							<img src="http://bqworks.com/products/advanced-slider/images/v4/videos/cathedral.jpg" width="100%" height="100%"/>
+						<a class="video" href="<?php echo $href; ?>">
+							<img src="<?php echo $src; ?>" width="100%" height="100%"/>
 						</a>
 					</div>
 					<div class="layer static slider-description" data-horizontal="65%" data-vertical="-2" data-width="35%" data-height="100%">
-						
-						<h1>
-							Cathedral
-						</h1>
-						<div class="content">
+						<div class="slider-right">
+							<h2 class="title"><a href="<?php the_permalink(); ?>"><?php the_title(); ?></a></h2>
+							<div class="post-details-slider">
+								<div class="post-details-rating" title="Rating: <?php echo $ratings; ?>">
+									<div class="post-details-rating-score" style="width:<?php echo $per; ?>%"></div>
+								</div>
+							</div>
+							<div class="post-details-slider">
+								<i class="fa fa-user fa-lg"> </i>
+								<span>Posted by <a class="post-details-author" title="Posts by <?php the_author(); ?>" href="<?php echo $author_url; ?>"><?php the_author(); ?></a></span>
+							</div>
+							<div class="post-details-slider">
+								<i class="fa fa-calendar fa-lg"> </i>
+								<span><?php echo $published_date; ?></span>
+							</div>
+							<div class="post-details-slider">
+								<i class="fa fa-eye fa-lg"> </i>
+								<span><?php echo $views; ?> Views</span>
+							</div>
 							<p>
-								The film is based on a short story by Jacek Dukaj under the same title. In 2002 "Cathedral" was awarded the main prize at SIGGRAPH festival ("Best Animated Short"). A year later it received an Oscar nomination in the category "Best Animated Short Film".
+								<?php echo strip_tags(limit_excerpt(get_the_content(),20)); ?>
 							</p>
-							<p>
-								SYNOPSIS: Story of a pilgrim who comes to the Cathedral on the border of the known world. He wants to find answers. He finds tranquility.
-							</p>
-							<p>
-								DIRECTOR: Tomasz Baginski
-							</p>
-						</div>
-						<div class="content">
-							<p>
-								The film is based on a short story by Jacek Dukaj under the same title. In 2002 "Cathedral" was awarded the main prize at SIGGRAPH festival ("Best Animated Short"). A year later it received an Oscar nomination in the category "Best Animated Short Film".
-							</p>
-							<p>
-								SYNOPSIS: Story of a pilgrim who comes to the Cathedral on the border of the known world. He wants to find answers. He finds tranquility.
-							</p>
-							<p>
-								DIRECTOR: Tomasz Baginski
-							</p>
-						</div>
-						<div class="link">
-							<p>
-								SOURCE: <a href="http://www.youtube.com/watch?v=msIjWthwWwI" target="_blank">youtube.com/watch?v=msIjWthwWwI</a>
-							</p>
+							<div class="more-link-slider">
+								<a href="<?php the_permalink(); ?>" class="btn btn-primary">More details <i class="fa fa-arrow-right"></i></a>
+							</div>
 						</div>
 					</div>
 				</div>
-				<div class="slide">
-					<div class="layer static" data-width="65%" data-height="100%" data-horizontal="-5" data-vertical="-2">
-						<a class="video" href="http://vimeo.com/3116167">
-							<img src="http://bqworks.com/products/advanced-slider/images/v4/videos/ark.jpg" width="100%" height="100%" />
-						 </a>
-						<!--<iframe src="//player.vimeo.com/video/40612295" width="100%" height="100%" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>-->
-					</div>
-					<div class="layer static slider-description" data-horizontal="65%" data-vertical="-2" data-width="35%" data-height="100%">
-						<div class="title">
-							<p>
-								ARK
-							</p>
-						</div>
-						<div class="content">
-							<p>
-								An unknown virus has destroyed almost the entire human population. Oblivious to the true nature of the disease, the only remaining survivors escape to the sea. In great ships, they set off in search of uninhabited land. So begins the exodus, led by one man.
-							</p>
-							<p>
-								DIRECTOR: Grzegorz Jonkajtys
-							</p>
-							<p>
-								PRODUCERS: Grzegorz Jonkajtys, Marcin Kobylecki
-							</p>
-							<p>
-								CO-PRODUCERS: Piotr Sikora, Jaroslaw Sawko (Platige Image)
-							</p>
-						</div>
-						<div class="link">
-							<p>
-								SOURCE: <a href="http://vimeo.com/3116167" target="_blank">vimeo.com/3116167</a>
-							</p>
-						</div>
-					</div>
-				</div>
+				<?php 
+					endwhile;
+					wp_reset_query();
+				?>
 			</div>
 		</div>
 

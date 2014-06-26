@@ -1,7 +1,7 @@
 <?php
 
 /*
-	Plugin Name: Slider PRO (Share on Theme123.Net)
+	Plugin Name: Slider PRO
 	Plugin URI: http://sliderpro.net
 	Description: Premium slider plugin for WordPress.
 	Version: 3.9.2

@@ -326,6 +326,7 @@ jQuery(document).ready(function($) {
 			timerStrokeWidth2: 3, 
 			effectType: 'fade', 
 			overrideTransition: 1, 
+			keyboardNavigation: 1,
 			slideProperties: {
 				0: {effectType: 'random'}, 
 				1: {effectType: 'slide', slideEasing: 'easeInOutExpo'}, 

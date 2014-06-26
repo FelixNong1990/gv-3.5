@@ -30,3 +30,8 @@
 - Remove uncategorized category from ajax search
 - Auto focus to the first list item in ajax search
 - Make image sprite of small images
+- Remove duplicated scripts
+- Add icons to dropdown menu
+- Dark background for single post page
+- Remove categories from ajax search
+- Remove featured categories from frond end post

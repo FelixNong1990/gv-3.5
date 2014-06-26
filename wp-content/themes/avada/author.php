@@ -150,7 +150,7 @@
 				}
 				endif;
 				?>
-				<div class="post-content-container">
+				<!--<div class="post-content-container">-->
 					<?php if($smof_data['blog_archive_layout'] == 'Timeline'): ?>
 					<div class="timeline-circle"></div>
 					<div class="timeline-arrow"></div>
@@ -347,7 +347,7 @@
 						<?php endif; ?>
 					</div>
 					<?php endif; ?>
-				</div>
+				<!--</div>-->
 			</div>
 			<?php
 			$prev_post_timestamp = $post_timestamp;
