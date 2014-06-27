@@ -93,7 +93,7 @@ if( ! class_exists( 'FusionCoreFrontendWalker' ) ) {
 			} elseif( $depth >= 2 && $this->menu_megamenu_status == "enabled" ) {
 				$output .= "\n$indent<ul class=\"sub-menu deep-level\">\n";
 			} else {
-				$output .= "\n$indent<ul class=\"sub-menu\">\n";
+				$output .= "\n$indent<div class=\"grid-container3\"><ul class=\"sub-menu\">\n";
 			}
 		}
 
@@ -146,7 +146,7 @@ if( ! class_exists( 'FusionCoreFrontendWalker' ) ) {
 					$output = str_replace( "{current_row_".$row."}", "fusion-megamenu-columns-".$columns." col-lg-" . $layout_columns . " col-md-" . $layout_columns . " col-sm-" . $layout_columns, $output );
 				}
 			} else {
-				$output .= "$indent</ul>\n";
+				$output .= "$indent</ul></div>\n";
 			}
 		}
 

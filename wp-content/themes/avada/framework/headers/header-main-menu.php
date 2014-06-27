@@ -1,6 +1,6 @@
 <?php global $smof_data, $woocommerce, $main_menu; ?>
 <?php if(!$smof_data['ubermenu']): ?>
-<ul class="navigation menu fusion-navbar-nav">
+<ul class="sky-mega-menu sky-mega-menu-response-to-icons sky-mega-menu-anim-flip">
 <?php endif; ?>
 	<?php
 	if(!$smof_data['ubermenu']) {

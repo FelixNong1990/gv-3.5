@@ -179,9 +179,9 @@ function onPlayerReady(slide) {
 
 		var sticky_mobile_menu_padding;
 
-		var sticky_header_height = 65;
+		var sticky_header_height = 55;
 		var sticky_top = jQuery('.sticky-header').css('top');
-		var sticky_start = sticky_top.replace('px','') - 55;
+		var sticky_start = sticky_top.replace('px','') - 45;
 		var logo = '.sticky-header .logo img.normal_logo';
 		var not_logo = '.sticky-header .logo img.retina_logo';
 		var orig_logo_height, orig_logo_width, logo_max_width, width_ratio, calc_width, calc_height,
@@ -198,7 +198,7 @@ function onPlayerReady(slide) {
 
 				if( anchor.length > 1 && jQuery(anchor).length && ! anchor_scrolling ) {
 					jQuery('html, body').animate({
-						scrollTop: jQuery(anchor).offset().top - adminbar_height - 65 + 1
+						scrollTop: jQuery(anchor).offset().top - adminbar_height - 55 + 1
 					}, 350, 'easeInOutExpo');
 					anchor_scrolling = 1;
 				}
@@ -243,19 +243,19 @@ function onPlayerReady(slide) {
 					calc_height = orig_logo_height * width_ratio;
 				}
 
-				if (calc_height > 55) {
+				if (calc_height > 45) {
 					logo_height = "55px";
 					logo_line_height = "55px";
-					logo_width =  55 / orig_logo_height * orig_logo_width;
+					logo_width =  45 / orig_logo_height * orig_logo_width;
 					logo_margin_top = "5px";
 				} else {
 					logo_height = calc_height+"px";
 					logo_line_height = calc_height+"px";
 					logo_width = calc_width;
-					logo_margin_top = (65 - calc_height) / 2;
+					logo_margin_top = (55 - calc_height) / 2;
 				}
 
-				sticky_mobile_menu_padding = logo_width+25;
+				sticky_mobile_menu_padding = logo_width+15;
 
 				jQuery('body #header-sticky.sticky-header .sticky-shadow .mobile-nav-holder').css('padding-left', sticky_mobile_menu_padding+"px");
 				logo_width = logo_width+"px";

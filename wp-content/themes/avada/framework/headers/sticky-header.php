@@ -27,8 +27,8 @@ if( ( ($smof_data['header_transparent'] && get_post_meta($c_pageID, 'pyre_transp
 				<?php endif; ?>
 			</a>
 		</div>
-		<nav id="sticky-nav" class="nav-holder">
-		<ul class="navigation menu fusion-navbar-nav">
+		<nav id="sticky-navigation">
+		<ul class="sky-mega-menu sky-mega-menu-response-to-icons sky-mega-menu-anim-flip">
 			<?php
 			if ( has_nav_menu( 'sticky_navigation' ) ) {
 				if(! $smof_data['disable_megamenu']) {
