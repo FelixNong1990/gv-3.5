@@ -363,18 +363,35 @@ jQuery(document).ready(function($) {
 		ev.preventDefault();
 		
 		$('#post_form').validate().form();
-		
-		var tags = $('li.tags'),
-			tagsOffset = parseInt(tags.find('.col-lg-8').offset().left,10),
-			tagsPadding = parseInt(tags.find('.col-lg-8').css('padding-left'),10),
-			tagsLeft = tagsOffset + tagsPadding + 'px';
-		$('.popover').eq(2).css('left',tagsLeft);
+
+		$('.wpuf-el').not('.post_content').each(function() {
+			var $this = $(this),
+				index = $(this).index('.wpuf-el'),
+				col   = $this.find('.col-lg-8'),
+				elOffsetLeft = parseInt(col.offset().left,10),
+				elPaddingLeft = parseInt(col.css('padding-left'),10),
+				elOffsetTop = parseInt(col.offset().top,10),
+				elPaddingTop = parseInt(col.css('padding'),10),
+				elHeight = parseInt(col.height(),10),
+				elLeft = elOffsetLeft + elPaddingLeft + 'px',
+				elTop = elOffsetTop - elPaddingTop - elHeight;
+			$('.popover').eq(index).css('left',elLeft);
+			$('.popover').eq(index).css('top',elOffsetTop);
+			console.log(elOffsetTop);
+		});
+
+			
 
 		return false;
 	});
 
 	$(window).resize(function() {
 		$.validator.reposition();
+		var tags = $('li.tags'),
+			tagsOffset = parseInt(tags.find('.col-lg-8').offset().left,10),
+			tagsPadding = parseInt(tags.find('.col-lg-8').css('padding-left'),10),
+			tagsLeft = tagsOffset + tagsPadding + 'px';
+		$('.popover').eq(2).css('left',tagsLeft);
 	});
 	
 	
