@@ -20,7 +20,7 @@
 	<meta property="og:url" content="<?php the_permalink(); ?>" />
 	<meta property='og:site_name' content='GameVeins' />
 	<meta property="og:image" content="http://i1.ytimg.com/vi/<?php echo $video_id; ?>/hqdefault.jpg" />
-	<meta name="description" content="The following is a guest post by Agop Shirinian. Agop ran into an interesting scenario where he needed an element to be scrollable in one direction, while"/>
+	<meta name="description" content="<?php echo get_stylesheet_directory(); ?>"/>
 	
 	<title>
 	<?php

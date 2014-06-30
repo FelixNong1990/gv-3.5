@@ -84,11 +84,11 @@ foreach ($category as $key) {
 				<?php
 				if($video_provider == 'youtube') {
 				?>
-					<!--<iframe width="854" height="480" src="https://www.youtube.com/embed/<?php echo $video_id; ?>?rel=0&autoplay=1" frameborder="0" allowfullscreen></iframe>-->
+					<iframe width="854" height="480" src="https://www.youtube.com/embed/<?php echo $video_id; ?>?rel=0&autoplay=1" frameborder="0" allowfullscreen></iframe>
 				<?php 
 				} else if($video_provider == 'vimeo') {
 				?>
-					<!--<object width="854" height="480"><param name="allowfullscreen" value="true" /><param name="allowscriptaccess" value="always" /><param name="movie" value="http://vimeo.com/moogaloop.swf?clip_id=<?php echo $video_id; ?>&amp;force_embed=1&amp;server=vimeo.com&amp;show_title=1&amp;show_byline=1&amp;show_portrait=1&amp;color=00adef&amp;fullscreen=1&amp;autoplay=1&amp;loop=0" /><embed src="http://vimeo.com/moogaloop.swf?clip_id=<?php echo $video_id; ?>&amp;force_embed=1&amp;server=vimeo.com&amp;show_title=1&amp;show_byline=1&amp;show_portrait=1&amp;color=00adef&amp;fullscreen=1&amp;autoplay=1&amp;loop=0" type="application/x-shockwave-flash" allowfullscreen="true" allowscriptaccess="always" width="854" height="480"></embed></object>-->
+					<object width="854" height="480"><param name="allowfullscreen" value="true" /><param name="allowscriptaccess" value="always" /><param name="movie" value="http://vimeo.com/moogaloop.swf?clip_id=<?php echo $video_id; ?>&amp;force_embed=1&amp;server=vimeo.com&amp;show_title=1&amp;show_byline=1&amp;show_portrait=1&amp;color=00adef&amp;fullscreen=1&amp;autoplay=1&amp;loop=0" /><embed src="http://vimeo.com/moogaloop.swf?clip_id=<?php echo $video_id; ?>&amp;force_embed=1&amp;server=vimeo.com&amp;show_title=1&amp;show_byline=1&amp;show_portrait=1&amp;color=00adef&amp;fullscreen=1&amp;autoplay=1&amp;loop=0" type="application/x-shockwave-flash" allowfullscreen="true" allowscriptaccess="always" width="854" height="480"></embed></object>
 				<?php
 				}
 				?>
