@@ -35,3 +35,4 @@
 - Dark background for single post page
 - Remove categories from ajax search
 - Remove featured categories from frond end post
+- Adjust header.php for homepage sice it does not have og meta tag
