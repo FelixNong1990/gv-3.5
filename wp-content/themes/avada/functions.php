@@ -155,10 +155,10 @@ function render_embed_code( $form_id, $post_id, $form_settings ) {
     ?>
 
 <label class="col-lg-2 control-label">Video embed code</label>
-<div class="col-lg-10">
+<div class="col-lg-8">
   <!-- <input type="text" value="<?php //echo esc_attr( $value ); ?>
   " name="post_field_embed_code" class="form-control" placeholder="Enter your embed code" /> -->
-  <textarea id="textarea" name="post_field_embed_code" rows="6" class="form-control" placeholder="Enter your embed code"><?php echo esc_attr( $value ); ?></textarea>
+  <textarea id="textarea" name="post_field_embed_code" rows="6" class="required form-control" placeholder="Enter your embed code"><?php echo esc_attr( $value ); ?></textarea>
 </div>
 <?php
 }
@@ -940,6 +940,7 @@ function myformatTinyMCE($in)
 {
   $in['height']=200;
   $in['paste_as_text']=true;
+  $in['content_css']= get_template_directory_uri() . "/editor-style.css";
   return $in;
 }
 add_filter('tiny_mce_before_init', 'myformatTinyMCE' );

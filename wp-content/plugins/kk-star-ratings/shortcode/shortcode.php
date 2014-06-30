@@ -12,8 +12,9 @@ if(!class_exists('BhittaniPlugin_kkStarRatings_Shortcode')) :
 
 			if ( get_user_option('rich_editing') == 'true') 
 			{
-				add_filter("mce_external_plugins", array("BhittaniPlugin_kkStarRatings_Shortcode","tinymce_custom_plugin"));
-				add_filter('mce_buttons', array("BhittaniPlugin_kkStarRatings_Shortcode",'tinymce_register_button'));
+				return;
+				//add_filter("mce_external_plugins", array("BhittaniPlugin_kkStarRatings_Shortcode","tinymce_custom_plugin"));
+				//add_filter('mce_buttons', array("BhittaniPlugin_kkStarRatings_Shortcode",'tinymce_register_button'));
 			}
 		}
 			 

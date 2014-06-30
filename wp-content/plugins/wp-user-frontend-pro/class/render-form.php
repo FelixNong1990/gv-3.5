@@ -264,7 +264,8 @@ class WPUF_Render_Form {
             ?>
 
             <?php if ( !$preview ) { ?>
-                <form class="wpuf-form-add form-horizontal" action="" method="post">
+				<!-- class="wpuf-form-add form-horizontal" -->
+                <form id="post_form" action="" method="post">
                 <?php } ?>
                 <fieldset>
                 <!--<legend>Add New Video</legend>-->
@@ -665,8 +666,8 @@ class WPUF_Render_Form {
             }
         }
         ?>
-        <div class="col-lg-10">
-            <input class="form-control" id="<?php echo $attr['name']; ?>" type="text" data-required="<?php echo $attr['required'] ?>" data-type="text"<?php $this->required_html5( $attr ); ?> name="<?php echo esc_attr( $attr['name'] ); ?>" placeholder="<?php echo esc_attr( $attr['placeholder'] ); ?>" value="<?php echo esc_attr( $value ) ?>" size="<?php echo esc_attr( $attr['size'] ) ?>" <?php echo $username ? 'disabled' : ''; ?> />
+        <div class="col-lg-8">
+            <input class="form-control required" id="<?php echo $attr['name']; ?>" type="text" data-required="<?php echo $attr['required'] ?>" data-type="text"<?php $this->required_html5( $attr ); ?> name="<?php echo esc_attr( $attr['name'] ); ?>" placeholder="<?php echo esc_attr( $attr['placeholder'] ); ?>" value="<?php echo esc_attr( $value ) ?>" size="<?php echo esc_attr( $attr['size'] ) ?>" <?php echo $username ? 'disabled' : ''; ?> />
             <?php 
 				if ( $taxonomy ) { 
 					global $wpdb;
@@ -747,7 +748,7 @@ class WPUF_Render_Form {
         }
         ?>
 
-        <div class="col-lg-10">
+        <div class="col-lg-8">
 
             <?php if ( isset( $attr['insert_image'] ) && $attr['insert_image'] == 'yes' ) { ?>
                 <div id="wpuf-insert-image-container">
@@ -1291,7 +1292,7 @@ class WPUF_Render_Form {
         }
         ?>
 
-        <div class="col-lg-10">
+        <div class="col-lg-8">
             <?php
             switch ($attr['type']) {
                 case 'select':
@@ -1333,7 +1334,7 @@ class WPUF_Render_Form {
                         'taxonomy' => $taxonomy,
                         'echo' => 0,
                         'title_li' => '',
-                        'class' => $taxonomy . ' multiselect',
+                        'class' => $taxonomy . ' multiselect required',
                         $exclude_type => $exclude,
                         'selected' => $selected,
                         'walker' => $walker
