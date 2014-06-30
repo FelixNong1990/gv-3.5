@@ -365,8 +365,8 @@ jQuery(document).ready(function($) {
 		$('#post_form').validate().form();
 		
 		var tags = $('li.tags'),
-			tagsOffset = tags.find('.col-lg-8').offset().left,
-			tagsPadding = tags.find('.col-lg-8').css('padding-left'),
+			tagsOffset = parseInt(tags.find('.col-lg-8').offset().left,10),
+			tagsPadding = parseInt(tags.find('.col-lg-8').css('padding-left'),10),
 			tagsLeft = tagsOffset + tagsPadding + 'px';
 		$('.popover').eq(2).css('left',tagsLeft);
 
