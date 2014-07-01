@@ -96,7 +96,7 @@
             e.preventDefault();
 
             var form = $(this),
-                submitButton = form.find('input[type=submit]')
+                submitButton = form.find('input[type=submit]'),
                 form_data = WP_User_Frontend.validateForm(form);
 
             if (form_data) {

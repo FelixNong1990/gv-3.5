@@ -265,7 +265,7 @@ class WPUF_Render_Form {
 
             <?php if ( !$preview ) { ?>
 				<!-- class="wpuf-form-add form-horizontal" -->
-                <form id="post_form" action="" method="post">
+                <form id="post_form" action="" class="form-horizontal wpuf-form-add" method="post">
                 <?php } ?>
                 <fieldset>
                 <!--<legend>Add New Video</legend>-->
@@ -307,7 +307,7 @@ class WPUF_Render_Form {
         $el_name = !empty( $form_field['name'] ) ? $form_field['name'] : '';
         $class_name = !empty( $form_field['css'] ) ? ' ' . $form_field['css'] : '';
 
-        printf( '<li class="wpuf-el form-group %s%s"><div class="form-group">', $el_name, $class_name );
+        printf( '<li class="wpuf-el %s%s"><div class="form-group">', $el_name, $class_name );
 
         if ( isset( $form_field['input_type'] ) && !in_array( $form_field['input_type'], $label_exclude ) ) {
             $this->label( $form_field, $post_id );
@@ -549,7 +549,7 @@ class WPUF_Render_Form {
      */
     function required_html5( $attr ) {
         if ( $attr['required'] == 'yes' ) {
-            echo ' required="required"';
+            //echo ' required="required"';
         }
     }
 
@@ -667,7 +667,7 @@ class WPUF_Render_Form {
         }
         ?>
         <div class="col-lg-8">
-            <input class="form-control required" id="<?php echo $attr['name']; ?>" type="text" data-required="<?php echo $attr['required'] ?>" data-type="text"<?php $this->required_html5( $attr ); ?> name="<?php echo esc_attr( $attr['name'] ); ?>" placeholder="<?php echo esc_attr( $attr['placeholder'] ); ?>" value="<?php echo esc_attr( $value ) ?>" size="<?php echo esc_attr( $attr['size'] ) ?>" <?php echo $username ? 'disabled' : ''; ?> />
+            <input class="form-control" id="<?php echo $attr['name']; ?>" type="text" data-type="text"<?php $this->required_html5( $attr ); ?> name="<?php echo esc_attr( $attr['name'] ); ?>" placeholder="<?php echo esc_attr( $attr['placeholder'] ); ?>" value="<?php echo esc_attr( $value ) ?>" size="<?php echo esc_attr( $attr['size'] ) ?>" <?php echo $username ? 'disabled' : ''; ?> />
             <?php 
 				if ( $taxonomy ) { 
 					global $wpdb;
@@ -1334,7 +1334,7 @@ class WPUF_Render_Form {
                         'taxonomy' => $taxonomy,
                         'echo' => 0,
                         'title_li' => '',
-                        'class' => $taxonomy . ' multiselect required',
+                        'class' => $taxonomy . ' multiselect',
                         $exclude_type => $exclude,
                         'selected' => $selected,
                         'walker' => $walker

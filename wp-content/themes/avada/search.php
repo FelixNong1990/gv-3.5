@@ -38,7 +38,7 @@
 			$page_num = $paged;
 			if ($pagenum='') { $pagenum = 1; }
 				global $query_string;
-				query_posts($query_string.'&posts_per_page='.$smof_data['search_results_per_page'].'&paged='.$page_num);
+				//query_posts($query_string.'&posts_per_page='.$smof_data['search_results_per_page'].'&paged='.$page_num);
 		} ?>
 
 		<?php if ( have_posts() && strlen( trim(get_search_query()) ) != 0 ) : ?>
@@ -46,9 +46,20 @@
 			<div class="search-page-search-form">
 				<!--<h2><?php //echo __('Need a new search?', 'Avada'); ?></h2>-->
 				<!--<p><?php //echo __('If you didn\'t find what you were looking for, try a new search!', 'Avada'); ?></p>-->
-				<form id="searchform" class="seach-form" role="search" method="get" action="<?php echo home_url( '/' ); ?>">
+				<!--<form id="searchform" class="seach-form" role="search" method="get" action="<?php echo home_url( '/' ); ?>">
 					<input type="text" value="<?php echo get_search_query(); ?>" name="s" id="s" placeholder="<?php _e( 'Search ...', 'Avada' ); ?>"/>
 					<input type="submit" id="searchsubmit" value="&#xf002;" />
+				</form>-->
+				
+				<form id="searchform" class="seach-form" role="search" method="get" action="<?php echo home_url( '/' ); ?>">
+					<div class="search-table">
+						<div class="search-field">
+							<input type="text" value="<?php echo get_search_query(); ?>" name="s" id="s" placeholder="<?php _e( 'Search ...', 'Avada' ); ?>"/>
+						</div>
+						<div class="search-button">
+							<input type="submit" id="searchsubmit" value="&#xf002;" />
+						</div>
+					</div>
 				</form>
 				
 			</div>
