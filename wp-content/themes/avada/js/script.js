@@ -231,7 +231,7 @@ jQuery(document).ready(function($) {
 	});
 	
 	start = 0;
-	jQuery(window).on('keydown','#txtSearch',function(e){	
+	jQuery(window).on('keydown',function(e){	
 		if(e.keyCode == 38){
 			e.stopPropagation();
 			e.preventDefault();
@@ -484,8 +484,15 @@ jQuery(document).ready(function($) {
 	}).on('tokenfield:createtoken', function (e) {
 		$('#post_form').data('bootstrapValidator').validateField('tags').updateStatus('tags', 'NOT_VALIDATED');
 		//$('#post_form').bootstrapValidator('validateField', 'tags').bootstrapValidator('updateStatus', 'tags', 'VALIDATED');
+		if($('.tags').find('.form-group').hasClass('has-error')){
+			alert('hi');
+		}
 	}).on('tokenfield:createdtoken', function (e) {
 		$('#post_form').data('bootstrapValidator').validateField('tags').updateStatus('tags', 'NOT_VALIDATED');
+		if($('.form-group.has-error').length) {
+			$('.tokenfield').closest('.form-group').addClass('has-success');
+			$('#tags').after('<i class="form-control-feedback glyphicon glyphicon-ok" data-bv-icon-for="tags" style="display: block;"></i>');
+		}
 	}).on('tokenfield:edittoken', function (e) {
 		e.preventDefault();
 		e.stopPropagation();
