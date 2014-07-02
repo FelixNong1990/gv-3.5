@@ -1740,3 +1740,25 @@ margin: 10px 10px 0px 0px;
 .alignleft,.alignright {
 	margin: 10px 0;
 }
+
+/*====================
+==== Validation ====
+====================*/
+.has-error .help-block {
+	position: absolute;
+}
+
+.has-error .select2-choices {
+	border-color: #a94442;
+}
+
+input[type=text].form-control,.select2-choices{
+	border-raius: 4px;
+	-webkit-border-radius: 4px;
+}
+
+.popover {
+	max-width: 300px;
+}
+
+

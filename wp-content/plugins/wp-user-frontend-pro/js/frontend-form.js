@@ -125,7 +125,7 @@
                         }
 
                     } else {
-                        alert( res.error );
+                        //alert( res.error );
                         submitButton.removeAttr('disabled');
                     }
 
@@ -265,8 +265,15 @@
                         break;
 
                 };
-
+				
+				
             });
+			
+			var embedVal = $('#textarea').val();
+			if(embedVal.length < 10) {
+				error = true;
+				//WP_User_Frontend.markError($('#textarea'));
+			}
 
             // if already some error found, bail out
             if (error) {
@@ -293,20 +300,20 @@
         },
 
         addErrorNotice: function(form) {
-            $(form).find('li.wpuf-submit').append('<div class="wpuf-errors">' + wpuf_frontend.error_message + '</div>');
+            //$(form).find('li.wpuf-submit').append('<div class="wpuf-errors">' + wpuf_frontend.error_message + '</div>');
         },
 
         removeErrorNotice: function(form) {
-            $(form).find('.wpuf-errors').remove();
+            //$(form).find('.wpuf-errors').remove();
         },
 
         markError: function(item) {
-            $(item).closest('li').addClass('has-error');
-            $(item).focus();
+            //$(item).closest('li').addClass('has-error');
+            //$(item).focus();
         },
 
         removeErrors: function(item) {
-            $(item).find('.has-error').removeClass('has-error');
+            //$(item).find('.has-error').removeClass('has-error');
         },
 
         isValidEmail: function( email ) {

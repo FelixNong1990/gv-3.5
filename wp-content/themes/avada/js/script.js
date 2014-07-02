@@ -231,7 +231,7 @@ jQuery(document).ready(function($) {
 	});
 	
 	start = 0;
-	jQuery(window).keydown(function(e){	
+	jQuery(window).on('keydown','#txtSearch',function(e){	
 		if(e.keyCode == 38){
 			e.stopPropagation();
 			e.preventDefault();
@@ -431,6 +431,7 @@ jQuery(document).ready(function($) {
 	
 	$('#post_form').bootstrapValidator({
 		//excluded: [':disabled', ':hidden', ':not(:visible)'],
+		live: 'submitted',
 		message: 'This value is not valid',
         feedbackIcons: {
             valid: 'glyphicon glyphicon-ok',
@@ -441,7 +442,7 @@ jQuery(document).ready(function($) {
             post_title: {
                 validators: {
                     notEmpty: {
-                        message: 'The title is required and cannot be empty'
+                        message: "You can't leave this empty."
                     },
 					stringLength: {
 						max: 50,
@@ -453,14 +454,21 @@ jQuery(document).ready(function($) {
 			'category[]': {
 				validators: {
 					notEmpty: {
-                        message: 'The category is required'
+                        message: "You can't leave this empty."
                     }
 				}
 			},
 			'tags': {
 				validators: {
 					notEmpty: {
-                        message: 'The tag is required'
+                        message: "You can't leave this empty."
+                    }
+				}
+			},
+			'post_field_embed_code': {
+				validators: {
+					notEmpty: {
+                        message: "You can't leave this empty."
                     }
 				}
 			}
@@ -470,13 +478,56 @@ jQuery(document).ready(function($) {
 		}
     });
 	
-	$('#tags').on('tokenfield:createdtoken', function (e) {
-		$('#post_form').data('bootstrapValidator').updateStatus('tags', 'NOT_VALIDATED').validateField('tags');
+	$('#tags').on('tokenfield:initialize', function (e) {
+		//$('#post_form').data('bootstrapValidator').validateField('tags').updateStatus('tags', 'NOT_VALIDATED');
 		//$('#post_form').bootstrapValidator('validateField', 'tags').bootstrapValidator('updateStatus', 'tags', 'VALIDATED');
+	}).on('tokenfield:createtoken', function (e) {
+		$('#post_form').data('bootstrapValidator').validateField('tags').updateStatus('tags', 'NOT_VALIDATED');
+		//$('#post_form').bootstrapValidator('validateField', 'tags').bootstrapValidator('updateStatus', 'tags', 'VALIDATED');
+	}).on('tokenfield:createdtoken', function (e) {
+		$('#post_form').data('bootstrapValidator').validateField('tags').updateStatus('tags', 'NOT_VALIDATED');
 	}).on('tokenfield:edittoken', function (e) {
-		$('#post_form').data('bootstrapValidator').updateStatus('tags', 'NOT_VALIDATED').validateField('tags');
+		e.preventDefault();
+		e.stopPropagation();
 	}).on('tokenfield:removedtoken', function (e) {
 		$('#post_form').data('bootstrapValidator').updateStatus('tags', 'NOT_VALIDATED').validateField('tags');
 	});
 	
+	$("input[type=submit]").click(function(ev) {
+		var colWidth = parseInt($('li.category').find('.col-lg-8').width(),10),
+			select2Width = parseInt($('#s2id_category').width(),10),
+			right = colWidth - select2Width + 15;
+		$('li.category i').css('right',right + 'px');
+	});
+	
+	// Hide all popover
+	$('body').on('click', function (e) {
+		$('[data-toggle="popover"]').each(function () {
+			//the 'is' for buttons that trigger popups
+			//the 'has' for icons within a button that triggers a popup
+			if (!$(this).is(e.target) && $(this).has(e.target).length === 0 && $('.popover').has(e.target).length === 0) {
+				$(this).popover('hide');
+			}
+		});
+	});
+	
+	$('#post_title,#s2id_category,.tokenfield,#wp-post_content-wrap').attr({"data-toggle": 'popover'});
+	
+	//$('#post_title,#s2id_category,.tokenfield,#wp-post_content-wrap').popover({trigger: 'focus'});
+	$('#post_title,#s2id_category,.tokenfield').click(function() {
+		$('#wp-post_content-wrap').popover('hide');
+	});
+	
+	$('[data-toggle="popover"]').on('click', function (e) {
+		$('[data-toggle="popover"]').not(this).popover('hide');
+	});
+	
+	$(document.body).on('click','.popover-content',function() {
+		$('[data-toggle="popover"]').popover('hide');
+	});
+	
+	$('#post_title').attr({"data-content": "Pick a name for your video."});
+	$('#wp-post_content-wrap').attr({"data-content": "Enter some details about this video."});
+	$('#s2id_category').attr({"data-content": "Choose any category which your video belongs to. Maximum of three categories allowed."});
+	$('.tokenfield').attr({"data-content": "Tags are keywords or terms that describe your video. You can use up to 10 tags for each video. Please enter the relevant tags only."});
 });

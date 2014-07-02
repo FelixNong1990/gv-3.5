@@ -158,7 +158,7 @@ function render_embed_code( $form_id, $post_id, $form_settings ) {
 <div class="col-lg-8">
   <!-- <input type="text" value="<?php //echo esc_attr( $value ); ?>
   " name="post_field_embed_code" class="form-control" placeholder="Enter your embed code" /> -->
-  <textarea id="textarea" name="post_field_embed_code" rows="6" class="required form-control" placeholder="Enter your embed code"><?php echo esc_attr( $value ); ?></textarea>
+  <textarea data-toggle="popover" data-content="Please enter your embed code from either Youtube or Vimeo." id="textarea" name="post_field_embed_code" rows="6" class="required form-control" placeholder="Enter your embed code"><?php echo esc_attr( $value ); ?></textarea>
 </div>
 <?php
 }
@@ -941,6 +941,13 @@ function myformatTinyMCE($in)
   $in['height']=200;
   $in['paste_as_text']=true;
   $in['content_css']= get_template_directory_uri() . "/editor-style.css";
+  $in['setup'] = 'function(ed) {
+					ed.on(\'click\', function(e) {
+						jQuery("#wp-post_content-wrap").popover("show");
+						jQuery(\'[data-toggle="popover"]\').not("#wp-post_content-wrap").popover("hide");
+						console.log(\'Editor was clicked\');
+					});
+				}';
   return $in;
 }
 add_filter('tiny_mce_before_init', 'myformatTinyMCE' );
@@ -1717,9 +1724,14 @@ function avada_scripts() {
 		</script>
 <?php
 		// Add main javascript file
-		wp_deregister_script('script');
-		wp_register_script('script', get_bloginfo('template_directory') . '/js/script.js', array(), null, true);
-		wp_enqueue_script('script');
+		//wp_deregister_script('script');
+		//wp_register_script('script', get_bloginfo('template_directory') . '/js/script.js', array(), null, true);
+		//wp_enqueue_script('script');
+		
+		add_action( 'after_wp_tiny_mce', 'custom_after_wp_tiny_mce' );
+		function custom_after_wp_tiny_mce() {
+			printf( '<script type="text/javascript" src="%s"></script>',  get_bloginfo('template_directory') . '/js/script.js', __FILE__);
+		}
 		
 		if(get_post_meta($c_pageID, 'pyre_fimg_width', true) == 'auto' && get_post_meta($c_pageID, 'pyre_width', true) == 'half') {
 			$smoothHeight = 'true';
