@@ -37,3 +37,4 @@
 - Remove featured categories from frond end post
 - Adjust header.php for homepage sice it does not have og meta tag
 - Add support for IE8 by adding conditional tag: form validation, slider
+- Add video preview

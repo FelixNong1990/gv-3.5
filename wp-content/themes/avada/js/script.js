@@ -483,10 +483,7 @@ jQuery(document).ready(function($) {
 		//$('#post_form').bootstrapValidator('validateField', 'tags').bootstrapValidator('updateStatus', 'tags', 'VALIDATED');
 	}).on('tokenfield:createtoken', function (e) {
 		$('#post_form').data('bootstrapValidator').validateField('tags').updateStatus('tags', 'NOT_VALIDATED');
-		//$('#post_form').bootstrapValidator('validateField', 'tags').bootstrapValidator('updateStatus', 'tags', 'VALIDATED');
-		if($('.tags').find('.form-group').hasClass('has-error')){
-			alert('hi');
-		}
+		//$('#post_form').bootstrapValidator('validateField', 'tags').bootstrapValidator('updateStatus', 'tags', 'VALIDATED');		
 	}).on('tokenfield:createdtoken', function (e) {
 		$('#post_form').data('bootstrapValidator').validateField('tags').updateStatus('tags', 'NOT_VALIDATED');
 		if($('.form-group.has-error').length) {
@@ -497,7 +494,9 @@ jQuery(document).ready(function($) {
 		e.preventDefault();
 		e.stopPropagation();
 	}).on('tokenfield:removedtoken', function (e) {
-		$('#post_form').data('bootstrapValidator').updateStatus('tags', 'NOT_VALIDATED').validateField('tags');
+		if( this.value.replace(/\s+/g, '').toLowerCase().length == 0 && $('.tags > .form-group').hasClass('has-success')) {
+			$('#post_form').data('bootstrapValidator').updateStatus('tags', 'NOT_VALIDATED').validateField('tags');
+		}
 	});
 	
 	$("input[type=submit]").click(function(ev) {
@@ -508,7 +507,7 @@ jQuery(document).ready(function($) {
 	});
 	
 	// Hide all popover
-	$('body').on('click', function (e) {
+	$('body').on('mousedown', function (e) {
 		$('[data-toggle="popover"]').each(function () {
 			//the 'is' for buttons that trigger popups
 			//the 'has' for icons within a button that triggers a popup
@@ -519,8 +518,7 @@ jQuery(document).ready(function($) {
 	});
 	
 	$('#post_title,#s2id_category,.tokenfield,#wp-post_content-wrap').attr({"data-toggle": 'popover'});
-	
-	//$('#post_title,#s2id_category,.tokenfield,#wp-post_content-wrap').popover({trigger: 'focus'});
+	//$('[data-toggle="popover"]').popover({trigger: 'focus',container:'body'});
 	$('#post_title,#s2id_category,.tokenfield').click(function() {
 		$('#wp-post_content-wrap').popover('hide');
 	});
@@ -533,8 +531,17 @@ jQuery(document).ready(function($) {
 		$('[data-toggle="popover"]').popover('hide');
 	});
 	
+	$(document.body).on('click','button[role="presentation"]',function(e) {
+		$("#wp-post_content-wrap").popover("hide");
+	});
+	
+	// $(document.body).on('focus','.tokenfield',function(e) {
+		// e.stopImmediatePropagation();
+		// $(this).popover('show');
+	// });
+	
 	$('#post_title').attr({"data-content": "Pick a name for your video."});
-	$('#wp-post_content-wrap').attr({"data-content": "Enter some details about this video."});
+	$('#wp-post_content-wrap').attr({"data-content": "Provide some details about this video."});
 	$('#s2id_category').attr({"data-content": "Choose any category which your video belongs to. Maximum of three categories allowed."});
 	$('.tokenfield').attr({"data-content": "Tags are keywords or terms that describe your video. You can use up to 10 tags for each video. Please enter the relevant tags only."});
 });

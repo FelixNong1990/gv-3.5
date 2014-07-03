@@ -88,10 +88,19 @@ clear: both;
 
 #post_content_ifr {
 	border-left: 1px solid #ebebeb;
-	border-right: 2px solid #ebebeb;
+	border-right: 1px solid #ebebeb;
+	border-radius: 0 0 5px 5px;
 }
 
+div.mce-statusbar {
+	border-top: 0;
+}
 
+#mce_43 {
+	margin-right: -2px;
+	border: 1px solid #dedede;
+	border-radius: 5px 5px 0 0;
+}
 
 #mce_29{
 	background: #ebebeb !important;
@@ -1759,6 +1768,31 @@ input[type=text].form-control,.select2-choices{
 
 .popover {
 	max-width: 300px;
+	background: #1e73be!important;
+	color: #fff;
+	box-shadow: 1px 1px 5px rgba(0, 0, 0, 1);
+	border-color: #000;
 }
+
+.popover.right .arrow:before {
+	right: -10px;
+	bottom: -10px;
+	border: solid transparent;
+	content: " ";
+	height: 0;
+	width: 0;
+	position: absolute;
+	pointer-events: none;
+	border-color: rgba(194, 225, 245, 0);
+	border-right-color: #444;
+	border-width: 11px;
+}
+
+.popover.right .arrow:after {
+	border-right-color:#1e73be;
+}
+
+
+
 
 

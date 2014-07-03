@@ -942,11 +942,29 @@ function myformatTinyMCE($in)
   $in['paste_as_text']=true;
   $in['content_css']= get_template_directory_uri() . "/editor-style.css";
   $in['setup'] = 'function(ed) {
-					ed.on(\'click\', function(e) {
-						jQuery("#wp-post_content-wrap").popover("show");
-						jQuery(\'[data-toggle="popover"]\').not("#wp-post_content-wrap").popover("hide");
-						console.log(\'Editor was clicked\');
+					//var flag = false;
+					ed.on("click", function(e) {
+						//e.stopImmediatePropagation();
+						//console.log(flag);
+						// if(flag) {
+							// jQuery("#wp-post_content-wrap").popover("hide");
+							// flag = false;
+						// } else {
+							jQuery("#wp-post_content-wrap").popover("show");
+							jQuery(\'[data-toggle="popover"]\').not("#wp-post_content-wrap").popover("hide");
+							//flag = true;
+						//}
 					});
+					// ed.on("focus", function(e) {
+						// e.stopImmediatePropagation();
+						// jQuery("#wp-post_content-wrap").popover("show");
+						// jQuery(\'[data-toggle="popover"]\').not("#wp-post_content-wrap").popover("hide");
+						
+					// });
+					// ed.on("blur", function(e) {
+						// e.stopImmediatePropagation();
+						// jQuery("#wp-post_content-wrap").popover("hide");
+					// });
 				}';
   return $in;
 }
