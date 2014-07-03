@@ -944,7 +944,7 @@ function myformatTinyMCE($in)
   $in['setup'] = 'function(ed) {
 					//var flag = false;
 					ed.on("click", function(e) {
-						//e.stopImmediatePropagation();
+						e.stopImmediatePropagation();
 						//console.log(flag);
 						// if(flag) {
 							// jQuery("#wp-post_content-wrap").popover("hide");
@@ -955,16 +955,16 @@ function myformatTinyMCE($in)
 							//flag = true;
 						//}
 					});
-					// ed.on("focus", function(e) {
-						// e.stopImmediatePropagation();
-						// jQuery("#wp-post_content-wrap").popover("show");
-						// jQuery(\'[data-toggle="popover"]\').not("#wp-post_content-wrap").popover("hide");
+					ed.on("focus", function(e) {
+						e.stopImmediatePropagation();
+						jQuery("#wp-post_content-wrap").popover("show");
+						jQuery(\'[data-toggle="popover"]\').not("#wp-post_content-wrap").popover("hide");
 						
-					// });
-					// ed.on("blur", function(e) {
-						// e.stopImmediatePropagation();
-						// jQuery("#wp-post_content-wrap").popover("hide");
-					// });
+					});
+					ed.on("blur", function(e) {
+						e.stopImmediatePropagation();
+						jQuery("#wp-post_content-wrap").popover("hide");
+					});
 				}';
   return $in;
 }
@@ -1742,14 +1742,14 @@ function avada_scripts() {
 		</script>
 <?php
 		// Add main javascript file
-		//wp_deregister_script('script');
-		//wp_register_script('script', get_bloginfo('template_directory') . '/js/script.js', array(), null, true);
-		//wp_enqueue_script('script');
+		wp_deregister_script('script');
+		wp_register_script('script', get_bloginfo('template_directory') . '/js/script.js', array(), null, true);
+		wp_enqueue_script('script');
 		
-		add_action( 'after_wp_tiny_mce', 'custom_after_wp_tiny_mce' );
-		function custom_after_wp_tiny_mce() {
-			printf( '<script type="text/javascript" src="%s"></script>',  get_bloginfo('template_directory') . '/js/script.js', __FILE__);
-		}
+		// add_action( 'after_wp_tiny_mce', 'custom_after_wp_tiny_mce' );
+		// function custom_after_wp_tiny_mce() {
+		// 	printf( '<script type="text/javascript" src="%s"></script>',  get_bloginfo('template_directory') . '/js/script.js', __FILE__);
+		// }
 		
 		if(get_post_meta($c_pageID, 'pyre_fimg_width', true) == 'auto' && get_post_meta($c_pageID, 'pyre_width', true) == 'half') {
 			$smoothHeight = 'true';

@@ -518,10 +518,10 @@ jQuery(document).ready(function($) {
 	});
 	
 	$('#post_title,#s2id_category,.tokenfield,#wp-post_content-wrap').attr({"data-toggle": 'popover'});
-	//$('[data-toggle="popover"]').popover({trigger: 'focus',container:'body'});
-	$('#post_title,#s2id_category,.tokenfield').click(function() {
-		$('#wp-post_content-wrap').popover('hide');
-	});
+	$('[data-toggle="popover"]').popover({trigger: 'focus',container:'body'});
+	// $('#post_title,#s2id_category,.tokenfield').click(function() {
+	// 	$('#wp-post_content-wrap').popover('hide');
+	// });
 	
 	$('[data-toggle="popover"]').on('click', function (e) {
 		$('[data-toggle="popover"]').not(this).popover('hide');
