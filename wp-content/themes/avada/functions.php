@@ -943,27 +943,44 @@ function myformatTinyMCE($in)
   $in['content_css']= get_template_directory_uri() . "/editor-style.css";
   $in['setup'] = 'function(ed) {
 					//var flag = false;
-					ed.on("click", function(e) {
-						e.stopImmediatePropagation();
-						//console.log(flag);
-						// if(flag) {
-							// jQuery("#wp-post_content-wrap").popover("hide");
-							// flag = false;
-						// } else {
-							jQuery("#wp-post_content-wrap").popover("show");
-							jQuery(\'[data-toggle="popover"]\').not("#wp-post_content-wrap").popover("hide");
-							//flag = true;
-						//}
-					});
+					// ed.on("click", function(e) {
+						// //console.log(flag);
+						// // if(flag) {
+							// // jQuery("#wp-post_content-wrap").popover("hide");
+							// // flag = false;
+						// // } else {
+							// jQuery("#wp-post_content-wrap").popover("show");
+							// jQuery(\'[data-toggle="popover"]\').not("#wp-post_content-wrap").popover("hide");
+							// //flag = true;
+						// //}
+					// });
 					ed.on("focus", function(e) {
-						e.stopImmediatePropagation();
 						jQuery("#wp-post_content-wrap").popover("show");
 						jQuery(\'[data-toggle="popover"]\').not("#wp-post_content-wrap").popover("hide");
 						
 					});
 					ed.on("blur", function(e) {
-						e.stopImmediatePropagation();
 						jQuery("#wp-post_content-wrap").popover("hide");
+					});
+					
+					var lastFocusedElement = null;
+					var isClick = false;
+					ed.on("mousedown",function(e) {     
+						isClick= true;
+						jQuery("#wp-post_content-wrap").popover("show");
+						jQuery(\'[data-toggle="popover"]\').not("#wp-post_content-wrap").popover("hide");	
+					}).on("focus",function(e){
+						// To prevent focus firing when element already had focus
+						if (lastFocusedElement != e.target) {
+							if (isClick) {
+								// Do nothing
+							} else {
+								jQuery("#wp-post_content-wrap").popover("show");
+								jQuery(\'[data-toggle="popover"]\').not("#wp-post_content-wrap").popover("hide");	
+							}
+							lastFocusedElement = e.target;
+							isClick = false;
+						}
 					});
 				}';
   return $in;

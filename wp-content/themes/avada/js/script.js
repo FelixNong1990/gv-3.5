@@ -96,6 +96,9 @@ jQuery(document).ready(function($) {
 		escapeMarkup: function (m) {
 			return m;
 		}
+	}).on("select2-focus", function(e) {
+		var closestPopover = $('#s2id_category').closest('[data-toggle="popover"]');
+		$('[data-toggle="popover"]').not(closestPopover).popover('hide');
 	});
 	
 	$(document).on('click','[aria-label="Toolbar Toggle"]',function() {
@@ -228,6 +231,10 @@ jQuery(document).ready(function($) {
 		  return '<span class="' + $(this).attr('class') + '" style="background:url(' + $(this).attr('src') + ') no-repeat; width: ' + $(this).width() + '100%; height: ' + $(this).height() + 'px;" />';
 		});
 		$(this).css("opacity","0");
+	});
+	
+	$(document.body).on('keydown','#main *',function(e) {
+		e.stopPropagation();
 	});
 	
 	start = 0;
@@ -420,12 +427,94 @@ jQuery(document).ready(function($) {
 			}
 		});
 	});*/
+	
+	var regYoutube = /^.*((youtu.be\/)|(v\/)|(\/u\/\w\/)|(embed\/)|(watch\?))\??v?=?([^#\&\?]*).*/;
+	var regVimeo = /^.*(vimeo\.com\/)((channels\/[A-z]+\/)|(groups\/[A-z]+\/videos\/))?([0-9]+)/;
+	var regDailymotion = /^.+dailymotion.com\/(video|hub)\/([^_]+)[^#]*(#video=([^_&]+))?/;
+	var regMetacafe = /^.*(metacafe\.com)(\/watch\/)(\d+)(.*)/i;
+	
+	function check_url(url) {
+		if(regYoutube.test(url)) {
+			return 'youtube';
+		}else if (regMetacafe.test(url)) {
+			return 'metacafe';
+		}else if(regDailymotion.test(url)){
+			return 'dailymotion';
+		}else if(regVimeo.test(url)) {
+			return 'vimeo';
+		}else{
+			return "invalid";
+		}
+	}
+
+	function youtube_parser(url){
+		var regExp = /(?:https?:\/\/)?(?:www\.)?(?:youtu\.be\/|youtube\.com(?:\/embed\/|\/v\/|\/watch\?v=))([\w-]{10,12})/i,
+			id;
+			
+		if(regExp.test(url)) {
+			id = regExp.exec(url)[1];
+		}
+		
+		return id;
+	}
+	
+	function vimeo_parser(url){
+		var regExp = /^.*(vimeo\.com\/)((channels\/[A-z]+\/)|(groups\/[A-z]+\/videos\/))?([0-9]+)/i,
+			id;
+			
+		if(regExp.test(url)) {
+			id = regExp.exec(url)[5];
+		}
+		
+		return id;
+	}
+
+
 	(function($) {
-    $.fn.bootstrapValidator.validators.tagsValidator = {
+    $.fn.bootstrapValidator.validators.embedValidator = {
 			validate: function(validator, $field, options) {
-				var value = $field.val();
+				var message,
+					url = $field.val(),
+					vidId,
+					vidPlatform = check_url(url);
+				if($.trim(url.length) > 0) { 
+					
+					if(vidPlatform.toLowerCase() != "invalid") {
+						if(vidPlatform.toLowerCase() == "youtube") {
+							vidId = youtube_parser(url);
+							if(vidId && vidId.length >= 11) {
+								message = vidId;
+								return true;
+							} else {
+								message = "Invalid Youtube embed code";
+								$('[data-bv-validator="embedValidator"]').text(message);
+								return false;
+							}
+						} else if(vidPlatform.toLowerCase() == "vimeo") {
+							vidId = vimeo_parser(url);
+							if(vidId && vidId.length >= 8) {
+								message = vidId;
+								return true;
+							} else {
+								
+								message = "Invalid Vimeo embed code";
+								$('[data-bv-validator="embedValidator"]').text(message);
+								return false;
+							}
+						} else {
+							message = "Sorry! We're not supported this platform."
+							$('[data-bv-validator="embedValidator"]').text(message);
+							return false;
+						}
+					} else {
+						message = "Invalid URL";
+						$('[data-bv-validator="embedValidator"]').text(message);
+						return false;
+					}
+				}
 				
 			}
+			
 		};
 	}(window.jQuery));
 	
@@ -469,7 +558,10 @@ jQuery(document).ready(function($) {
 				validators: {
 					notEmpty: {
                         message: "You can't leave this empty."
-                    }
+                    },
+					embedValidator: {
+						message: "The embed code is invalid."
+					}
 				}
 			}
         },
@@ -507,8 +599,7 @@ jQuery(document).ready(function($) {
 	});
 	
 	// Hide all popover
-	$('body').on('mousedown', function (e) {
-		$('[data-toggle="popover"]').blur();
+	$('body').on('click', function (e) {
 		$('[data-toggle="popover"]').each(function () {
 			//the 'is' for buttons that trigger popups
 			//the 'has' for icons within a button that triggers a popup
@@ -519,14 +610,69 @@ jQuery(document).ready(function($) {
 	});
 	
 	$('#post_title,#s2id_category,.tokenfield,#wp-post_content-wrap').attr({"data-toggle": 'popover'});
-	$('[data-toggle="popover"]').popover({trigger: 'focus',container:'body'});
+	$('[data-toggle="popover"]').popover({trigger: 'click',container:'body'});
 	
 	// $('#post_title,#s2id_category,.tokenfield').click(function() {
 	// 	$('#wp-post_content-wrap').popover('hide');
 	// });
 	
-	$('[data-toggle="popover"]').on('click', function (e) {
-		$('[data-toggle="popover"]').not(this).popover('hide');
+	// $('[data-toggle="popover"]').on('focus click', function (e) {
+		// e.stopImmediatePropagation();
+		// if($(this).is('[data-toggle="popover"]')) {
+			// console.log('hiu');
+			// $(this).popover('show');
+		// } else {
+			// $(this).closest('[data-toggle="popover"]').popover('show');
+		// }
+		// $('[data-toggle="popover"]').not(this).popover('hide');
+	// });
+	
+	// var mouseDown, currentTarget;
+	// $('[data-toggle="popover"],:input').on({
+		// "mousedown mouseup": function (e) {
+			// e.stopPropagation();
+			// console.log('1');
+			// mouseDown = e.type === "mousedown";
+			// currentTarget = e.target;
+		// },
+		// "focus": function (e) {
+			// e.stopPropagation();
+			// console.log('2');
+			// if (mouseDown && currentTarget === e.target) return;
+			// if($(this).data('toggle') == 'popover') {
+				// $(this).popover('show');
+				// $('[data-toggle="popover"]').not(this).popover('hide');
+			// } else {
+				// var closestPopover = $(this).closest('[data-toggle="popover"]');
+				// closestPopover.popover('show');
+				// $('[data-toggle="popover"]').not(closestPopover).popover('hide');
+			// }
+		// }
+	// });
+	
+	var lastFocusedElement = null;
+	var isClick = false;
+	$('[data-toggle="popover"],:input').mousedown(function(e) {
+		isClick= true;
+	}).focus(function(e){
+		
+		// To prevent focus firing when element already had focus
+		if (lastFocusedElement != e.target) {
+			if (isClick) {
+			  //console.log('click ----', new Date());
+			} else {
+				if($(this).data('toggle') == 'popover') {
+					$(this).popover('show');
+					$('[data-toggle="popover"]').not(this).popover('hide');
+				} else {
+					var closestPopover = $(this).closest('[data-toggle="popover"]');
+					closestPopover.popover('show');
+					$('[data-toggle="popover"]').not(closestPopover).popover('hide');
+				}
+			}
+			lastFocusedElement = e.target;
+			isClick = false;
+		}
 	});
 	
 	$(document.body).on('click','.popover-content',function() {
