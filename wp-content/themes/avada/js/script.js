@@ -508,6 +508,7 @@ jQuery(document).ready(function($) {
 	
 	// Hide all popover
 	$('body').on('mousedown', function (e) {
+		$('[data-toggle="popover"]').blur();
 		$('[data-toggle="popover"]').each(function () {
 			//the 'is' for buttons that trigger popups
 			//the 'has' for icons within a button that triggers a popup
@@ -518,7 +519,7 @@ jQuery(document).ready(function($) {
 	});
 	
 	$('#post_title,#s2id_category,.tokenfield,#wp-post_content-wrap').attr({"data-toggle": 'popover'});
-	//$('[data-toggle="popover"]').popover({trigger: 'focus',container:'body'});
+	$('[data-toggle="popover"]').popover({trigger: 'focus',container:'body'});
 	$('#post_title,#s2id_category,.tokenfield').click(function() {
 		$('#wp-post_content-wrap').popover('hide');
 	});
